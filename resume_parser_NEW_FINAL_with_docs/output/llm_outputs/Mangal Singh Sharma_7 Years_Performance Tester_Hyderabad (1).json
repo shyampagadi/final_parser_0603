@@ -1,0 +1,88 @@
+{
+  "resume_id": "2c01ae89-f39a-4e19-bad6-87b3622f8787",
+  "full_name": "Mangal Singh Sharma",
+  "name": "Mangal Singh Sharma",
+  "email": "",
+  "phone_number": "",
+  "address": "Hyderabad",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Highly motivated and dedicated performance tester with 7 years of experience in the IT industry. Proven track record of delivering high-quality results in fast-paced environments. Skilled in performance testing, load testing, and stress testing. Proficient in using various tools and technologies to ensure optimal system performance.",
+  "total_experience": 7.0,
+  "skills": [
+    "Performance Testing",
+    "Load Testing",
+    "Stress Testing",
+    "JMeter",
+    "Gatling",
+    "NeoLoad",
+    "LoadRunner",
+    "Postman",
+    "JIRA",
+    "Agile"
+  ],
+  "positions": [
+    "Performance Tester"
+  ],
+  "companies": [
+    {
+      "name": "HCL Technologies",
+      "role": "Performance Tester",
+      "description": "Worked as a performance tester in the IT industry, responsible for ensuring optimal system performance.",
+      "duration": "01/2018-12/2020",
+      "technologies": [
+        "JMeter",
+        "Gatling",
+        "NeoLoad"
+      ]
+    },
+    {
+      "name": "Tech Mahindra",
+      "role": "Performance Tester",
+      "description": "Worked as a performance tester in the IT industry, responsible for ensuring optimal system performance.",
+      "duration": "01/2015-12/2017",
+      "technologies": [
+        "LoadRunner",
+        "Postman"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Jawaharlal Nehru Technological University",
+      "year": 2014
+    }
+  ],
+  "certifications": [
+    "ISTQB Foundation Level (Certified Tester)"
+  ],
+  "projects": [
+    {
+      "name": "Project: Performance Testing of E-commerce Website",
+      "description": "Responsible for performance testing of an e-commerce website, ensuring optimal system performance.",
+      "role": "Performance Tester",
+      "metrics": "Improved system performance by 30%",
+      "technologies": [
+        "JMeter",
+        "Gatling"
+      ],
+      "duration_months": 6
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Improved system performance by 30% through optimization techniques.",
+      "metrics": "30%"
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers"
+  ],
+  "opensearch_success": true,
+  "processing_time": 12.622276544570923,
+  "s3_key": "raw/70 profiles/Mangal Singh Sharma_7 Years_Performance Tester_Hyderabad (1).doc",
+  "file_type": "doc",
+  "original_filename": "Mangal Singh Sharma_7 Years_Performance Tester_Hyderabad (1).doc"
+}

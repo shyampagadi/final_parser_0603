@@ -1,0 +1,128 @@
+{
+  "resume_id": "fc1bc24d-92e8-421e-a58a-911b72293688",
+  "full_name": "Trinadh Mikkilineni",
+  "name": "Trinadh Mikkilineni",
+  "email": "trinadh1661@gmail.com",
+  "phone_number": "+91 9948430483",
+  "address": "Bangalore",
+  "linkedin": "https://www.linkedin.com/in/trinadh-mikkilineni",
+  "linkedin_url": "https://www.linkedin.com/in/trinadh-mikkilineni",
+  "summary": "Results-driven professional skilled in leveraging data engineering, data analytics and business intelligence to enhance organizational outcomes. Proven expertise in data visualization and cross-functional collaboration, utilizing advanced analytical tools to drive accuracy, efficiency, and impactful decision-making.",
+  "total_experience": 13.0,
+  "skills": [
+    "Data Engineering",
+    "Data Analytics",
+    "Business Intelligence",
+    "Data Visualization",
+    "Cross-functional Collaboration",
+    "Snowflake",
+    "Azure SQL",
+    "Postgres",
+    "Greenplum",
+    "DB2",
+    "Data Modeling",
+    "ETL processes",
+    "Data Quality Management",
+    "Query Tuning",
+    "Performance Improvement",
+    "DBT",
+    "Matillion",
+    "Databricks",
+    "Spark"
+  ],
+  "positions": [
+    "Senior Manager",
+    "Senior Software Engineer",
+    "Member Technical"
+  ],
+  "companies": [
+    {
+      "name": "Morgan Stanley Advantage Services Pvt. Ltd.",
+      "role": "Senior Manager",
+      "description": "Worked on data migration processes from Azure SQL to Snowflake.",
+      "duration": "06/2018- Present",
+      "technologies": [
+        "Snowflake",
+        "Azure SQL",
+        "Greenplum",
+        "DB2"
+      ]
+    },
+    {
+      "name": "Capgemini Private Ltd.",
+      "role": "Senior Software Engineer",
+      "description": "Optimized the performance of functions and queries, achieving a 50% improvement across multiple project areas.",
+      "duration": "06/2016-06/2018",
+      "technologies": [
+        "Tableau",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Broadridge Financial Solutions India Pvt. Ltd.",
+      "role": "Member Technical",
+      "description": "Contributed to a migration project by successfully transferring the entire dataset from Sybase to Greenplum.",
+      "duration": "04/2012-06/2016",
+      "technologies": [
+        "Sybase",
+        "Greenplum"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications",
+      "institution": "Osmania University, Hyderabad, India",
+      "year": 2011
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Osmania University, Hyderabad, India",
+      "year": 2008
+    }
+  ],
+  "certifications": [
+    "SnowPro Core Certified"
+  ],
+  "projects": [
+    {
+      "name": "Settlement to Trading Linkage Attribution (STLA)",
+      "description": "Developed a comprehensive application to create daily snapshots of open missions, analyzing their relationship with other missions to assess trade settlement status and methods.",
+      "role": "Senior Manager",
+      "metrics": "Daily snapshots of open missions",
+      "technologies": [
+        "Power BI",
+        "SQL"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Data Migration Projects",
+      "description": "Contributed to several data migration initiatives, including transferring data from DB2 to Greenplum and subsequently migrating to Snowflake as part of cloud adoption efforts.",
+      "role": "Senior Manager",
+      "metrics": "Successful data migration",
+      "technologies": [
+        "Snowflake",
+        "DB2",
+        "Greenplum"
+      ],
+      "duration_months": 12
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Achieved a 50% improvement in efficiency through query optimization and function enhancements.",
+      "metrics": "50% improvement"
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers",
+    "522320 - Financial Transaction Processing, Reserve, and Clearinghouse Activities"
+  ],
+  "opensearch_success": true,
+  "processing_time": 19.3014132976532,
+  "s3_key": "raw/70 profiles/TrinadhMikkilineni_10.0 Years_Data Engineer Architect_Hyderabad.docx",
+  "file_type": "docx",
+  "original_filename": "TrinadhMikkilineni_10.0 Years_Data Engineer Architect_Hyderabad.docx"
+}

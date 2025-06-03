@@ -1,0 +1,46 @@
+{
+  "resume_id": "2d838264-addc-467c-8b25-883d8e1c46f7",
+  "full_name": "Course Bot",
+  "name": "Course Bot",
+  "email": "sentapravin411@gmail.com",
+  "phone_number": "+91 9712513187",
+  "address": "and agile practices, with hands-on experience in automated workflows (Bitbucket, \nJenkins, Grafana, SonarQube). Ensures compliance with ISO/IEC 9000 & 27001",
+  "linkedin": null,
+  "linkedin_url": null,
+  "summary": null,
+  "total_experience": 0.0,
+  "skills": [
+    "Python",
+    "Data Science",
+    "Aws",
+    "Flask",
+    "Kotlin",
+    "Scrum",
+    "Pytorch",
+    "Rest Api",
+    "Agile",
+    "Sql",
+    "Tensorflow",
+    "Azure",
+    "Jira",
+    "Machine Learning",
+    "Git"
+  ],
+  "positions": [],
+  "companies": [],
+  "education": [
+    {
+      "degree": "BE",
+      "institution": "Technical University",
+      "year": 2013
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "achievements": [],
+  "opensearch_success": true,
+  "processing_time": 45.39130258560181,
+  "s3_key": "raw/70 profiles/PravinSenta[11y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "PravinSenta[11y_0m].pdf"
+}

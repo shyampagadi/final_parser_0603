@@ -1,0 +1,131 @@
+{
+  "resume_id": "6dacca45-f795-442c-9eec-0f78615d5cb5",
+  "full_name": "Raju Karangula",
+  "name": "Raju Karangula",
+  "email": "inforaju67@gmail.com",
+  "phone_number": "+91-9110550604",
+  "address": "Hyderabad",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "An Informatica ETL Developer with over 6.2 years of IT experience in developing Data Warehouse, Data Migration and Data Integration projects using Informatica Cloud (IICS Cloud Data Integration), Informatica PowerCenter 10.X, Oracle, SQL Server, UNIX Shell Scripting, Autosys, Control-M, JIRA, Agile Methodologies.",
+  "total_experience": 6.2,
+  "skills": [
+    "Informatica PowerCentre",
+    "IICS",
+    "Oracle",
+    "SQL Server",
+    "Unix",
+    "Snowflake",
+    "Autosys",
+    "Control-M",
+    "JIRA",
+    "Agile Methodologies"
+  ],
+  "positions": [
+    "Informatica Developer"
+  ],
+  "companies": [
+    {
+      "name": "Persistent Systems Limited",
+      "role": "Informatica Developer",
+      "description": "",
+      "duration": "08/2024-11/2024",
+      "technologies": [
+        "Informatica PowerCentre",
+        "IICS"
+      ]
+    },
+    {
+      "name": "SIGMA Software Solutions Pvt Ltd",
+      "role": "Informatica Developer",
+      "description": "",
+      "duration": "08/2023-07/2024",
+      "technologies": [
+        "Informatica PowerCentre",
+        "IICS"
+      ]
+    },
+    {
+      "name": "Wipro Limited",
+      "role": "Informatica Developer",
+      "description": "",
+      "duration": "04/2022-07/2023",
+      "technologies": [
+        "Informatica PowerCentre",
+        "IICS"
+      ]
+    },
+    {
+      "name": "ONLANE Solutions Private Limited",
+      "role": "Informatica Developer",
+      "description": "",
+      "duration": "04/2018-03/2022",
+      "technologies": [
+        "Informatica PowerCentre",
+        "IICS"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "ENU_PJ_COP-PWC-DataModernization",
+      "description": "ConocoPhillips explores for, produces, transports and markets crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis.",
+      "role": "Informatica IICS Developer",
+      "metrics": "",
+      "technologies": [
+        "Informatica IICS",
+        "Snowflake",
+        "Control-M"
+      ],
+      "duration_months": 7
+    },
+    {
+      "name": "Warner Bros",
+      "description": "Warner Bros. Entertainment is a Time Warner Company.",
+      "role": "Informatica Developer",
+      "metrics": "",
+      "technologies": [
+        "Informatica Power Centre",
+        "SQL Server",
+        "Unix",
+        "Oracle"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "Biogen",
+      "description": "This project is a life Science Project in which records of Clinical details from different sources are received and after cleansing the data through Informatica Power Centre, applying Match and Merge process golden copies of records are stored in the Database.",
+      "role": "Informatica ETL Developer",
+      "metrics": "",
+      "technologies": [
+        "Informatica Power Centre",
+        "SQL Server",
+        "Unix",
+        "Oracle"
+      ],
+      "duration_months": 15
+    },
+    {
+      "name": "NORDEA",
+      "description": "Nordea is a Nordic-based financial services group operating in Northern Europe.",
+      "role": "Informatica ETL Developer",
+      "metrics": "",
+      "technologies": [
+        "Informatica Power Centre",
+        "SQL Server",
+        "Unix",
+        "Oracle"
+      ],
+      "duration_months": 16
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 19.79790997505188,
+  "s3_key": "raw/70 profiles/RAJU KARANGULA_6.3 Years_Data Engineer Sr Associate_Hyderabad.docx",
+  "file_type": "docx",
+  "original_filename": "RAJU KARANGULA_6.3 Years_Data Engineer Sr Associate_Hyderabad.docx"
+}

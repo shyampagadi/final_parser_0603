@@ -1,0 +1,122 @@
+{
+  "resume_id": "1ba9edcc-bc19-4421-a578-e0f73b0b91a9",
+  "full_name": "Sonitha",
+  "name": "Sonitha",
+  "email": "Sonithag22@gmail.com",
+  "phone_number": "+919014518266",
+  "address": "Hyderabad, India",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Highly experienced Performance Testing and Manual Testing professional with 7+ years of experience. Skilled in Jmeter, Load Runner, Blazemeter, and other performance testing tools. Proficient in Scripting Techniques, Web debugging, and Monitoring Tools. Strong knowledge of Testing Methodology, Standards, and procedures. Good interpersonal communication and problem-solving skills.",
+  "total_experience": 7.0,
+  "skills": [
+    "Jmeter",
+    "Load Runner",
+    "Blazemeter",
+    "Scripting Techniques",
+    "Web debugging",
+    "Monitoring Tools",
+    "Testing Methodology",
+    "Standards and procedures"
+  ],
+  "positions": [
+    "Software Engineer",
+    "IT Analyst",
+    "Test Analyst",
+    "Test Engineer"
+  ],
+  "companies": [
+    {
+      "name": "TCS",
+      "role": "IT Analyst",
+      "description": "",
+      "duration": "05/2022-Present",
+      "technologies": []
+    },
+    {
+      "name": "INFOSYS LTD",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "02/2018-05/2022",
+      "technologies": [
+        "Jmeter",
+        "Load Runner",
+        "Blazemeter"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institution": "Simha Puri University, GUDUR",
+      "year": 2015
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "City Bank",
+      "description": "Establishing a Data and Reporting Platform as part of Resolution and Recovery Planning for the Investment Bank.",
+      "role": "IT Analyst",
+      "metrics": [],
+      "technologies": [
+        "Apache J Meter version 5.5",
+        "Azure"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "The body shop (TBS)",
+      "description": "The Body Shop International Limited, trading as The Body Shop, is a British cosmetics, skin care and perfume company.",
+      "role": "Test Analyst",
+      "metrics": [],
+      "technologies": [
+        "Apache J Meter version 5.2.1",
+        "Azure"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Universal sphere reservation system",
+      "description": "The Universal Sphere website is envisioned to be built using the latest technology trends to offer better flexibility and scalability.",
+      "role": "Test Analyst",
+      "metrics": [],
+      "technologies": [
+        "Apache J Meter version 5.4.1"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Sub-Division testing",
+      "description": "Positive Train Control (PTC) refers to technology that is capable of preventing train-to-train collisions, over speed derailments, and casualties or injuries to roadway workers operating within their limits of authority because of unauthorized incursion by a train.",
+      "role": "Software Engineer",
+      "metrics": [],
+      "technologies": [
+        "ALM",
+        "Wabtec Railway Electronics",
+        "Ob-Board"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "VF Corp MDM Upgrade performance : Genesis phase 3 – MDM Up gradation release",
+      "description": "VF has Implemented MDM solution using River sand MDM Center. As part of Genesis phase 3 project, Need to execute the in scope brands for PT.",
+      "role": "Test Engineer",
+      "metrics": [],
+      "technologies": [
+        "HP Load runner"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "E-commerce",
+    "Railways"
+  ],
+  "opensearch_success": true,
+  "processing_time": 19.33732533454895,
+  "s3_key": "raw/70 profiles/Naukri_Sonitha[7y_2m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_Sonitha[7y_2m].docx"
+}

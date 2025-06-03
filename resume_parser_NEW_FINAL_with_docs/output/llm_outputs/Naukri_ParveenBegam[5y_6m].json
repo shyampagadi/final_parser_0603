@@ -1,0 +1,239 @@
+{
+  "resume_id": "aed1ff1c-6b08-46c0-bb75-645f60d2da2f",
+  "full_name": "Parveen Begam",
+  "name": "Parveen Begam",
+  "email": "parveennaazs7788@gmail.com",
+  "phone_number": "+91-7676857262",
+  "address": "Bellary, Karnataka, India",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Adaptable professional with overall 5+ years of experience in IT and 3.5 years of experience as a Lead Data Engineer, specializing in Big Data and Data Warehousing technologies.",
+  "total_experience": 5.6,
+  "skills": [
+    "Hadoop",
+    "HDFS",
+    "MapReduce (MR)",
+    "Spark",
+    "Hive",
+    "HBase",
+    "Sqoop",
+    "Scala",
+    "Python",
+    "JSON",
+    "PARQUET",
+    "AVRO",
+    "ORC",
+    "Azure Data Factory",
+    "Azure Databricks",
+    "Azure Synapse Analytics",
+    "Azure SQL",
+    "AWS",
+    "EC2",
+    "Lambda",
+    "EMR",
+    "Athena",
+    "Glue",
+    "S3",
+    "Redshift",
+    "IAM Policies",
+    "Snowflake",
+    "Git hub",
+    "Bit bucket",
+    "Airflow",
+    "SQL",
+    "Pyspark",
+    "HQL",
+    "MySQL",
+    "Teradata",
+    "PostgreSQL",
+    "SAP HANA",
+    "WinSCP",
+    "VMware work Station",
+    "Putty",
+    "MySQL-Management",
+    "PyCharm",
+    "IntelliJ",
+    "Jupyter Notebook"
+  ],
+  "positions": [
+    "Senior Data Engineer",
+    "Data Engineer"
+  ],
+  "companies": [
+    {
+      "name": "NMDC LTD.",
+      "role": "Senior Data Engineer",
+      "description": "Worked as Senior Data Engineer in NMDC LTD.",
+      "duration": "06/2024-12/2024",
+      "technologies": [
+        "S3",
+        "Data-Bricks",
+        "Redshift",
+        "Azure Data Factory",
+        "Azure Synapse",
+        "ETL",
+        "DB2",
+        "SAP HANA",
+        "AWS",
+        "Teradata",
+        "Snowflake",
+        "My SQL DB"
+      ]
+    },
+    {
+      "name": "Air India SATS Airport Services Pvt LTD",
+      "role": "Senior Data Engineer",
+      "description": "Worked as Senior Data Engineer Air India SATS Airport Services Pvt LTD",
+      "duration": "07/2023-01/2024",
+      "technologies": [
+        "Azure",
+        "Azure Data factory",
+        "Azure Blob Storage",
+        "Azure Databricks",
+        "Azure Synapse Analytics",
+        "Pyspark",
+        "HDFS",
+        "Hadoop",
+        "Hive",
+        "Airflow",
+        "Sqoop",
+        "Python",
+        "MySQL",
+        "PostgreSQL",
+        "GIT",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Wizklub Learning Pvt LTD",
+      "role": "Senior Data Engineer",
+      "description": "Worked as Senior Data Engineer Wizklub Learning Pvt LTD",
+      "duration": "06/2023-07/2023",
+      "technologies": []
+    },
+    {
+      "name": "Inter Globe Aviation",
+      "role": "Data Engineer",
+      "description": "Worked as Data Engineer Inter Globe Aviation",
+      "duration": "01/2023-03/2023",
+      "technologies": []
+    },
+    {
+      "name": "Infosys BPO LTD",
+      "role": "Data Engineer",
+      "description": "Worked as Data Engineer Infosys BPO LTD",
+      "duration": "01/2022-11/2022",
+      "technologies": [
+        "MySQL",
+        "Pyspark",
+        "Hadoop",
+        "Sqoop",
+        "Snowflake",
+        "Github",
+        "Scrum",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Fretus Folks India Pvt LTD",
+      "role": "Data Engineer",
+      "description": "Worked as Data Engineer Fretus Folks India Pvt LTD",
+      "duration": "08/2021-11/2021",
+      "technologies": []
+    },
+    {
+      "name": "Aegis Customer Support Services Pvt LTD",
+      "role": "Data Engineer",
+      "description": "Worked as Data Engineer in Aegis Customer Support Services Pvt LTD",
+      "duration": "03/2021-06/2021",
+      "technologies": []
+    },
+    {
+      "name": "Athena BPO Pvt LTD",
+      "role": "Data Engineer",
+      "description": "Worked as Data Engineer in Athena BPO Pvt LTD",
+      "duration": "12/2020-02/2021",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Com",
+      "institution": "Karnataka University of Dharwad",
+      "year": 2020
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "DATA MIGRATION –Hadoop",
+      "description": "Insurance Data Analysis is Data Hub where analysis for Insurance Policies data is done on Big Data platform.",
+      "role": "Senior Data Engineer",
+      "metrics": "At least 10% of the Healthcare insurance payments are attributed to fraudulent claims.",
+      "technologies": [
+        "S3",
+        "Data-Bricks",
+        "Redshift",
+        "Azure Data Factory",
+        "Azure Synapse",
+        "ETL",
+        "DB2",
+        "SAP HANA",
+        "AWS",
+        "Teradata",
+        "Snowflake",
+        "My SQL DB"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "MARKETING ANALYTICS PLATFORM",
+      "description": "The goal of this project was to develop a robust Marketing Analytics Platform for a bank, enabling data-driven marketing strategies and insights to drive customer acquisition, retention, and campaign optimization.",
+      "role": "Senior Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure",
+        "Azure Data factory",
+        "Azure Blob Storage",
+        "Azure Databricks",
+        "Azure Synapse Analytics",
+        "Pyspark",
+        "HDFS",
+        "Hadoop",
+        "Hive",
+        "Airflow",
+        "Sqoop",
+        "Python",
+        "MySQL",
+        "PostgreSQL",
+        "GIT",
+        "Jira"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Data Migration - Hadoop",
+      "description": "The use case was to Import data from on premises MySQL DB (OLTP), apply Transformations and Migrate data to Hive Data Ware-House (OLAP) for Visualization.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "MySQL",
+        "Pyspark",
+        "Hadoop",
+        "Sqoop",
+        "Snowflake",
+        "Github",
+        "Scrum",
+        "SQL"
+      ],
+      "duration_months": 10
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 35.29337692260742,
+  "s3_key": "raw/70 profiles/Naukri_ParveenBegam[5y_6m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_ParveenBegam[5y_6m].docx"
+}

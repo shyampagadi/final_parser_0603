@@ -1,0 +1,84 @@
+{
+  "resume_id": "12fb5cda-ca5f-4dd9-b602-0ba7ed84cd63",
+  "full_name": "Monalisha Goswami",
+  "name": "Monalisha Goswami",
+  "email": "monalisha.goswami82@gmail.com",
+  "phone_number": "+91-8240104070",
+  "address": ", caching, and serialization.",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Having total of 9 years of experience in design and development of big data ecosystem, Hadoop, sqoop, hive, spark, pyspark, aws",
+  "total_experience": 9.0,
+  "skills": [
+    "Hadoop",
+    "Sqoop",
+    "Hive",
+    "Apache Spark",
+    "PySpark",
+    "AWS",
+    "SQL Server",
+    "MySQL",
+    "Phyton",
+    "SQL",
+    "IntelliJ IDEA",
+    "Windows"
+  ],
+  "positions": [
+    "BIG DATA ENGINEER",
+    "BIG DATA DEVELOPER",
+    "ETL DEVELOPER"
+  ],
+  "companies": [
+    {
+      "name": "Diensten Tech Limited",
+      "role": "BIG DATA ENGINEER",
+      "description": "Developed and optimized Spark applications using RDDs, DataFrames, and Spark Streaming for distributed data processing, real-time analytics, and batch jobs.",
+      "duration": "Mar2025 - Present",
+      "technologies": [
+        "Hadoop",
+        "Sqoop",
+        "Hive",
+        "Apache Spark",
+        "PySpark",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Flipkart Pvt Ltd",
+      "role": "BIG DATA ENGINEER",
+      "description": "Experienced in optimizing Spark DataFrame performance by tuning various configuration settings, such as memory allocation, caching, and serialization.",
+      "duration": "Dec 2023 – Mar2025",
+      "technologies": [
+        "Hadoop",
+        "Sqoop",
+        "Hive",
+        "Apache Spark",
+        "PySpark",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Sterlite Technologies Pvt Ltd",
+      "role": "BIG DATA DEVELOPER",
+      "description": "Designed and implemented Spark jobs using Scala or Python for efficient distributed data processing.",
+      "duration": "12/2020-12/2023",
+      "technologies": [
+        "Hadoop",
+        "Sqoop",
+        "Hive",
+        "Apache Spark",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 17.013028144836426,
+  "s3_key": "raw/70 profiles/Naukri_MonalishaGoswami[9y_3m].doc",
+  "file_type": "doc",
+  "original_filename": "Naukri_MonalishaGoswami[9y_3m].doc"
+}

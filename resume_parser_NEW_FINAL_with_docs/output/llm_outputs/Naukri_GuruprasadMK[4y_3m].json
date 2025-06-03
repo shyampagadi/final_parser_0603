@@ -1,0 +1,133 @@
+{
+  "resume_id": "86b2f445-bba7-4ae3-98ea-0a55a9541e60",
+  "full_name": "Guruprasad M K",
+  "name": "Guruprasad M K",
+  "email": "guruprasad.mk21@gmail.com",
+  "phone_number": "+91 7338262038",
+  "address": "Bangalore",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Over 4 years of experience in backend development using Java, Spring Boot, Spring REST, Maven, and JPA ORM. Proficient in Java, Spring Boot, RESTful APIs, and various databases including MySQL, SQL, Oracle, and PostgreSQL.",
+  "total_experience": 4.3,
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Spring REST",
+    "Maven",
+    "JPA ORM",
+    "MySQL",
+    "SQL",
+    "Oracle",
+    "PostgreSQL",
+    "Swagger",
+    "AWS",
+    "Docker",
+    "Agile",
+    "OOP'S",
+    "Design Patterns",
+    "Defect Fixing",
+    "Problem-Solving",
+    "Performance Optimization"
+  ],
+  "positions": [
+    "Senior Software Engineer",
+    "Software Engineer",
+    "Software Engineer Trainee"
+  ],
+  "companies": [
+    {
+      "name": "TRIANZ Holdings Pvt. Ltd",
+      "role": "Senior Software Engineer",
+      "description": "Worked on Extrica project",
+      "duration": "01/2021-12/2024",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "AWS",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Electronics & Communication Engineering",
+      "institution": "VTU University",
+      "year": 2020
+    },
+    {
+      "degree": "Pre-university College",
+      "institution": "Sri Adichunchanagiri Independent PU College",
+      "year": 2016
+    },
+    {
+      "degree": "SSLC",
+      "institution": "Sri Morarji Desai School",
+      "year": 2014
+    }
+  ],
+  "certifications": [
+    "Core Java",
+    "Spring Boot Framework",
+    "Microsoft Certified: Azure AI Fundamentals",
+    "Microsoft Certified: Azure Data Fundamentals",
+    "Microsoft Certified: Azure Fundamentals",
+    "AWS Certified Developer Associate"
+  ],
+  "projects": [
+    {
+      "name": "Extrica",
+      "description": "Cloud-Native Data Mesh: Extrica allows businesses to use data 'as-is and where-is' without extensive migration, speeding up analytics by 50% and reducing costs.",
+      "role": "Senior Software Engineer",
+      "metrics": "Speeding up analytics by 50% and reducing costs",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "AWS",
+        "Docker"
+      ],
+      "duration_months": 36
+    },
+    {
+      "name": "Automated Smart Sericulture System Based on IOT and Image Processing Technique",
+      "description": "Developed a system to monitor and control climatic conditions using an Arduino board and various sensors.",
+      "role": "Academic Project",
+      "metrics": "",
+      "technologies": [
+        "Arduino",
+        "Sensors",
+        "Climate Control"
+      ],
+      "duration_months": 6
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Awarded Excellent Performer of the Year 2023-2024 at Trianz",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Awarded Excellent Performer of the Year 2022-2023 at Trianz",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Awarded Good Performer of the Year 2021-2022 at Trianz",
+      "metrics": ""
+    },
+    {
+      "type": "Innovation",
+      "description": "Participated and certified in the “11th International Conference on Computer Communication and Informatics 2021” by IEEE Explore",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers"
+  ],
+  "opensearch_success": true,
+  "processing_time": 19.4322612285614,
+  "s3_key": "raw/70 profiles/Naukri_GuruprasadMK[4y_3m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_GuruprasadMK[4y_3m].pdf"
+}

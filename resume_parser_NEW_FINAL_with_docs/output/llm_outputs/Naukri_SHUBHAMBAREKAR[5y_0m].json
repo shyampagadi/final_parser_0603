@@ -1,0 +1,90 @@
+{
+  "resume_id": "f9840261-7b3c-4f30-80b6-11d736f95897",
+  "full_name": "SHUBHAM BAREKAR",
+  "name": "SHUBHAM BAREKAR",
+  "email": "shubhambarekar1207@gmail.com",
+  "phone_number": "7774986625",
+  "address": "Bengaluru, INDIA",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "I am a Data Engineer with over five years of experience in Python, PySpark, SQL, AWS, Pandas, and Apache Spark. I specialize in building scalable data pipelines, optimizing ETL workflows, and ensuring data integrity while leveraging big data technologies and cloud platforms.",
+  "total_experience": 5.0,
+  "skills": [
+    "Python",
+    "PySpark",
+    "SQL",
+    "AWS",
+    "Pandas",
+    "Apache Spark",
+    "Apache Airflow",
+    "Git",
+    "Jupyter Notebook",
+    "VS Code"
+  ],
+  "positions": [
+    "Data Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Spontact Global Private Limited",
+      "role": "Data Engineer",
+      "description": "",
+      "duration": "04/2020-03/2025",
+      "technologies": [
+        "AWS Glue",
+        "Apache Spark",
+        "PySpark",
+        "Pandas",
+        "SQL",
+        "AWS Athena",
+        "Git",
+        "Jupyter Notebook",
+        "VS Code"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Yeshwantrao Chavan College of Engineering, Nagpur",
+      "year": 2017
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Data Lake Implementation and Analytics",
+      "description": "Designed and implemented data lake architecture for efficient data storage and management.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Python",
+        "SQL",
+        "AWS",
+        "Apache Spark"
+      ],
+      "duration_months": 36
+    },
+    {
+      "name": "Data Warehouse Optimization with PySpark and SQL",
+      "description": "Analyzed and optimized data warehouse schema for improved efficiency.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Python",
+        "PySpark",
+        "SQL",
+        "Apache Spark",
+        "Pandas"
+      ],
+      "duration_months": 18
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 12.271515369415283,
+  "s3_key": "raw/70 profiles/Naukri_SHUBHAMBAREKAR[5y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SHUBHAMBAREKAR[5y_0m].pdf"
+}

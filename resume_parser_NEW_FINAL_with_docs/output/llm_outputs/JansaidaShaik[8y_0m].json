@@ -1,0 +1,184 @@
+{
+  "resume_id": "bf40b557-cacc-4cc9-9281-c1e16f7e2bef",
+  "full_name": "Jansaida Shaik",
+  "name": "Jansaida Shaik",
+  "email": "jansaidashaik1995@gmail.com",
+  "phone_number": "+91-9010140931",
+  "address": "",
+  "linkedin": "https://www.linkedin.com/in/jansaidashaik",
+  "linkedin_url": "https://www.linkedin.com/in/jansaidashaik",
+  "summary": "I am a Technology professional with 8+ years of startup experience specializing in Development, Cloud/DevOps, and Generative AI. Expert in building scalable solutions and implementing modern tech stacks to solve complex business challenges.",
+  "total_experience": 8.0,
+  "skills": [
+    "Generative AI",
+    "LLMs",
+    "RAG",
+    "Ollama",
+    "Chat Bots",
+    "Open AI",
+    "Anthropic AI",
+    "Python",
+    "Fast API",
+    "Micro Services",
+    "Web Apps",
+    "Docker",
+    "DevOps",
+    "GCP",
+    "AWS",
+    "Vectors DBs",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Git",
+    "Unix",
+    "Startups"
+  ],
+  "positions": [
+    "Senior Software Engineer",
+    "Senior DevOps Engineer",
+    "Founding Member & Cloud / DevOps Engineer",
+    "Software Developer"
+  ],
+  "companies": [
+    {
+      "name": "Hydralogic AI",
+      "role": "Senior Software Engineer",
+      "description": "Lead the development and implementation of Generative AI applications using Large Language Models (LLMs) and Retrieval Augmented Generation (RAG) architectures.",
+      "duration": "10/2023-12/2023",
+      "technologies": [
+        "LLMs",
+        "RAG",
+        "Docker",
+        "GCP",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Fluentgrid Limited",
+      "role": "Senior DevOps Engineer",
+      "description": "Implementation of DevOps best practices, streamlining software development and deployment processes.",
+      "duration": "10/2022-09/2023",
+      "technologies": [
+        "Maven",
+        "Jenkins",
+        "Java",
+        "Python",
+        "Shell",
+        "SonarQube"
+      ]
+    },
+    {
+      "name": "CloudEarl Solutions Pvt Ltd",
+      "role": "Founding Member & Cloud / DevOps Engineer",
+      "description": "Played a key role in building a cloud cost optimization tool for multiple cloud platforms, ensuring efficient resource utilization and cost savings.",
+      "duration": "02/2021-09/2022",
+      "technologies": [
+        "Terraform",
+        "CloudFormation",
+        "Jenkins",
+        "GitHub",
+        "GitLab",
+        "Python",
+        "Boto3"
+      ]
+    },
+    {
+      "name": "Cenetri Publications Pvt Ltd",
+      "role": "Software Developer",
+      "description": "Contributed to the development of a website builder application for an event-based platform designed to host and manage conferences.",
+      "duration": "09/2016-02/2020",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "IIIT Nuzvid, Vijayawada",
+      "year": 2016
+    }
+  ],
+  "certifications": [
+    "LangChain Chat with Your Data",
+    "Introduction to Generative AI",
+    "ChatGPT Prompt Engineering for Developers",
+    "OpenAI & ChatGPT API's: Expert Fine-tuning for Developers",
+    "LangChain in Action: Develop LLM-Powered Applications",
+    "Agile with Atlassian Jira"
+  ],
+  "projects": [
+    {
+      "name": "Cloud Cost Optimization Tool",
+      "description": "Built a cloud cost optimization tool for multiple cloud platforms, ensuring efficient resource utilization and cost savings",
+      "role": "Founding Member & Cloud / DevOps Engineer",
+      "metrics": "Ensured efficient resource utilization and cost savings",
+      "technologies": [
+        "Terraform",
+        "CloudFormation",
+        "Jenkins",
+        "GitHub",
+        "GitLab",
+        "Python",
+        "Boto3"
+      ],
+      "duration_months": 18
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Implemented RAG applications and custom LLM solutions for internal tools, improving document retrieval accuracy and reducing manual processing time",
+      "metrics": "Improved document retrieval accuracy and reduced manual processing time"
+    },
+    {
+      "type": "Performance",
+      "description": "Established CI/CD pipelines for AI applications, ensuring reliable deployment",
+      "metrics": "Ensured reliable deployment"
+    },
+    {
+      "type": "Performance",
+      "description": "Optimized cloud resource utilization, resulting cost reduction in AI infrastructure",
+      "metrics": "Reduced cost in AI infrastructure"
+    },
+    {
+      "type": "Leadership",
+      "description": "Mentored juniors in AI engineering practices and cloud-native development",
+      "metrics": "Mentored juniors"
+    },
+    {
+      "type": "Performance",
+      "description": "Implemented release management process by coordinating with developers and applying branching techniques, improving code versioning and stability",
+      "metrics": "Improved code versioning and stability"
+    },
+    {
+      "type": "Performance",
+      "description": "Integrated Maven with Jenkins for CI/CD pipelines, enhancing build automation and deployment efficiency",
+      "metrics": "Enhanced build automation and deployment efficiency"
+    },
+    {
+      "type": "Performance",
+      "description": "Deployed and managed Java applications on JBoss servers, ensuring high availability and performance",
+      "metrics": "Ensured high availability and performance"
+    },
+    {
+      "type": "Performance",
+      "description": "Developed Python and Shell scripts to automate repetitive tasks and system operations, improving productivity",
+      "metrics": "Improved productivity"
+    },
+    {
+      "type": "Performance",
+      "description": "Configured and maintained SonarQube for static code analysis, enhancing code quality and security",
+      "metrics": "Enhanced code quality and security"
+    },
+    {
+      "type": "Performance",
+      "description": "Troubleshot build and deployment issues with minimal downtime, ensuring smooth application releases",
+      "metrics": "Ensured smooth application releases"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 29.09013080596924,
+  "s3_key": "raw/70 profiles/JansaidaShaik[8y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "JansaidaShaik[8y_0m].pdf"
+}

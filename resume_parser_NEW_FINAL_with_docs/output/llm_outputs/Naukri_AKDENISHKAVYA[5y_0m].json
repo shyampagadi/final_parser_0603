@@ -1,0 +1,111 @@
+{
+  "resume_id": "37e85530-a12f-4546-92a8-1022a8442798",
+  "full_name": "A K Denish Kavya",
+  "name": "A K Denish Kavya",
+  "email": "denishkavya123@gmail.com",
+  "phone_number": "+917207156392",
+  "address": "Bangalore",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Experienced AWS Data Engineer with over 5+years of hands-on expertise in building scalable data solutions, optimizing data processing pipelines, and leveraging AWS cloud technologies.",
+  "total_experience": 5.0,
+  "skills": [
+    "AWS Lambda",
+    "AWS Glue",
+    "Step Functions",
+    "Amazon S3",
+    "Amazon RDS",
+    "Amazon EC2",
+    "IAM",
+    "AWS CodePipeline",
+    "Snowflake",
+    "Athena",
+    "Redshift",
+    "Python",
+    "SQL",
+    "Bash scripting",
+    "Apache Airflow",
+    "Apache Kafka",
+    "Apache Spark",
+    "Power BI",
+    "Tableau",
+    "Excel"
+  ],
+  "positions": [
+    "AWS Data Engineer",
+    "Data Pipeline Support Engineer"
+  ],
+  "companies": [
+    {
+      "name": "LTIMINDTREE LIMITED",
+      "role": "AWS Data Engineer",
+      "description": "",
+      "duration": "01/2018-12/2022",
+      "technologies": [
+        "AWS Lambda",
+        "AWS Glue",
+        "Step Functions",
+        "Snowflake",
+        "S3",
+        "RDS",
+        "EC2",
+        "IAM",
+        "Airflow"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Jawaharlal Nehru Technological University, Anantapur",
+      "year": 2017
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Banking and Finance Project",
+      "description": "Designed and maintained scalable data pipelines using AWS Glue and Lambda to process large volumes of financial transaction data, improving the speed of transaction analysis.",
+      "role": "AWS Data Engineer",
+      "metrics": "Improved the speed of transaction analysis",
+      "technologies": [
+        "AWS Lambda",
+        "AWS Glue",
+        "Step Functions",
+        "Snowflake",
+        "S3",
+        "RDS",
+        "EC2",
+        "IAM",
+        "Airflow"
+      ],
+      "duration_months": 24
+    },
+    {
+      "name": "Healthcare Project",
+      "description": "Developed and managed data pipelines for healthcare data processing using AWS Glue, Lambda, and S3, ensuring compliance with HIPAA regulations.",
+      "role": "AWS Data Engineer",
+      "metrics": "Enabled real-time querying of patient and hospital data for operational analytics",
+      "technologies": [
+        "AWS Lambda",
+        "AWS Glue",
+        "S3",
+        "Snowflake",
+        "Airflow",
+        "IAM",
+        "EC2"
+      ],
+      "duration_months": 24
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Banking and Finance",
+    "Healthcare"
+  ],
+  "opensearch_success": true,
+  "processing_time": 15.604275703430176,
+  "s3_key": "raw/70 profiles/Naukri_AKDENISHKAVYA[5y_0m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_AKDENISHKAVYA[5y_0m].docx"
+}

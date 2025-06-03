@@ -1,0 +1,78 @@
+{
+  "resume_id": "501c6248-9e76-422b-adc2-875718e79467",
+  "full_name": "Sai Prakash Rayavarapu",
+  "name": "Sai Prakash Rayavarapu",
+  "email": "saiprakash977@gmail.com",
+  "phone_number": "9581043117",
+  "address": "",
+  "linkedin": "linkedin.com/in/saiprakash977/",
+  "linkedin_url": "linkedin.com/in/saiprakash977/",
+  "summary": "Results-driven IT professional with 5 years of overall experience, including 4 years of specialized expertise in Data Engineering. Skilled in designing and optimizing scalable data processing pipelines using Big Data technologies such as Apache Spark, Hive, and Hadoop. Proficient in SQL and data pipeline optimization, with a strong focus on improving efficiency and ensuring data accuracy. Adept at delivering actionable insights to support strategic business decisions and organizational growth.",
+  "total_experience": 5.4,
+  "skills": [
+    "Apache Spark",
+    "Hive",
+    "Hadoop",
+    "HDFS",
+    "Sqoop",
+    "Python",
+    "Scala",
+    "SQL",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS EMR",
+    "AWS Redshift",
+    "AWS Crawler"
+  ],
+  "positions": [
+    "Consultant (Data Engineer)",
+    "Associate Consultant (Big Data Developer)",
+    "Trainee (SQL Developer)"
+  ],
+  "companies": [
+    {
+      "name": "T-Systems ICT India Pvt Ltd",
+      "role": "Consultant (Data Engineer)",
+      "description": "",
+      "duration": "02/2023-Current",
+      "technologies": [
+        "PySpark",
+        "Scala Spark",
+        "Apache Spark",
+        "Sqoop"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Andhra University",
+      "year": 2019
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Reduced data-related errors by 25%",
+      "metrics": "25%"
+    },
+    {
+      "type": "Performance",
+      "description": "Improved processing efficiency by 40%",
+      "metrics": "40%"
+    },
+    {
+      "type": "Performance",
+      "description": "Reduced query execution times by 40%",
+      "metrics": "40%"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 14.228578090667725,
+  "s3_key": "raw/70 profiles/Naukri_SaiPrakashRayavarapu[5y_4m] (1).pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SaiPrakashRayavarapu[5y_4m] (1).pdf"
+}

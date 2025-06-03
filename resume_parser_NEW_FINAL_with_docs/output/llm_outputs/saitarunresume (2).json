@@ -1,0 +1,136 @@
+{
+  "resume_id": "ff525f70-d650-415f-b8e4-0fa1f3e2bd47",
+  "full_name": "KUMMARA SAI TARUN KUMAR",
+  "name": "KUMMARA SAI TARUN KUMAR",
+  "email": "saitarun1199@gmail.com",
+  "phone_number": "+91 7095204966",
+  "address": "Hyderabad, India",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Highly motivated and detail-oriented software developer with experience in frontend development, automation, and tools. Proficient in a range of programming languages, including Angular, SQL, HTML, CSS, Typescript, Javascript, React, and Python. Strong soft skills in communication, teamwork, and multitasking.",
+  "total_experience": 2.0,
+  "skills": [
+    "Angular",
+    "SQL",
+    "HTML",
+    "CSS",
+    "Typescript",
+    "Javascript",
+    "React",
+    "Python",
+    "TailwindCss",
+    "BootStrap",
+    "Nebular",
+    "Communication",
+    "Teamwork",
+    "Multitasking"
+  ],
+  "positions": [
+    "Software Developer",
+    "Frontend Engineer",
+    "Program Analyst Trainee"
+  ],
+  "companies": [
+    {
+      "name": "AISHVA INFO SOLUTIONS",
+      "role": "Software Developer",
+      "description": "Led the development of responsive web applications using modern frontend technologies such as HTML5, CSS3, JavaScript (ES6+), and frameworks like React.",
+      "duration": "12/2023-08/2024",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "name": "SYNYCS ENTERPRISES PRIVATE LIMITED",
+      "role": "Frontend Engineer",
+      "description": "Spearheaded the development of responsive web applications utilizing modern frontend technologies including HTML5, CSS3, JavaScript (ES6+), and frameworks like angular.",
+      "duration": "03/2023-10/2023",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Cognizant Technology Solutions",
+      "role": "Program Analyst Trainee",
+      "description": "Successfully completed a comprehensive learning program with rigorous exams at each stage, showcasing a commitment to skill development and knowledge acquisition.",
+      "duration": "01/2022-07/2022",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "Sathyabama Institute of Science and Technology",
+      "year": 2022
+    },
+    {
+      "degree": "Higher Secondary",
+      "institution": "Narayana Junior College",
+      "year": 2018
+    }
+  ],
+  "certifications": [
+    "Practical Web Design and Development - Udemy",
+    "Python For Everybody - Coursera"
+  ],
+  "projects": [
+    {
+      "name": "Freelance Portfolio",
+      "description": "Designed and developed a modern, high-performance portfolio website to represent freelance development services and showcase technical expertise.",
+      "role": "Freelance Developer",
+      "metrics": "",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Focus Timer",
+      "description": "Designed and developed an interactive Timer application to boost productivity by implementing time management techniques.",
+      "role": "Freelance Developer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "JSON Beautifier",
+      "description": "Built a highly efficient JSON Beautifier web tool to assist developers in formatting, validating, and interpreting complex JSON data structures.",
+      "role": "Freelance Developer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "JSON"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Viewport Size Finder",
+      "description": "Developed a responsive tool to dynamically display the user’s current viewport dimensions, aiding designers and developers in responsive design testing.",
+      "role": "Freelance Developer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "CSS"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 20.752846479415894,
+  "s3_key": "raw/70 profiles/saitarunresume (2).pdf",
+  "file_type": "pdf",
+  "original_filename": "saitarunresume (2).pdf"
+}

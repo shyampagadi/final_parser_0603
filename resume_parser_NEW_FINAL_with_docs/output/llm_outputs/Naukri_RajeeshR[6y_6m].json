@@ -1,0 +1,100 @@
+{
+  "resume_id": "8a07ac94-3f7f-4c2c-bcd8-b11ed0bddce8",
+  "full_name": "Rajeesh Raman",
+  "name": "Rajeesh Raman",
+  "email": "rajeeshraman477@gmail.com",
+  "phone_number": "+91 8072512566",
+  "address": "Tiruppur,India",
+  "linkedin": "Linkedin",
+  "linkedin_url": "Linkedin",
+  "summary": "Data Engineering & Data Science Professional with 7 years of experience across IT domains. Expertise in building and optimising data pipelines, automating ETL processes, and handling large datasets using AWS services (Lambda, Glue, Athena, S3, Redshift). Skilled in PySpark, SQL, and AWS Glue for data integration and transformation. Experienced in Machine Learning, Deep Learning, NLP, and using libraries like Scikit-learn, TensorFlow, and Tableau for data analysis and visualization",
+  "total_experience": 6.6,
+  "skills": [
+    "Pandas",
+    "NumPy",
+    "matplotlib",
+    "seaborn",
+    "Sklearn",
+    "Tensorflow",
+    "Pyspark",
+    "MY SQL",
+    "SQL Server",
+    "DBWare",
+    "Jupyter Notebook",
+    "Google Colab",
+    "Excel",
+    "Tableau",
+    "AWS Lambda",
+    "S3",
+    "Glue",
+    "Data Brew",
+    "Step function",
+    "IAM",
+    "Dyanamodb",
+    "EC2",
+    "RDS",
+    "Data Brick",
+    "Python",
+    "SQL",
+    "Jira",
+    "Jenkins",
+    "Source Tree",
+    "Postman"
+  ],
+  "positions": [
+    "AWS Data Engineer",
+    "Data Analyst/ML Engineer"
+  ],
+  "companies": [
+    {
+      "name": "TCS",
+      "role": "AWS Data Engineer",
+      "description": "Built and optimized scalable data pipelines using AWS Lambda, Glue, Athena, and Step Functions for ETL operations across various data sources (file-based, database, API).",
+      "duration": "01/2023-12/2023",
+      "technologies": [
+        "AWS Lambda",
+        "Glue",
+        "Athena",
+        "Step Functions",
+        "Pyspark",
+        "Pandas",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Infosys",
+      "role": "Data Analyst/ML Engineer",
+      "description": "Data Analyst/ML Engineer",
+      "duration": "06/2018-01/2023",
+      "technologies": [
+        "Pyspark",
+        "SQL",
+        "AWS Glue"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc.IT",
+      "institution": "Bharathiyar University",
+      "year": 2018
+    }
+  ],
+  "certifications": [
+    "IBM Certified SQL & RDB Developer",
+    "IBM Certified Data Analysis with Python",
+    "LinkedIn Certified Tableau Essential Training",
+    "Python for Data Science (Infosys)",
+    "Infosys Certified Business Analyst",
+    "Pyspark for Data Analysis (Infosys)",
+    "HackerRank Certified SQL Developer"
+  ],
+  "projects": [],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 14.852298736572266,
+  "s3_key": "raw/70 profiles/Naukri_RajeeshR[6y_6m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_RajeeshR[6y_6m].pdf"
+}

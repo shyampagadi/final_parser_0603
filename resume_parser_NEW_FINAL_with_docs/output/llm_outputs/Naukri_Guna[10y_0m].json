@@ -1,0 +1,238 @@
+{
+  "resume_id": "3bf3c20f-5485-40fa-9bad-1aa188a49bcd",
+  "full_name": "Guna",
+  "name": "Guna",
+  "email": "guna565@yahoo.com",
+  "phone_number": "+91 9677669588",
+  "address": "Chennai",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Experienced Big Data Engineer with 10 years in database development (MS SQL Developer) and 3 years in AWS Cloud Data Engineering. Strong expertise in PySpark, AWS EMR, SQL, and Big Data Technologies. Skilled in designing and optimizing data pipelines, ensuring scalability, performance, and cost efficiency. Adept at handling structured and semi-structured data with Spark RDDs, DataFrames, and SQL.",
+  "total_experience": 10.0,
+  "skills": [
+    "PySpark",
+    "AWS EMR",
+    "SQL",
+    "Big Data Technologies",
+    "Spark RDDs",
+    "DataFrames",
+    "MS SQL Server",
+    "MySQL",
+    "Oracle",
+    "Hadoop",
+    "Sqoop",
+    "Hive",
+    "Apache Spark",
+    "Python"
+  ],
+  "positions": [
+    "Big Data Engineer",
+    "MS SQL Developer"
+  ],
+  "companies": [
+    {
+      "name": "Net Access India Ltd",
+      "role": "Big Data Engineer",
+      "description": "",
+      "duration": "07/2018- Present",
+      "technologies": [
+        "AWS",
+        "PySpark",
+        "Python",
+        "MS SQL"
+      ]
+    },
+    {
+      "name": "Indev Logistics Pvt Ltd",
+      "role": "MS SQL Developer",
+      "description": "",
+      "duration": "02/2015-06/2018",
+      "technologies": [
+        "MS SQL Server"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "Anna University",
+      "year": 0
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "CCRMRD Quality Quantity Management",
+      "description": "It is used to capture the quality and quantity of the raw milk and All the Milk testing factors from the FT1, FT3, Lacto test machine and manual",
+      "role": "Big Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "AWS",
+        "PySpark",
+        "Python",
+        "MS SQL"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Digital Personal Data Protection",
+      "description": "This is secure system for storing personal and financial data internally. Ensuring data encryption is a crucial step in protecting sensitive information from unauthorized access",
+      "role": "Big Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "AWS",
+        "PySpark",
+        "MS SQL"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "EHS (Environmental, Health, and Safety)",
+      "description": "EHS is a complete system, which can be capture All the safety activities and carbon, nitrogen, oxygen, Sulphur consumption and activity over factory wise",
+      "role": "Big Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "AWS",
+        "PySpark"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Sampling Analysis System",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Agreement Management System",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "eCline import/export",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Guest House Booking",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Integrated Cane management system",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Integrated lease management system",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Garden irrigation and motor sensor",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Auto weighment system",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Yard Management System",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Instant and time based scheduler",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "GST Implementation Billings and Finance",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Centralized Banking, Billings and Finance",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Enterprise Resource Planning [Container Management System]",
+      "description": "",
+      "role": "MS SQL Developer",
+      "metrics": "",
+      "technologies": [
+        "MS SQL Server"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 30.184385538101196,
+  "s3_key": "raw/70 profiles/Naukri_Guna[10y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_Guna[10y_0m].pdf"
+}

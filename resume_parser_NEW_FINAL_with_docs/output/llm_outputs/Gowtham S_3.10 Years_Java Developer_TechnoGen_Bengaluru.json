@@ -1,0 +1,155 @@
+{
+  "resume_id": "5a9975f6-7f2f-40c2-aa36-a61af5a3f45f",
+  "full_name": "Gowtham S",
+  "name": "Gowtham S",
+  "email": "gowthams.1931997@gmail.com",
+  "phone_number": "+918123330323",
+  "address": "",
+  "linkedin": "linkedin.com/in/itsgowtham",
+  "linkedin_url": "linkedin.com/in/itsgowtham",
+  "summary": "Innovative and results-driven Java Developer with 3.10+ years of experience in building scalable, high-performance, cloud-native applications using Java 8/11/17, Spring Boot, and Microservices architecture.",
+  "total_experience": 3.0,
+  "skills": [
+    "Java",
+    "SQL",
+    "JavaScript",
+    "Spring Boot",
+    "Microservices",
+    "Spring Cloud",
+    "Spring MVC",
+    "Spring Data JPA",
+    "Spring Batch",
+    "Spring JDBC",
+    "Hibernate/JPA",
+    "Spring Security",
+    "React.js",
+    "JUnit",
+    "Mockito",
+    "OOP",
+    "SOLID Principles",
+    "Design Patterns",
+    "Dependency Injection",
+    "Bean Lifecycle",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Sybase",
+    "Oracle 10g",
+    "Snowflake",
+    "AWS",
+    "Red Hat OpenShift",
+    "Docker",
+    "Kubernetes",
+    "OAuth",
+    "JWT Authentication",
+    "Maven",
+    "IntelliJ IDEA",
+    "Eclipse",
+    "Spring Tool Suite (STS)",
+    "Visual Studio Code (VS Code)",
+    "pgAdmin",
+    "MongoDB Compass",
+    "Splunk",
+    "Datadog"
+  ],
+  "positions": [
+    "DC Analyst",
+    "Intern Analyst"
+  ],
+  "companies": [
+    {
+      "name": "Deloitte",
+      "role": "DC Analyst",
+      "description": "",
+      "duration": "07/2022-12/2023",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Spring Batch",
+        "Spring JPA",
+        "Hibernate",
+        "Git",
+        "GitHub",
+        "Bitbucket",
+        "AWS",
+        "CI/CD",
+        "Junit",
+        "Mockito",
+        "PostgreSQL",
+        "MySQL",
+        "Oracle 10g",
+        "MongoDB",
+        "Sybase",
+        "Docker",
+        "Kubernetes",
+        "OCP",
+        "Express.js",
+        "Snowflake"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E. in Electronics and Communication Engineering",
+      "institution": "VTU Belagavi",
+      "year": 2020
+    }
+  ],
+  "certifications": [
+    "AWS Certified Developer Associate",
+    "Google Cloud Certified Associate Cloud Engineer"
+  ],
+  "projects": [
+    {
+      "name": "COB dashboard application",
+      "description": "Independently built a COC dashboard application and resolved the issues quickly.",
+      "role": "Intern Analyst",
+      "metrics": "Quickly resolved the issues",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "Git",
+        "AWS"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "Registration API",
+      "description": "Developed the Registration API and delivered it within the given timelines.",
+      "role": "Intern Analyst",
+      "metrics": "Delivered within the given timelines",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "Git",
+        "AWS"
+      ],
+      "duration_months": 3
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Improved system reliability, reducing technical debt, and delivering secure, maintainable solutions in Agile environments.",
+      "metrics": "25% performance improvement and 98% accuracy in post-deployment testing"
+    },
+    {
+      "type": "Innovation",
+      "description": "Independently designed, developed, and deployed high-performance Java-based microservices using Spring Boot.",
+      "metrics": "90%+ line and mutation coverage"
+    },
+    {
+      "type": "Leadership",
+      "description": "Led performance region deployments and resolved system bottlenecks by optimizing response times and overall efficiency.",
+      "metrics": "25% performance improvement and 98% accuracy in post-deployment testing"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 22.079622745513916,
+  "s3_key": "raw/70 profiles/Gowtham S_3.10 Years_Java Developer_TechnoGen_Bengaluru.pdf",
+  "file_type": "pdf",
+  "original_filename": "Gowtham S_3.10 Years_Java Developer_TechnoGen_Bengaluru.pdf"
+}

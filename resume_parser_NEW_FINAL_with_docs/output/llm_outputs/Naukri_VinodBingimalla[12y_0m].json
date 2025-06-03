@@ -1,0 +1,171 @@
+{
+  "resume_id": "ff9e45c5-c314-41e3-bfe7-1da89ee50666",
+  "full_name": "Vinod Kumar Bingimalla",
+  "name": "Vinod Kumar Bingimalla",
+  "email": "vinusmiles@gmail.com",
+  "phone_number": "+91-9959495928",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Experienced Lead Implementation Consultant with a comprehensive background in data migration, business analysis, and project management, enhanced by recent training in Generative AI and Applied Machine Learning.",
+  "total_experience": 12.0,
+  "skills": [
+    "Data Migration",
+    "Business Analysis",
+    "Project Management",
+    "Generative AI",
+    "Applied Machine Learning",
+    "Python",
+    "Advanced Excel",
+    "SQL",
+    "Large Language Models",
+    "Huggingface library",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI"
+  ],
+  "positions": [
+    "Lead Implementation Consultant",
+    "Senior Business Analyst",
+    "Business Analyst",
+    "Analyst",
+    "Internship",
+    "Quality Assurance"
+  ],
+  "companies": [
+    {
+      "name": "Zenoti",
+      "role": "Lead Implementation Consultant",
+      "description": "Expertise in gathering, analyzing and documenting business requirements and developing Business Requirement Documents and Functional Requirement Specifications",
+      "duration": "11/2017-",
+      "technologies": [
+        "Prototypes",
+        "Data Migration"
+      ]
+    },
+    {
+      "name": "Option Matrix",
+      "role": "Senior Business Analyst",
+      "description": "Experience in working on Prototypes with different industries",
+      "duration": "06/2016-11/2017",
+      "technologies": [
+        "Prototypes"
+      ]
+    },
+    {
+      "name": "NephroPlus",
+      "role": "Business Analyst",
+      "description": "Prepare business requirement specifications by getting in touch with clients",
+      "duration": "10/2015-05/2016",
+      "technologies": []
+    },
+    {
+      "name": "J.P.Morgan",
+      "role": "Analyst",
+      "description": "Handled around 46 clients across Luxembourg region",
+      "duration": "07/2014-10/2015",
+      "technologies": [
+        "TLM",
+        "Reconciliation Process"
+      ]
+    },
+    {
+      "name": "Consci Consultancy Pvt. Ltd",
+      "role": "Internship",
+      "description": "Worked as a Trainee Analyst in an Investment advisory firm",
+      "duration": "01/2013-06/2013",
+      "technologies": [
+        "Financial models",
+        "IPOs"
+      ]
+    },
+    {
+      "name": "Cognizant Technologies",
+      "role": "Quality Assurance",
+      "description": "Implemented Software Testing Life Cycle for a medium scale project",
+      "duration": "12/2009-01/2011",
+      "technologies": [
+        "Software Testing Life Cycle",
+        "Defect Management Activities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "PGDM",
+      "institution": "ITM Business School, Mumbai",
+      "year": 2014
+    },
+    {
+      "degree": "B Tech, Electronics and Communications",
+      "institution": "C R Engineering College, Tirupathi",
+      "year": 2009
+    },
+    {
+      "degree": "Class XII",
+      "institution": "Narayana Junior College, Nellore",
+      "year": 2005
+    },
+    {
+      "degree": "Class X",
+      "institution": "Bhashyam Public School, Guntur",
+      "year": 2003
+    }
+  ],
+  "certifications": [
+    "Generative AI OpenAI, LangChain and LlamaIndex",
+    "Applied AI/ML"
+  ],
+  "projects": [
+    {
+      "name": "TLM System",
+      "description": "Automating match rules to increase efficiency",
+      "role": "Analyst",
+      "metrics": "40%",
+      "technologies": [
+        "TLM",
+        "Automating match rules"
+      ],
+      "duration_months": 1
+    },
+    {
+      "name": "Product Planning & Requirements",
+      "description": "Monitored Data Flow & system dependencies to roll out the product planning & requirements",
+      "role": "Analyst",
+      "metrics": "1 month",
+      "technologies": [
+        "Data Flow",
+        "System dependencies"
+      ],
+      "duration_months": 1
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Increased efficiency of the TLM System by 40% via Automating match rules",
+      "metrics": "40%"
+    },
+    {
+      "type": "Innovation",
+      "description": "Monitored Data Flow & system dependencies to roll out the product planning & requirements in less than 1 month",
+      "metrics": "1 month"
+    },
+    {
+      "type": "Leadership",
+      "description": "Strengthened TLM by building test cases reducing error rate by 6%",
+      "metrics": "6%"
+    }
+  ],
+  "industries": [
+    "Insurance",
+    "Real Estate",
+    "Healthcare",
+    "Finance"
+  ],
+  "opensearch_success": true,
+  "processing_time": 24.517446994781494,
+  "s3_key": "raw/70 profiles/Naukri_VinodBingimalla[12y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_VinodBingimalla[12y_0m].pdf"
+}

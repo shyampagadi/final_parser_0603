@@ -1,0 +1,128 @@
+{
+  "resume_id": "bec89577-75b1-45a3-b7f8-6f2b3a2f9b0b",
+  "full_name": "Deepa E",
+  "name": "Deepa E",
+  "email": "deepaesnkh@gmail.com",
+  "phone_number": "+91-7892837104",
+  "address": "RR Nagar, Bangalore",
+  "linkedin": "https://www.linkedin.com/in/deepa-e-2a11281a0",
+  "linkedin_url": "https://www.linkedin.com/in/deepa-e-2a11281a0",
+  "summary": "Skilled and motivated Software Engineer with a strong background in Java, and Spring Boot, seeking to leverage my technical expertise and passion for solving business problems.",
+  "total_experience": 4.0,
+  "skills": [
+    "MYSQL",
+    "Postgres",
+    "Java",
+    "Spring Boot",
+    "Spring Cloud",
+    "Eclipse",
+    "Microservices",
+    "Rest APIs",
+    "WebLogic",
+    "SoapUI",
+    "Jira",
+    "Jenkins",
+    "Git",
+    "Maven",
+    "Docker",
+    "AWS",
+    "Linux"
+  ],
+  "positions": [
+    "Software Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Torry Harris Business Solutions",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "08/2021-12/2023",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Rest APIs",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institution": "New Horizon College of Engineering, Bangalore",
+      "year": 0
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "PrePostKPI",
+      "description": "Automated monitoring application that monitors the error rate pre and post-deployment and publishes the email notification to stakeholders",
+      "role": "Software Engineer",
+      "metrics": "2 hours to a few minutes",
+      "technologies": [
+        "Java",
+        "Springboot"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Swagger Yaml - Tool",
+      "description": "Internally hosted web service that automates the conversion of .doc files into Swagger-compliant YAML files",
+      "role": "Software Engineer",
+      "metrics": "Several months of work",
+      "technologies": [
+        "Java",
+        "Springboot"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Authorization and eKYC",
+      "description": "Developed and maintained three critical microservices for Airtel-AADHAR integration",
+      "role": "Software Engineer",
+      "metrics": "Millions of daily transactions",
+      "technologies": [
+        "Java",
+        "Springboot",
+        "Microservices"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Whatsapp chatbot for Bank Application",
+      "description": "Developed REST APIs for a WhatsApp chatbot to handle blocking and reissuing of credit cards",
+      "role": "Software Engineer",
+      "metrics": "Few thousand requests per second",
+      "technologies": [
+        "Java",
+        "Springboot",
+        "Rest APIs"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Reduced manual efforts by 2 hours to a few minutes after every deployment",
+      "metrics": "2 hours to a few minutes"
+    },
+    {
+      "type": "Innovation",
+      "description": "Streamlined the API documentation process, improving overall development efficiency",
+      "metrics": "Several months of work"
+    },
+    {
+      "type": "Leadership",
+      "description": "Improved the stability and performance of AADHAR-related services, supporting millions of daily transactions",
+      "metrics": "Millions of daily transactions"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 22.084569931030273,
+  "s3_key": "raw/70 profiles/Deepa E_4.0 Years_Java Developer_TechnoGen_Bengaluru (1).pdf",
+  "file_type": "pdf",
+  "original_filename": "Deepa E_4.0 Years_Java Developer_TechnoGen_Bengaluru (1).pdf"
+}

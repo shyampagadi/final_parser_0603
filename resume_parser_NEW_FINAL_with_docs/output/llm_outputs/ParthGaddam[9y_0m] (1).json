@@ -1,0 +1,226 @@
+{
+  "resume_id": "dc7a90ab-e043-4461-8316-c79c32109ae6",
+  "full_name": "Parth Gaddam",
+  "name": "Parth Gaddam",
+  "email": "parthreddyg@gmail.com",
+  "phone_number": "+91 8096490141",
+  "address": "Hyderabad, Telangana, India – 500048",
+  "linkedin": "LinkedIn",
+  "linkedin_url": "LinkedIn",
+  "summary": "Highly experienced AI professional with expertise in machine learning, natural language processing, and facial recognition. Proven track record of developing innovative solutions and scaling them up to large user bases.",
+  "total_experience": 7.0,
+  "skills": [
+    "LLM",
+    "ChatGPT",
+    "Gemini",
+    "Node",
+    "Python",
+    "Law Embeddings",
+    "Jina deepresearch",
+    "AWS services",
+    "Bert",
+    "TF-IDF",
+    "Linguistics",
+    "Faiss",
+    "Reranking",
+    "Feather Net",
+    "ONNX Quantization",
+    "MTCNN"
+  ],
+  "positions": [
+    "Head of AI",
+    "Senior Software Engineer (Machine Learning)",
+    "Senior Machine Learning Engineer",
+    "Data scientist"
+  ],
+  "companies": [
+    {
+      "name": "Deeplink Technologies",
+      "role": "Head of AI",
+      "description": "Developed Legal AI Platform, Custom Bot Platform, and increased efficiency by 10x and reduced cost by 50%",
+      "duration": "11/2021- Present",
+      "technologies": [
+        "LLM",
+        "ChatGPT",
+        "Gemini",
+        "Node",
+        "Python",
+        "Law Embeddings",
+        "Jina deepresearch",
+        "AWS services"
+      ]
+    },
+    {
+      "name": "Smartek21",
+      "role": "Senior Software Engineer (Machine Learning)",
+      "description": "Developed Cognitive bot and Document Search",
+      "duration": "03/2020-11/2021",
+      "technologies": [
+        "Bert",
+        "TF-IDF",
+        "Linguistics",
+        "Faiss",
+        "Reranking"
+      ]
+    },
+    {
+      "name": "Techolution",
+      "role": "Senior Machine Learning Engineer",
+      "description": "Developed end to end machine learning solutions for an Enterprise Facial recognition platform",
+      "duration": "04/2019-11/2019",
+      "technologies": [
+        "Feather Net",
+        "ONNX Quantization",
+        "MTCNN"
+      ]
+    },
+    {
+      "name": "Evolgence IT Solutions",
+      "role": "Data scientist",
+      "description": "Developed FR Edge device for access control and KYC automation platform",
+      "duration": "05/2016-01/2019",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "JNTU Hyderabad",
+      "year": 2016
+    },
+    {
+      "degree": "RWRI - 18",
+      "institution": "Real world Risk Institute",
+      "year": 2018
+    },
+    {
+      "degree": "Advanced Machine Learning with TensorFlow on GCP",
+      "institution": "Google",
+      "year": 2018
+    },
+    {
+      "degree": "Machine learning and Cognitive Neuroscience",
+      "institution": "IIIT Hyderabad Summer school",
+      "year": 2017
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Legal AI Platform",
+      "description": "Developed platform from scratch for law firms, scaled up to 10K advocates with 100K INR revenue",
+      "role": "Head of AI",
+      "metrics": "10K advocates, 100K INR revenue",
+      "technologies": [
+        "LLM",
+        "ChatGPT",
+        "Gemini",
+        "Node",
+        "Python",
+        "Law Embeddings",
+        "Jina deepresearch",
+        "AWS services"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Custom Bot Platform",
+      "description": "One stop platform where customers can train their bots on proprietary data and deploy them on their website in less than a minute",
+      "role": "Head of AI",
+      "metrics": "1M users, 500 ms latency per query",
+      "technologies": [
+        "LLM",
+        "ChatGPT",
+        "Gemini",
+        "Node",
+        "Python",
+        "Law Embeddings",
+        "Jina deepresearch",
+        "AWS services"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Cognitive bot",
+      "description": "A conversational AI application, specifically solved Question generation, Summarization, Query understanding and search",
+      "role": "Senior Software Engineer (Machine Learning)",
+      "metrics": "35% more accuracy",
+      "technologies": [
+        "Bert",
+        "TF-IDF",
+        "Linguistics",
+        "Faiss",
+        "Reranking"
+      ],
+      "duration_months": 9
+    },
+    {
+      "name": "Document Search",
+      "description": "Semantic search engine for enterprise documents, implemented semantic, hybrid search, with overall accuracy of 89%",
+      "role": "Senior Software Engineer (Machine Learning)",
+      "metrics": "89% accuracy, latency under 1 sec",
+      "technologies": [
+        "Bert",
+        "TF-IDF",
+        "Linguistics",
+        "Faiss",
+        "Reranking"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Face Anti-spoofing",
+      "description": "Developed dual solutions for Face Anti-spoofing, RGB input with an accuracy of a 92% and intel real sense Depth camera",
+      "role": "Senior Machine Learning Engineer",
+      "metrics": "92% accuracy",
+      "technologies": [
+        "Feather Net",
+        "ONNX Quantization",
+        "MTCNN"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "FR Edge device",
+      "description": "Developed FR Edge device for access control, performing detection, recognition, and inference with 1 sec Latency",
+      "role": "Data scientist",
+      "metrics": "1 sec Latency",
+      "technologies": [],
+      "duration_months": 12
+    },
+    {
+      "name": "KYC automation platform",
+      "description": "Developed KYC automation platform involving face and information extraction, and verification, reducing the process time to less than 2 minutes",
+      "role": "Data scientist",
+      "metrics": "less than 2 minutes",
+      "technologies": [],
+      "duration_months": 6
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Increased efficiency by 10x and reduced cost by 50%",
+      "metrics": "10x efficiency, 50% cost reduction"
+    },
+    {
+      "type": "Innovation",
+      "description": "Developed Legal AI Platform and Custom Bot Platform",
+      "metrics": "10K advocates, 100K INR revenue"
+    },
+    {
+      "type": "Leadership",
+      "description": "Architect and developed platform from scratch for law firms",
+      "metrics": "10K advocates, 100K INR revenue"
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers",
+    "541511 - Custom Computer Programming Services"
+  ],
+  "opensearch_success": true,
+  "processing_time": 34.03968906402588,
+  "s3_key": "raw/70 profiles/ParthGaddam[9y_0m] (1).pdf",
+  "file_type": "pdf",
+  "original_filename": "ParthGaddam[9y_0m] (1).pdf"
+}

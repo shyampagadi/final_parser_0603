@@ -1,0 +1,26 @@
+{
+  "job_title": "Senior Data Engineering Architect",
+  "required_experience": 8,
+  "required_skills": [
+    "AWS cloud services",
+    "PySpark",
+    "SQL",
+    "Python",
+    "Snowflake",
+    "microservices architecture",
+    "containerization",
+    "real-time data processing technologies"
+  ],
+  "nice_to_have_skills": [
+    "AI/ML technologies",
+    "certifications",
+    "data visualization tools",
+    "DevOps practices",
+    "CI/CD pipelines",
+    "industry experience"
+  ],
+  "seniority_level": "Senior",
+  "job_type": "Full-time",
+  "industry": "Technology",
+  "required_education": "Bachelor's or Master's"
+}

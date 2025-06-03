@@ -1,0 +1,174 @@
+{
+  "resume_id": "51676b63-c819-4cd5-9fb9-5357c4681666",
+  "full_name": "Himanshu Goyal",
+  "name": "Himanshu Goyal",
+  "email": "ihimanshugoyal18@gmail.com",
+  "phone_number": "+91 7406465189",
+  "address": "",
+  "linkedin": "linkedin.com/in/himanshugoyal18/",
+  "linkedin_url": "linkedin.com/in/himanshugoyal18/",
+  "summary": "Experienced software developer with 8 years of hands-on experience in Python programming, specializing in backend development, chatbot architecture, ETL processes, and building robust web applications. Proficient in Low-Level Design (LLD) and High-Level Design (HLD), delivering optimized solutions in both microservices and monolithic architectures. Adept in enhancing system performance, and driving end-to-end project success. A highly collaborative team leader with the ability to solve complex technical problems and contribute to scalable and efficient software systems.",
+  "total_experience": 8.0,
+  "skills": [
+    "Python",
+    "Flask",
+    "Django",
+    "Django REST Framework (DRF)",
+    "Object-Oriented Programming",
+    "SOLID Principles",
+    "Low Level Designs",
+    "Microservices",
+    "Monolithic Systems",
+    "High Level Designs",
+    "MySQL",
+    "PostgreSQL",
+    "NoSQL (Redis, MongoDB, Cassandra)",
+    "Prometheus",
+    "Elastic Search",
+    "Ka<ka",
+    "Zookeeper",
+    "Rasa",
+    "Natural Language Processing (NLP)",
+    "Intent Detection",
+    "Named Entity Recognition (NER)",
+    "ETL Work<low Automation",
+    "AWS",
+    "Docker",
+    "Jenkins",
+    "GitLab CI",
+    "Prom QL",
+    "Alert Manager (Slack, Outlook, PagerDuty)",
+    "NumPy",
+    "Pandas"
+  ],
+  "positions": [
+    "Associate Consultant",
+    "Software Engineer II",
+    "Software Engineer"
+  ],
+  "companies": [
+    {
+      "name": "GlobalLogic-Hitachi",
+      "role": "Associate Consultant",
+      "description": "ADOBE – Ad Cloud",
+      "duration": "03/2022- Present",
+      "technologies": [
+        "Python",
+        "Prometheus",
+        "Ka<ka",
+        "Zookeeper"
+      ]
+    },
+    {
+      "name": "SIEMENS",
+      "role": "Software Engineer II",
+      "description": "AI Chatbot -VERONICA and DIL",
+      "duration": "09/2019-03/2022",
+      "technologies": [
+        "Rasa",
+        "Natural Language Processing (NLP)",
+        "Intent Detection",
+        "Named Entity Recognition (NER)"
+      ]
+    },
+    {
+      "name": "Altimetrik India",
+      "role": "Software Engineer",
+      "description": "Zene<its- HR Payroll",
+      "duration": "06/2018-09/2019",
+      "technologies": [
+        "Python",
+        "Django",
+        "Graph-QL"
+      ]
+    },
+    {
+      "name": "Altran Networks",
+      "role": "Software Engineer",
+      "description": "Nokia Networks – Trouble Ticket Tool",
+      "duration": "10/2016-11/2017",
+      "technologies": [
+        "Python",
+        "Django",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E (Electrical Engineering)",
+      "institution": "Government Engineering College, Jabalpur (M.P)",
+      "year": 2013
+    },
+    {
+      "degree": "XIIth",
+      "institution": "IPS Acadmey, Bhind(M.P) (C.B.S.E Board)",
+      "year": 2008
+    },
+    {
+      "degree": "Xth",
+      "institution": "Rajendra Convent School, Bhind, (M.P) (C.B.S.E Board)",
+      "year": 2006
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "ADOBE – Ad Cloud",
+      "description": "ADOBE – Ad Cloud: It is a crossed channel platform that offers customers the ability to manage its ads.",
+      "role": "Associate Consultant",
+      "metrics": "Significant performance boost for the Adobe Ad Cloud platform",
+      "technologies": [
+        "Python",
+        "Prometheus",
+        "Ka<ka",
+        "Zookeeper"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "VERONICA",
+      "description": "Chatbot for Siemens which helped L1 and L2 teams to resolve queries in quick time.",
+      "role": "Software Engineer II",
+      "metrics": "Generated revenue from internal clients",
+      "technologies": [
+        "Rasa",
+        "Natural Language Processing (NLP)",
+        "Intent Detection",
+        "Named Entity Recognition (NER)"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Zene<its- HR Payroll",
+      "description": "US based org that offers cloud-based software as a service to companies for managing their recourses.",
+      "role": "Software Engineer",
+      "metrics": "Created 19 different reports templates for US taxation",
+      "technologies": [
+        "Python",
+        "Django",
+        "Graph-QL"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Nokia Networks – Trouble Ticket Tool",
+      "description": "Tool to create TT for every critical, major and minor outage related to site down.",
+      "role": "Software Engineer",
+      "metrics": "Automated most of the daily task using Python scripting",
+      "technologies": [
+        "Python",
+        "Django",
+        "MySQL"
+      ],
+      "duration_months": 12
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 28.50732159614563,
+  "s3_key": "raw/70 profiles/HIMANSHUGOYAL[8y_2m].pdf",
+  "file_type": "pdf",
+  "original_filename": "HIMANSHUGOYAL[8y_2m].pdf"
+}

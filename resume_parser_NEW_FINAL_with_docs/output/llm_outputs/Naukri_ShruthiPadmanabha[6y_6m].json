@@ -1,0 +1,127 @@
+{
+  "resume_id": "e935877e-9ce2-47f7-ad42-60e643cbcb1e",
+  "full_name": "Shruthi P",
+  "name": "Shruthi P",
+  "email": "shruthipadmanabha93@gmail.com",
+  "phone_number": "+91 8971970889",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Senior Data Engineer with over 5 years of advanced analytics expertise, data engineering and specializes in developing scalable data pipelines, designing ETL processes, and building insightful dashboards using tools such as PySpark, Python, SQL, and Azure/AWS Cloud Services.",
+  "total_experience": 6.6,
+  "skills": [
+    "Google apps",
+    "Numpy",
+    "Pandas",
+    "SQL",
+    "Python",
+    "Advanced Excel",
+    "PowerBI",
+    "PySpark",
+    "Azure Cloud Services",
+    "Amazon Web Services (AWS)",
+    "Databricks",
+    "Amazon Kinesis",
+    "Azure Synapse",
+    "Azure Data Factory",
+    "AWS Glue",
+    "Amazon Lambda",
+    "Azure SQL Server"
+  ],
+  "positions": [
+    "Senior Data Engineer",
+    "Data Engineer",
+    "Data Analyst"
+  ],
+  "companies": [
+    {
+      "name": "Ubique Systems India Pvt Limited",
+      "role": "Senior Data Engineer",
+      "description": "",
+      "duration": "10/2022-03/2024",
+      "technologies": [
+        "PySpark",
+        "Databricks",
+        "Azure delta lakes",
+        "MySQL RDS",
+        "AWS Kinesis",
+        "Amazon Redshift"
+      ]
+    },
+    {
+      "name": "WIPRO Limited",
+      "role": "Data Engineer",
+      "description": "",
+      "duration": "07/2017-08/2022",
+      "technologies": [
+        "PySpark",
+        "Databricks",
+        "Azure delta lakes",
+        "MySQL RDS",
+        "AWS Kinesis",
+        "Amazon Redshift"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "Computer Science and Engineering",
+      "year": 2016
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "CDC pipeline",
+      "description": "Built CDC pipeline to track changes in DB",
+      "role": "Senior Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "MySQL RDS",
+        "AWS Kinesis",
+        "Amazon Redshift"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Data governance tool",
+      "description": "Built a proof-of-concept (POC) data governance tool, using Pandas and Numpy libraries",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Pandas",
+        "Numpy"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Reduced manual efforts by 80%, saving 160 hours per week",
+      "metrics": "80%"
+    },
+    {
+      "type": "Cost Savings",
+      "description": "Enabled the client to track unaccounted sales and inventory worth USD 250,000",
+      "metrics": "USD 250,000"
+    },
+    {
+      "type": "Innovation",
+      "description": "Built a proof-of-concept (POC) data governance tool, using Pandas and Numpy libraries",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "Pharma",
+    "FMCG & CPG",
+    "Finance",
+    "CIO"
+  ],
+  "opensearch_success": true,
+  "processing_time": 17.04389500617981,
+  "s3_key": "raw/70 profiles/Naukri_ShruthiPadmanabha[6y_6m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_ShruthiPadmanabha[6y_6m].pdf"
+}

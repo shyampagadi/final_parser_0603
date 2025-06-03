@@ -1,0 +1,52 @@
+{
+  "resume_id": "ad556cbb-56b0-45be-b2ef-b9f66a8ea653",
+  "full_name": "Asset Management System (Defense)",
+  "name": "Asset Management System (Defense)",
+  "email": "abhay2201029@gmail.com",
+  "phone_number": "+91-9163267519",
+  "address": "s and demand using Tableau, \nPower BI, Cognos.",
+  "linkedin": null,
+  "linkedin_url": null,
+  "summary": null,
+  "total_experience": 0.0,
+  "skills": [
+    "Python",
+    "Data Science",
+    "Aws",
+    "Flask",
+    "Pytorch",
+    "Numpy",
+    "Sql",
+    "Tensorflow",
+    "Azure",
+    "Gcp",
+    "Jira",
+    "Java",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "positions": [],
+  "companies": [],
+  "education": [
+    {
+      "degree": "BE",
+      "institution": "Unknown Institution"
+    },
+    {
+      "degree": "ME",
+      "institution": "Unknown Institution"
+    },
+    {
+      "degree": "me.",
+      "institution": "Unknown Institution"
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "achievements": [],
+  "opensearch_success": true,
+  "processing_time": 46.164862394332886,
+  "s3_key": "raw/70 profiles/AbhayTripathi_18+years_DataScienceConsulant (1).pdf",
+  "file_type": "pdf",
+  "original_filename": "AbhayTripathi_18+years_DataScienceConsulant (1).pdf"
+}

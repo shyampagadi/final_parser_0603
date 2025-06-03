@@ -1,0 +1,195 @@
+{
+  "resume_id": "48f5fe51-6215-4e38-bc2a-af1665b8a6ca",
+  "full_name": "Kumuda Kamalraj",
+  "name": "Kumuda Kamalraj",
+  "email": "Kumudakutty535@gmail.com",
+  "phone_number": "+91-9164614564",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Experienced IT professional with 9+ years in Microsoft SharePoint and Power platform. Proficient in Power Apps, Power Automate and SharePoint migration and deployment. Passionate learner, individual contributor, and collaborative Team Player.",
+  "total_experience": 9.0,
+  "skills": [
+    "Microsoft Power Apps",
+    "Microsoft Power Automate",
+    "SharePoint",
+    "SharePoint Migration"
+  ],
+  "positions": [
+    "Senior Associate Consultant",
+    "Project Lead level one",
+    "SharePoint Administrator",
+    "Analyst",
+    "Sr. Executive Operations",
+    "Technical Support Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Infosys",
+      "role": "Senior Associate Consultant",
+      "description": "",
+      "duration": "06/2022-12/2023",
+      "technologies": [
+        "PowerApps",
+        "Power Automate",
+        "SharePoint Migration"
+      ]
+    },
+    {
+      "name": "Wipro Technologies",
+      "role": "Project Lead level one",
+      "description": "",
+      "duration": "12/2018-05/2022",
+      "technologies": [
+        "Exchange Online",
+        "SharePoint 2010",
+        "SharePoint 2013",
+        "SharePoint 2016",
+        "SharePoint online",
+        "MS Teams",
+        "One drive",
+        "One note"
+      ]
+    },
+    {
+      "name": "Microland Ltd.",
+      "role": "SharePoint Administrator",
+      "description": "",
+      "duration": "05/2018-11/2018",
+      "technologies": [
+        "Exchange Online"
+      ]
+    },
+    {
+      "name": "Ericsson India global services Pvt Ltd.",
+      "role": "Analyst",
+      "description": "",
+      "duration": "06/2017-04/2018",
+      "technologies": [
+        "SharePoint 2010",
+        "Office 365"
+      ]
+    },
+    {
+      "name": "Aegis Ltd.",
+      "role": "Sr. Executive Operations",
+      "description": "",
+      "duration": "04/2016-06/2017",
+      "technologies": [
+        "SharePoint 2010"
+      ]
+    },
+    {
+      "name": "Mphasis Ltd.",
+      "role": "Technical Support Engineer",
+      "description": "",
+      "duration": "08/2014-01/2016",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech [CSE]",
+      "institution": "JNTU Ananthapur University Visvodaya Engineering College",
+      "year": 2014
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "State Board Z.P Girls High School",
+      "year": 2010
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "EUC",
+      "description": "Designed and implemented custom powerapps canvas apps for business processes and workflows. Built power automate flows for business process implementation.",
+      "role": "Lead",
+      "metrics": "",
+      "technologies": [
+        "PowerApps",
+        "Power Automate",
+        "SharePoint Migration"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Pidilite",
+      "description": "Taken end to end ownership (Lead) of 2 applications, designed and implemented with canvas apps and power automate flows. Migrated and deployed the same implementation to UAT and production with proper customer requirement.",
+      "role": "Lead",
+      "metrics": "",
+      "technologies": [
+        "PowerApps",
+        "Power Automate",
+        "SharePoint Migration and deployment"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "MAI Portal",
+      "description": "Worked on SharePoint online related issues. Worked on Site Columns, Content type related issues. Provided quick resolution when customer sends email.",
+      "role": "",
+      "metrics": "",
+      "technologies": [
+        "SharePoint Online",
+        "Power Automate"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "YWTB (YourWorkplaceTechBar)",
+      "description": "Assigning (E3, office2016) license access to the end user as per the management request. Troubleshooting outlook 2016 issues.",
+      "role": "",
+      "metrics": "",
+      "technologies": [
+        "Exchange Online"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "NBCU",
+      "description": "Assigning (E3, office2016) license access to the end user as per the management request. Troubleshooting outlook 2016 issues.",
+      "role": "",
+      "metrics": "",
+      "technologies": [
+        "Exchange Online"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "CPS",
+      "description": "Hands on experience with SharePoint online and Office 365. Responsible for responding to end-user issues, queries via incident management tool (ITSM).",
+      "role": "",
+      "metrics": "",
+      "technologies": [
+        "SharePoint 2010 & Office 365"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "PRR",
+      "description": "Periodic updating of research records to document libraries in internal SharePoint site.",
+      "role": "",
+      "metrics": "",
+      "technologies": [
+        "SharePoint 2010"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "TELECOM",
+      "description": "Identifying and controlling change to the functional and physical characteristics of hardware and software.",
+      "role": "",
+      "metrics": "",
+      "technologies": [],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 28.425042629241943,
+  "s3_key": "raw/70 profiles/Naukri_KumudaKamalraj[9y_0m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_KumudaKamalraj[9y_0m].docx"
+}

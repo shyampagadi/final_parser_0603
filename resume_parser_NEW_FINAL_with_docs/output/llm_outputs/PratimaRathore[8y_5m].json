@@ -1,0 +1,190 @@
+{
+  "resume_id": "fcc5179d-4038-4e0c-8d35-d43977b7a9d1",
+  "full_name": "Pratima Rathore",
+  "name": "Pratima Rathore",
+  "email": "Pratimarathore77@gmail.com",
+  "phone_number": "9163087381",
+  "address": "Hyderabad, India 500087",
+  "linkedin": "https://www.linkedin.com/in/pratimarathore17",
+  "linkedin_url": "https://www.linkedin.com/in/pratimarathore17",
+  "summary": "Experienced Data Scientist with over 8 years of expertise in leveraging cutting-edge technologies, advanced analytics, NLP and Generative AI solutions to drive data-driven insights and automation.",
+  "total_experience": 8.0,
+  "skills": [
+    "Data Science",
+    "Machine Learning",
+    "Natural Language Processing (NLP)",
+    "Artificial Intelligence (AI)",
+    "Deep Learning",
+    "Generative AI",
+    "Retrieval Augmented Generation (RAG)",
+    "Agentic Frameworks",
+    "Transfer Learning",
+    "Python Programming",
+    "Predictive Modelling",
+    "Named Entity Recognition (NER)",
+    "Sentiment Analysis",
+    "Classification",
+    "Clustering",
+    "Ensemble Methods",
+    "Information Retrieval",
+    "Text Generation",
+    "Large Language Models (LLMs)",
+    "Feature Engineering",
+    "Quantitative/Advanced Analytics",
+    "Cloud Computing",
+    "Data Wrangling",
+    "Crew AI",
+    "Langchain",
+    "Big Data Analytics",
+    "Agile Methodology",
+    "Dimensionality Reduction",
+    "Database Management",
+    "Business requirements gathering",
+    "Data science research methods"
+  ],
+  "positions": [
+    "Senior Data Scientist",
+    "Machine Learning Specialist",
+    "Senior Product Engineer",
+    "Data Analyst",
+    "Programming Analyst"
+  ],
+  "companies": [
+    {
+      "name": "Pegasystems",
+      "role": "Senior Data Scientist",
+      "description": "Built a production-grade RAG pipelines that reduced hallucination by 78% while improving response relevance by 35% across enterprise knowledge bases.",
+      "duration": "09/2023 – Present",
+      "technologies": [
+        "RAG",
+        "LLMs",
+        "Information Retrieval systems",
+        "Agentic Frameworks"
+      ]
+    },
+    {
+      "name": "Accenture",
+      "role": "Machine Learning Specialist",
+      "description": "Led a team of data scientists and analysts in building advanced analytical and predictive pipeline using ML models and LLMs using large volumes of structured, semi-structured and chaotic data to solve complex business problems for clients in various industries",
+      "duration": "05/2021 - 09/2023",
+      "technologies": [
+        "ML models",
+        "LLMs",
+        "LangChain",
+        "Falcon",
+        "Bard",
+        "MPT",
+        "Llama"
+      ]
+    },
+    {
+      "name": "Lymbyc LTI",
+      "role": "Senior Product Engineer",
+      "description": "Developed virtual analyst system Leni that simplifies complex decision-making for clients across various sectors, mostly in sales, marketing, and commercial functions",
+      "duration": "12/2020 - 04/2021",
+      "technologies": [
+        "ML models",
+        "Leni"
+      ]
+    },
+    {
+      "name": "Verizon",
+      "role": "Data Analyst",
+      "description": "Build predictive models, including linear and logistic regression, Multivariate regression, decision trees and deep learning models using frameworks like TensorFlow, Keras, pyTorch, scikit-learn.",
+      "duration": "04/2019 - 12/2020",
+      "technologies": [
+        "TensorFlow",
+        "Keras",
+        "pyTorch",
+        "scikit-learn",
+        "BERT"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "role": "Programming Analyst",
+      "description": "Built robust data pipelines and ETL processes to support large-scale information retrieval systems",
+      "duration": "10/2016 - 03/2019",
+      "technologies": [
+        "Hadoop",
+        "Spark",
+        "Map/Reduce",
+        "Big Data platforms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Liverpool John Moore's University, UK",
+      "year": 2021
+    },
+    {
+      "degree": "Post Graduate Diploma",
+      "institution": "International Institute of Information Technology, Bangalore",
+      "year": 0
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Kalinga Institute of Industrial Technology",
+      "year": 2016
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "RAG pipelines",
+      "description": "Built a production-grade RAG pipelines that reduced hallucination by 78% while improving response relevance by 35% across enterprise knowledge bases.",
+      "role": "Senior Data Scientist",
+      "metrics": "78% reduction in hallucination, 35% improvement in response relevance",
+      "technologies": [
+        "RAG",
+        "LLMs",
+        "Information Retrieval systems",
+        "Agentic Frameworks"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Modular chain-of-agents framework",
+      "description": "Developed and deployed a modular chain-of-agents framework integrating role-specialized LLMs that increased task completion rates and reduced processing time by 40% for complex information retrieval workflows.",
+      "role": "Senior Data Scientist",
+      "metrics": "40% increase in task completion rates, 40% reduction in processing time",
+      "technologies": [
+        "LLMs",
+        "Agentic Frameworks"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Knowledge graphs with Claude and OpenAI models",
+      "description": "Led innovation in combining knowledge graphs with Claude and OpenAI models, enabling multi-hop reasoning capabilities that solved previously intractable business problems and increased solution accuracy.",
+      "role": "Senior Data Scientist",
+      "metrics": "Increased solution accuracy",
+      "technologies": [
+        "Knowledge graphs",
+        "Claude",
+        "OpenAI models"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Custom fine-tuning pipelines for domain-specific LLMs",
+      "description": "Developed custom fine-tuning pipelines for domain-specific LLMs that outperformed base models by 42% on industry-specific tasks while reducing inference latency by 30%.",
+      "role": "Senior Data Scientist",
+      "metrics": "42% outperformance of base models, 30% reduction in inference latency",
+      "technologies": [
+        "LLMs",
+        "Domain-specific LLMs"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 31.26565909385681,
+  "s3_key": "raw/70 profiles/PratimaRathore[8y_5m].pdf",
+  "file_type": "pdf",
+  "original_filename": "PratimaRathore[8y_5m].pdf"
+}

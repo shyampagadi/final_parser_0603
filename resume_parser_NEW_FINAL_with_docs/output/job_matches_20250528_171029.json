@@ -1,0 +1,2189 @@
+{
+  "job_description": "\n# Job Description: Senior Data Engineering Architect\n\n**Location:** Hybrid (Bangalore/Hyderabad)\n\n**Company:** TechInnovate Solutions\n\n## About the Role\n\nWe are seeking an experienced **Senior Data Engineering Architect** to join our growing team. The ideal candidate will have strong expertise in designing and implementing scalable data solutions using cloud technologies, with a focus on AWS services. This role will be responsible for architecting, developing, and optimizing our data infrastructure to support our AI and machine learning initiatives.\n\n## Key Responsibilities\n\n- Design and develop robust, scalable data pipelines and ETL processes using PySpark, AWS EMR, and other Big Data technologies\n- Lead the migration of existing data platforms from on-premises to cloud environments\n- Implement data storage solutions using various databases including Snowflake, PostgreSQL, and NoSQL databases\n- Architect and develop microservices for data processing using Java/Spring Boot\n- Establish best practices for data quality, security, and governance\n- Collaborate with data scientists and ML engineers to build data platforms that support AI/ML workloads\n- Mentor junior engineers and provide technical leadership to the team\n\n## Required Skills & Experience\n\n- 8+ years of experience in data engineering or similar roles\n- Strong expertise in AWS cloud services (EMR, Lambda, S3, RDS)\n- Proficiency in PySpark, SQL, and Python for large-scale data processing\n- Experience with Snowflake and other modern data warehouse solutions\n- Knowledge of microservices architecture and containerization (Docker, Kubernetes)\n- Familiarity with real-time data processing technologies (Kafka)\n- Bachelor's or Master's degree in Computer Science, Engineering or a related field\n\n## Preferred Qualifications\n\n- Experience with AI/ML technologies including LangChain, OpenAI, and vector databases (ChromaDB)\n- Certifications such as AWS Solutions Architect or SnowPro Core\n- Experience with data visualization tools (Power BI, Tableau)\n- Knowledge of DevOps practices and CI/CD pipelines\n- Experience in financial services, healthcare, or e-commerce industries\n- Track record of improving system performance and reducing operational costs\n\n## What We Offer\n\n- Competitive salary package with performance bonuses\n- Opportunity to work with cutting-edge technologies\n- Professional development and certification support\n- Flexible work arrangements with hybrid options\n- Health and wellness benefits\n- Collaborative and innovative team environment\n\nThis is a unique opportunity to make a significant impact in a fast-growing technology company that values innovation and technical excellence. If you have a passion for designing scalable data solutions and want to work with a talented team pushing the boundaries of what's possible with data, we want to hear from you!\n\n**Job ID:** DE-ARCH-2025-06\n**Apply by:** July 15, 2025\n",
+  "jd_analysis": {
+    "job_title": "Senior Data Engineering Architect",
+    "required_experience": 8,
+    "required_skills": [
+      "AWS cloud services",
+      "PySpark",
+      "SQL",
+      "Python",
+      "Snowflake",
+      "microservices architecture",
+      "containerization",
+      "real-time data processing technologies",
+      "AI/ML technologies",
+      "certifications",
+      "data visualization tools",
+      "DevOps practices",
+      "CI/CD pipelines",
+      "industry experience"
+    ],
+    "nice_to_have_skills": [
+      "AI/ML technologies",
+      "certifications",
+      "data visualization tools",
+      "DevOps practices",
+      "CI/CD pipelines",
+      "industry experience"
+    ],
+    "seniority_level": "Senior",
+    "job_type": "Full-time",
+    "industry": "Technology",
+    "required_education": "Bachelor's or Master's"
+  },
+  "required_experience": 8,
+  "search_method": "vector",
+  "extracted_skills": [
+    "AWS cloud services",
+    "PySpark",
+    "SQL",
+    "Python",
+    "Snowflake",
+    "microservices architecture",
+    "containerization",
+    "real-time data processing technologies",
+    "AI/ML technologies",
+    "certifications",
+    "data visualization tools",
+    "DevOps practices",
+    "CI/CD pipelines",
+    "industry experience"
+  ],
+  "total_results": 10,
+  "results": [
+    {
+      "resume_id": "3bf3c20f-5485-40fa-9bad-1aa188a49bcd",
+      "resume_data": {
+        "positions": [
+          "Big Data Engineer",
+          "MS SQL Developer"
+        ],
+        "summary": "Experienced Big Data Engineer with 10 years in database development (MS SQL Developer) and 3 years in AWS Cloud Data Engineering. Strong expertise in PySpark, AWS EMR, SQL, and Big Data Technologies. Skilled in designing and optimizing data pipelines, ensuring scalability, performance, and cost efficiency. Adept at handling structured and semi-structured data with Spark RDDs, DataFrames, and SQL.",
+        "created_at": "2025-05-28T16:54:18.053294",
+        "projects": [
+          {
+            "name": "CCRMRD Quality Quantity Management",
+            "technologies": [
+              "AWS",
+              "PySpark",
+              "Python",
+              "MS SQL"
+            ],
+            "description": "It is used to capture the quality and quantity of the raw milk and All the Milk testing factors from the FT1, FT3, Lacto test machine and manual",
+            "role": "Big Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Digital Personal Data Protection",
+            "technologies": [
+              "AWS",
+              "PySpark",
+              "MS SQL"
+            ],
+            "description": "This is secure system for storing personal and financial data internally. Ensuring data encryption is a crucial step in protecting sensitive information from unauthorized access",
+            "role": "Big Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "EHS (Environmental, Health, and Safety)",
+            "technologies": [
+              "AWS",
+              "PySpark"
+            ],
+            "description": "EHS is a complete system, which can be capture All the safety activities and carbon, nitrogen, oxygen, Sulphur consumption and activity over factory wise",
+            "role": "Big Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Sampling Analysis System",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Agreement Management System",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "eCline import/export",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Guest House Booking",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Integrated Cane management system",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Integrated lease management system",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Garden irrigation and motor sensor",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Auto weighment system",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Yard Management System",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Instant and time based scheduler",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "GST Implementation Billings and Finance",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Centralized Banking, Billings and Finance",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Enterprise Resource Planning [Container Management System]",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          }
+        ],
+        "total_experience": "10",
+        "companies": [
+          {
+            "name": "Net Access India Ltd",
+            "duration": "07/2018- Present",
+            "technologies": [
+              "AWS",
+              "PySpark",
+              "Python",
+              "MS SQL"
+            ],
+            "description": "Not provided",
+            "role": "Big Data Engineer"
+          },
+          {
+            "name": "Indev Logistics Pvt Ltd",
+            "duration": "02/2015-06/2018",
+            "technologies": [
+              "MS SQL Server"
+            ],
+            "description": "Not provided",
+            "role": "MS SQL Developer"
+          }
+        ],
+        "certifications": [
+          "Not provided"
+        ],
+        "achievements": [
+          "Not provided"
+        ],
+        "updated_at": "2025-05-28T16:54:18.053294",
+        "resume_id": "3bf3c20f-5485-40fa-9bad-1aa188a49bcd",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering",
+            "institution": "Anna University",
+            "year": "0"
+          }
+        ],
+        "skills": [
+          "PySpark",
+          "AWS EMR",
+          "SQL",
+          "Big Data Technologies",
+          "Spark RDDs",
+          "DataFrames",
+          "MS SQL Server",
+          "MySQL",
+          "Oracle",
+          "Hadoop",
+          "Sqoop",
+          "Hive",
+          "Apache Spark",
+          "Python"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "3bf3c20f-5485-40fa-9bad-1aa188a49bcd",
+        "name": "Guna",
+        "email": "guna565@yahoo.com",
+        "phone_number": "+91 9677669588",
+        "address": "Chennai",
+        "linkedin_url": "",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/Naukri_Guna[10y_0m].pdf",
+        "original_filename": "Naukri_Guna[10y_0m].pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:24:12.082915",
+        "updated_dt": "2025-05-28 11:24:12.082915"
+      },
+      "search_score": 65.8,
+      "combined_score": 63.82,
+      "skill_match_score": 25.0,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "PySpark",
+        "SQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 10.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "fc1bc24d-92e8-421e-a58a-911b72293688",
+      "resume_data": {
+        "positions": [
+          "Senior Manager",
+          "Senior Software Engineer",
+          "Member Technical"
+        ],
+        "summary": "Results-driven professional skilled in leveraging data engineering, data analytics and business intelligence to enhance organizational outcomes. Proven expertise in data visualization and cross-functional collaboration, utilizing advanced analytical tools to drive accuracy, efficiency, and impactful decision-making.",
+        "created_at": "2025-05-28T16:57:07.557230",
+        "projects": [
+          {
+            "name": "Settlement to Trading Linkage Attribution (STLA)",
+            "technologies": [
+              "Power BI",
+              "SQL"
+            ],
+            "description": "Developed a comprehensive application to create daily snapshots of open missions, analyzing their relationship with other missions to assess trade settlement status and methods.",
+            "role": "Senior Manager",
+            "metrics": "Daily snapshots of open missions",
+            "duration_months": "6"
+          },
+          {
+            "name": "Data Migration Projects",
+            "technologies": [
+              "Snowflake",
+              "DB2",
+              "Greenplum"
+            ],
+            "description": "Contributed to several data migration initiatives, including transferring data from DB2 to Greenplum and subsequently migrating to Snowflake as part of cloud adoption efforts.",
+            "role": "Senior Manager",
+            "metrics": "Successful data migration",
+            "duration_months": "12"
+          }
+        ],
+        "total_experience": "13",
+        "companies": [
+          {
+            "name": "Morgan Stanley Advantage Services Pvt. Ltd.",
+            "duration": "06/2018- Present",
+            "technologies": [
+              "Snowflake",
+              "Azure SQL",
+              "Greenplum",
+              "DB2"
+            ],
+            "description": "Worked on data migration processes from Azure SQL to Snowflake.",
+            "role": "Senior Manager"
+          },
+          {
+            "name": "Capgemini Private Ltd.",
+            "duration": "06/2016-06/2018",
+            "technologies": [
+              "Tableau",
+              "SQL"
+            ],
+            "description": "Optimized the performance of functions and queries, achieving a 50% improvement across multiple project areas.",
+            "role": "Senior Software Engineer"
+          },
+          {
+            "name": "Broadridge Financial Solutions India Pvt. Ltd.",
+            "duration": "04/2012-06/2016",
+            "technologies": [
+              "Sybase",
+              "Greenplum"
+            ],
+            "description": "Contributed to a migration project by successfully transferring the entire dataset from Sybase to Greenplum.",
+            "role": "Member Technical"
+          }
+        ],
+        "certifications": [
+          "SnowPro Core Certified"
+        ],
+        "achievements": [
+          {
+            "type": "Performance",
+            "description": "Achieved a 50% improvement in efficiency through query optimization and function enhancements.",
+            "metrics": "50% improvement"
+          }
+        ],
+        "updated_at": "2025-05-28T16:57:07.557230",
+        "resume_id": "fc1bc24d-92e8-421e-a58a-911b72293688",
+        "industries": [
+          "511120 - Software Publishers",
+          "522320 - Financial Transaction Processing, Reserve, and Clearinghouse Activities"
+        ],
+        "education": [
+          {
+            "degree": "Master of Computer Applications",
+            "institution": "Osmania University, Hyderabad, India",
+            "year": "2011"
+          },
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "Osmania University, Hyderabad, India",
+            "year": "2008"
+          }
+        ],
+        "skills": [
+          "Data Engineering",
+          "Data Analytics",
+          "Business Intelligence",
+          "Data Visualization",
+          "Cross-functional Collaboration",
+          "Snowflake",
+          "Azure SQL",
+          "Postgres",
+          "Greenplum",
+          "DB2",
+          "Data Modeling",
+          "ETL processes",
+          "Data Quality Management",
+          "Query Tuning",
+          "Performance Improvement",
+          "DBT",
+          "Matillion",
+          "Databricks",
+          "Spark"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "fc1bc24d-92e8-421e-a58a-911b72293688",
+        "name": "Trinadh Mikkilineni",
+        "email": "trinadh1661@gmail.com",
+        "phone_number": "+91 9948430483",
+        "address": "Bangalore",
+        "linkedin_url": "https://www.linkedin.com/in/trinadh-mikkilineni",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/TrinadhMikkilineni_10.0 Years_Data Engineer Architect_Hyderabad.docx",
+        "original_filename": "TrinadhMikkilineni_10.0 Years_Data Engineer Architect_Hyderabad.docx",
+        "file_type": "docx",
+        "created_dt": "2025-05-28 11:27:03.333880",
+        "updated_dt": "2025-05-28 11:27:03.333880"
+      },
+      "search_score": 64.31,
+      "combined_score": 60.01,
+      "skill_match_score": 14.29,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "Snowflake"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "SQL",
+        "Python",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 13.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "62cb3d83-922d-4614-b460-d5e8599098c4",
+      "resume_data": {
+        "positions": [
+          "Senior Software Engineer",
+          "Data Analyst",
+          "Data Modeler",
+          "Data Architect",
+          "Software Developer"
+        ],
+        "summary": "A results-driven and innovative AI/ML Expert with 9+ years of experience in Generative AI development, specializing in Large Language Models (LLMs) and LLM-based chatbots. Proven expertise in Data Modeling, Data Analysis, and Mainframe technologies. Adept at designing scalable AI-driven solutions, leveraging cutting-edge algorithms to enhance business operations and customer experiences. Strong background in implementing data strategies, building advanced predictive models, and managing AI models through their entire lifecycle.",
+        "created_at": "2025-05-28T16:55:43.729002",
+        "projects": [
+          {
+            "name": "Project Lager",
+            "technologies": [
+              "Yolo5 model",
+              "DocAI",
+              "chagpt",
+              "Azure"
+            ],
+            "description": "Ran a pipeline that can redact documents with logos and company names on Linux VMS. Uses Yolo5 model to redact the documents and DocAI and chagpt for validation of Redacted documents and the processed files are again uploaded to azure blob.",
+            "role": "Senior Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Chat bot - Supply Chain Resilience",
+            "technologies": [
+              "Gpt -4o model",
+              "Azure Open AI"
+            ],
+            "description": "Developed a chat bot that can provide meaning insights and accuracy to user queries on the supply chain knowledge. Automate data validation to cut manual work, boost accuracy and offer instant supply chain insights for more efficient operation.",
+            "role": "Senior Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Chat bot - HR Policy Document Chat bot",
+            "technologies": [
+              "Not provided"
+            ],
+            "description": "Created a chat bot that can analysze the uploaded HR documents and user can leverage the session to know about any uploaded policy details.",
+            "role": "Senior Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Chatbot - Genai Document Analyser",
+            "technologies": [
+              "Azure Recognizer",
+              "Azure Storage",
+              "Azure Cognitive search",
+              "AzureOpenAI\u2019s GPT-3",
+              "embedding models",
+              "Streamlit",
+              "Langchain"
+            ],
+            "description": "This application uses Azure Recognizer, Azure Storage, Azure Cognitive search, AzureOpenAI\u2019s GPT-3 and embedding models to enable users to chat with their documents. The application is built using Streamlit and Orchestrated with Langchain.",
+            "role": "Senior Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Project 2 \u2013 Bank of America",
+            "technologies": [
+              "Python",
+              "SQL",
+              "SAP Power Designer"
+            ],
+            "description": "Analyze the inbound data. Create Mapping Specs and Analyze in creating Source Table, Stage Table and Target Tables. Create Logical and physical Data Model input and load then into SAP Power Designer tool to create Data Models.",
+            "role": "Data Analyst/Data Modeler",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Project 3 \u2013 Bank of America",
+            "technologies": [
+              "Oracle Cloud"
+            ],
+            "description": "Analyze the inbound data from various data sources. Understood the incentive calculation platform legacy PMRR and provided solution architecture documents for creating Hubs that can migrate the existing platform to oracle cloud.",
+            "role": "Data Analyst/Data Architect",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Project 4 \u2013 BMW NA",
+            "technologies": [
+              "CICS",
+              "COBOL",
+              "SAP",
+              "Java"
+            ],
+            "description": "Analyzed the existing legacy system to implement the requirement changes and provides the estimates as well. Developed CICS and Cobol programs as per the requirements and integrated the same with SAP, Java frontend.",
+            "role": "Software Developer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          }
+        ],
+        "total_experience": "9",
+        "companies": [
+          {
+            "name": "Accenture",
+            "duration": "06/2016- Till Date",
+            "technologies": [
+              "LLM Chatbot Development",
+              "Gen AI RAG Framework",
+              "Prompt Engineering",
+              "Pandas Dataframe Agent",
+              "Snowflake Cortex Analyst",
+              "Generative AI Technologies",
+              "Python",
+              "SQL",
+              "CICS",
+              "COBOL",
+              "TensorFlow",
+              "PyTorch",
+              "LangChain",
+              "LlamaIndex",
+              "Streamlit",
+              "Flask",
+              "FastAPI",
+              "Data Analysis",
+              "Data Modeling",
+              "Cloud Platforms",
+              "Database"
+            ],
+            "description": "Not provided",
+            "role": "Senior Software Engineer"
+          },
+          {
+            "name": "Bank of America",
+            "duration": "Not provided",
+            "technologies": [
+              "Python",
+              "SQL",
+              "SAP Power Designer"
+            ],
+            "description": "Not provided",
+            "role": "Data Analyst/Data Modeler"
+          },
+          {
+            "name": "BMW NA",
+            "duration": "Not provided",
+            "technologies": [
+              "CICS",
+              "COBOL",
+              "SAP",
+              "Java"
+            ],
+            "description": "Not provided",
+            "role": "Software Developer"
+          }
+        ],
+        "certifications": [
+          "AWS developer associate certified",
+          "Microsoft Azure Developer associate certified",
+          "Data Architect Certified (Internal)"
+        ],
+        "achievements": [
+          {
+            "type": "Performance",
+            "description": "Won Client and Associate Appreciation on deliverables",
+            "metrics": "Not provided"
+          },
+          {
+            "type": "Performance",
+            "description": "Won Accenture Excellence award",
+            "metrics": "Not provided"
+          },
+          {
+            "type": "Performance",
+            "description": "Won Star of the project title for delivering a critical task with a very strict deadline",
+            "metrics": "Not provided"
+          }
+        ],
+        "updated_at": "2025-05-28T16:55:43.729002",
+        "resume_id": "62cb3d83-922d-4614-b460-d5e8599098c4",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          "Not provided"
+        ],
+        "skills": [
+          "LLM Chatbot Development",
+          "Gen AI RAG Framework",
+          "Prompt Engineering",
+          "Pandas Dataframe Agent",
+          "Snowflake Cortex Analyst",
+          "Generative AI Technologies",
+          "Python",
+          "SQL",
+          "CICS",
+          "COBOL",
+          "TensorFlow",
+          "PyTorch",
+          "LangChain",
+          "LlamaIndex",
+          "Streamlit",
+          "Flask",
+          "FastAPI",
+          "Data Analysis",
+          "Data Modeling",
+          "Cloud Platforms",
+          "Database"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "62cb3d83-922d-4614-b460-d5e8599098c4",
+        "name": "Manasa Jyothi Amula",
+        "email": "manasajyothi.amula@gmail.com",
+        "phone_number": "9766138410",
+        "address": "",
+        "linkedin_url": "",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/Naukri_ManasaJyothiAmula[9y_0m].pdf",
+        "original_filename": "Naukri_ManasaJyothiAmula[9y_0m].pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:25:37.568050",
+        "updated_dt": "2025-05-28 11:25:37.568050"
+      },
+      "search_score": 53.96,
+      "combined_score": 58.55,
+      "skill_match_score": 23.21,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "SQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 9.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "12fb5cda-ca5f-4dd9-b602-0ba7ed84cd63",
+      "resume_data": {
+        "positions": [
+          "BIG DATA ENGINEER",
+          "BIG DATA DEVELOPER",
+          "ETL DEVELOPER"
+        ],
+        "summary": "Having total of 9 years of experience in design and development of big data ecosystem, Hadoop, sqoop, hive, spark, pyspark, aws",
+        "created_at": "2025-05-28T16:55:43.729002",
+        "projects": [
+          "Not provided"
+        ],
+        "total_experience": "9",
+        "companies": [
+          {
+            "name": "Diensten Tech Limited",
+            "duration": "Mar2025 - Present",
+            "technologies": [
+              "Hadoop",
+              "Sqoop",
+              "Hive",
+              "Apache Spark",
+              "PySpark",
+              "AWS"
+            ],
+            "description": "Developed and optimized Spark applications using RDDs, DataFrames, and Spark Streaming for distributed data processing, real-time analytics, and batch jobs.",
+            "role": "BIG DATA ENGINEER"
+          },
+          {
+            "name": "Flipkart Pvt Ltd",
+            "duration": "Dec 2023 \u2013 Mar2025",
+            "technologies": [
+              "Hadoop",
+              "Sqoop",
+              "Hive",
+              "Apache Spark",
+              "PySpark",
+              "AWS"
+            ],
+            "description": "Experienced in optimizing Spark DataFrame performance by tuning various configuration settings, such as memory allocation, caching, and serialization.",
+            "role": "BIG DATA ENGINEER"
+          },
+          {
+            "name": "Sterlite Technologies Pvt Ltd",
+            "duration": "12/2020-12/2023",
+            "technologies": [
+              "Hadoop",
+              "Sqoop",
+              "Hive",
+              "Apache Spark",
+              "SQL"
+            ],
+            "description": "Designed and implemented Spark jobs using Scala or Python for efficient distributed data processing.",
+            "role": "BIG DATA DEVELOPER"
+          }
+        ],
+        "certifications": [
+          "Not provided"
+        ],
+        "achievements": [
+          "Not provided"
+        ],
+        "updated_at": "2025-05-28T16:55:43.729002",
+        "resume_id": "12fb5cda-ca5f-4dd9-b602-0ba7ed84cd63",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          "Not provided"
+        ],
+        "skills": [
+          "Hadoop",
+          "Sqoop",
+          "Hive",
+          "Apache Spark",
+          "PySpark",
+          "AWS",
+          "SQL Server",
+          "MySQL",
+          "Phyton",
+          "SQL",
+          "IntelliJ IDEA",
+          "Windows"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "12fb5cda-ca5f-4dd9-b602-0ba7ed84cd63",
+        "name": "Monalisha Goswami",
+        "email": "monalisha.goswami82@gmail.com",
+        "phone_number": "+91-8240104070",
+        "address": ", caching, and serialization.",
+        "linkedin_url": "",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/Naukri_MonalishaGoswami[9y_3m].doc",
+        "original_filename": "Naukri_MonalishaGoswami[9y_3m].doc",
+        "file_type": "doc",
+        "created_dt": "2025-05-28 11:25:37.568050",
+        "updated_dt": "2025-05-28 11:25:37.568050"
+      },
+      "search_score": 58.69,
+      "combined_score": 57.76,
+      "skill_match_score": 14.29,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "PySpark",
+        "SQL"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "Python",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 9.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "6895b237-eeaa-4718-bb19-1545edddd676",
+      "resume_data": {
+        "positions": [
+          "Lead Data Engineer",
+          "Data Engineer",
+          "Intern"
+        ],
+        "summary": "Data & ML Engineer with expertise in building scalable AI & data solutions.",
+        "created_at": "2025-05-28T16:54:18.053294",
+        "projects": [
+          {
+            "name": "Plynk Data Platform Deployment",
+            "technologies": [
+              "AWS",
+              "Terraform",
+              "Jenkins",
+              "Control-M",
+              "CloudWatch",
+              "Datadog"
+            ],
+            "description": "Architected and deployed a multi-region VPC with Terraform, provisioning EC2, Lambda, Batch, API Gateway, Secrets Manager, Parameter Store, Route 53, and VPC for secure, scalable data processing.",
+            "role": "Lead Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Plynk Crypto Batch Framework",
+            "technologies": [
+              "AWS",
+              "Control-M"
+            ],
+            "description": "Engineered a multi-region batch framework to process Paxos crypto transactions & balance files twice daily, ensuring accurate audit & reporting.",
+            "role": "Lead Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Plynk N.C. A&T Simulated Trading Scholarship Competition",
+            "technologies": [
+              "Python",
+              "Oracle",
+              "AWS"
+            ],
+            "description": "Built a high-performance rewards engine using Python, Oracle & AWS, automating real-time trade scoring & milestone-based rewards for thousands of participants.",
+            "role": "Lead Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Entity Recognition API for Company Symbol & Name Search",
+            "technologies": [
+              "FastAPI",
+              "OpenAI",
+              "SpaCy",
+              "Hugging Face",
+              "ChromaDB"
+            ],
+            "description": "Built a high-performance FastAPI microservice for real-time entity recognition, after comparing OpenAI, SpaCy, and Hugging Face embeddings with ChromaDB similarity search.",
+            "role": "Lead Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "ML Model Deployment & Intelligent Automation",
+            "technologies": [
+              "ML"
+            ],
+            "description": "Deployed ML models for intelligent ticket routing, leveraging historical associate expertise to reduce client ticket handling errors by 30%.",
+            "role": "Lead Data Engineer",
+            "metrics": "30%",
+            "duration_months": "0"
+          },
+          {
+            "name": "POC - Natural Language Interaction with CSV Data Using LangChain",
+            "technologies": [
+              "LangChain"
+            ],
+            "description": "Built a PoC using LangChain, enabling natural language querying of CSV data for seamless \u201cChat With Data\u201d interactions.",
+            "role": "Lead Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          },
+          {
+            "name": "Modern ETL Framework for Data",
+            "technologies": [
+              "ETL",
+              "Snowflake"
+            ],
+            "description": "Designed and optimized a scalable ETL pipeline to automate API ingestion, data cleaning, and transformation for large-scale SEC & EDGAR financial data.",
+            "role": "Lead Data Engineer",
+            "metrics": "Not provided",
+            "duration_months": "0"
+          }
+        ],
+        "total_experience": "10",
+        "companies": [
+          {
+            "name": "Fidelity Investments",
+            "duration": "07/2016-12/2023",
+            "technologies": [
+              "AWS",
+              "Terraform",
+              "Jenkins",
+              "Control-M",
+              "CloudWatch",
+              "Datadog"
+            ],
+            "description": "Not provided",
+            "role": "Lead Data Engineer"
+          },
+          {
+            "name": "Cognizant",
+            "duration": "02/2014-07/2016",
+            "technologies": [
+              "ETL",
+              "SQL"
+            ],
+            "description": "Not provided",
+            "role": "Data Engineer"
+          },
+          {
+            "name": "Samsung",
+            "duration": "06/2013-12/2013",
+            "technologies": [
+              "Not provided"
+            ],
+            "description": "Not provided",
+            "role": "Intern"
+          }
+        ],
+        "certifications": [
+          "SnowPro Core Certification by Snowflake"
+        ],
+        "achievements": [
+          {
+            "type": "Performance",
+            "description": "FCAT Above & Beyond Award",
+            "metrics": "Not provided"
+          },
+          {
+            "type": "Performance",
+            "description": "FCAT Owns The Outcome Award",
+            "metrics": "Not provided"
+          },
+          {
+            "type": "Performance",
+            "description": "On The Spot (Multiple)",
+            "metrics": "Not provided"
+          }
+        ],
+        "updated_at": "2025-05-28T16:54:18.053294",
+        "resume_id": "6895b237-eeaa-4718-bb19-1545edddd676",
+        "industries": [
+          "511120 - Software Publishers"
+        ],
+        "education": [
+          {
+            "degree": "M.Tech",
+            "institution": "BITS Pilani, India",
+            "year": "2024"
+          },
+          {
+            "degree": "B.Tech",
+            "institution": "Kurukshetra University, India",
+            "year": "2012"
+          }
+        ],
+        "skills": [
+          "Docker",
+          "AWS",
+          "Terraform",
+          "Jenkins",
+          "Control-M",
+          "Snowflake",
+          "Oracle",
+          "PostGres",
+          "SQL Server",
+          "ChromaDB",
+          "Sagemaker",
+          "OpenAI",
+          "Hugging Face",
+          "SpaCy",
+          "LangChain",
+          "NLP",
+          "Entity Recognition",
+          "LLM-based Search",
+          "Python",
+          "FastAPI",
+          "REST APIs",
+          "CI/CD Automation",
+          "Git",
+          "PySpark",
+          "Hadoop",
+          "HDFS",
+          "YARN",
+          "AWS EMR",
+          "CloudWatch",
+          "Datadog"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "6895b237-eeaa-4718-bb19-1545edddd676",
+        "name": "Amit Gupta",
+        "email": "amit.gupta.agdav@outlook.com",
+        "phone_number": "+91 9600083036",
+        "address": "Bangalore",
+        "linkedin_url": "",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/AmitGupta_10.0 Years_Data Engineer Architect_Hyderabad.docx",
+        "original_filename": "AmitGupta_10.0 Years_Data Engineer Architect_Hyderabad.docx",
+        "file_type": "docx",
+        "created_dt": "2025-05-28 11:24:12.082915",
+        "updated_dt": "2025-05-28 11:24:12.082915"
+      },
+      "search_score": 49.73,
+      "combined_score": 57.39,
+      "skill_match_score": 25.0,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "PySpark",
+        "Python",
+        "Snowflake"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "SQL",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 10.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "bf40b557-cacc-4cc9-9281-c1e16f7e2bef",
+      "resume_data": {
+        "positions": [
+          "Senior Software Engineer",
+          "Senior DevOps Engineer",
+          "Founding Member & Cloud / DevOps Engineer",
+          "Software Developer"
+        ],
+        "summary": "I am a Technology professional with 8+ years of startup experience specializing in Development, Cloud/DevOps, and Generative AI. Expert in building scalable solutions and implementing modern tech stacks to solve complex business challenges.",
+        "created_at": "2025-05-28T16:54:18.053294",
+        "projects": [
+          {
+            "name": "Cloud Cost Optimization Tool",
+            "technologies": [
+              "Terraform",
+              "CloudFormation",
+              "Jenkins",
+              "GitHub",
+              "GitLab",
+              "Python",
+              "Boto3"
+            ],
+            "description": "Built a cloud cost optimization tool for multiple cloud platforms, ensuring efficient resource utilization and cost savings",
+            "role": "Founding Member & Cloud / DevOps Engineer",
+            "metrics": "Ensured efficient resource utilization and cost savings",
+            "duration_months": "18"
+          }
+        ],
+        "total_experience": "8",
+        "companies": [
+          {
+            "name": "Hydralogic AI",
+            "duration": "10/2023-12/2023",
+            "technologies": [
+              "LLMs",
+              "RAG",
+              "Docker",
+              "GCP",
+              "AWS"
+            ],
+            "description": "Lead the development and implementation of Generative AI applications using Large Language Models (LLMs) and Retrieval Augmented Generation (RAG) architectures.",
+            "role": "Senior Software Engineer"
+          },
+          {
+            "name": "Fluentgrid Limited",
+            "duration": "10/2022-09/2023",
+            "technologies": [
+              "Maven",
+              "Jenkins",
+              "Java",
+              "Python",
+              "Shell",
+              "SonarQube"
+            ],
+            "description": "Implementation of DevOps best practices, streamlining software development and deployment processes.",
+            "role": "Senior DevOps Engineer"
+          },
+          {
+            "name": "CloudEarl Solutions Pvt Ltd",
+            "duration": "02/2021-09/2022",
+            "technologies": [
+              "Terraform",
+              "CloudFormation",
+              "Jenkins",
+              "GitHub",
+              "GitLab",
+              "Python",
+              "Boto3"
+            ],
+            "description": "Played a key role in building a cloud cost optimization tool for multiple cloud platforms, ensuring efficient resource utilization and cost savings.",
+            "role": "Founding Member & Cloud / DevOps Engineer"
+          },
+          {
+            "name": "Cenetri Publications Pvt Ltd",
+            "duration": "09/2016-02/2020",
+            "technologies": [
+              "Not provided"
+            ],
+            "description": "Contributed to the development of a website builder application for an event-based platform designed to host and manage conferences.",
+            "role": "Software Developer"
+          }
+        ],
+        "certifications": [
+          "LangChain Chat with Your Data",
+          "Introduction to Generative AI",
+          "ChatGPT Prompt Engineering for Developers",
+          "OpenAI & ChatGPT API's: Expert Fine-tuning for Developers",
+          "LangChain in Action: Develop LLM-Powered Applications",
+          "Agile with Atlassian Jira"
+        ],
+        "achievements": [
+          {
+            "type": "Performance",
+            "description": "Implemented RAG applications and custom LLM solutions for internal tools, improving document retrieval accuracy and reducing manual processing time",
+            "metrics": "Improved document retrieval accuracy and reduced manual processing time"
+          },
+          {
+            "type": "Performance",
+            "description": "Established CI/CD pipelines for AI applications, ensuring reliable deployment",
+            "metrics": "Ensured reliable deployment"
+          },
+          {
+            "type": "Performance",
+            "description": "Optimized cloud resource utilization, resulting cost reduction in AI infrastructure",
+            "metrics": "Reduced cost in AI infrastructure"
+          },
+          {
+            "type": "Leadership",
+            "description": "Mentored juniors in AI engineering practices and cloud-native development",
+            "metrics": "Mentored juniors"
+          },
+          {
+            "type": "Performance",
+            "description": "Implemented release management process by coordinating with developers and applying branching techniques, improving code versioning and stability",
+            "metrics": "Improved code versioning and stability"
+          },
+          {
+            "type": "Performance",
+            "description": "Integrated Maven with Jenkins for CI/CD pipelines, enhancing build automation and deployment efficiency",
+            "metrics": "Enhanced build automation and deployment efficiency"
+          },
+          {
+            "type": "Performance",
+            "description": "Deployed and managed Java applications on JBoss servers, ensuring high availability and performance",
+            "metrics": "Ensured high availability and performance"
+          },
+          {
+            "type": "Performance",
+            "description": "Developed Python and Shell scripts to automate repetitive tasks and system operations, improving productivity",
+            "metrics": "Improved productivity"
+          },
+          {
+            "type": "Performance",
+            "description": "Configured and maintained SonarQube for static code analysis, enhancing code quality and security",
+            "metrics": "Enhanced code quality and security"
+          },
+          {
+            "type": "Performance",
+            "description": "Troubleshot build and deployment issues with minimal downtime, ensuring smooth application releases",
+            "metrics": "Ensured smooth application releases"
+          }
+        ],
+        "updated_at": "2025-05-28T16:54:18.053294",
+        "resume_id": "bf40b557-cacc-4cc9-9281-c1e16f7e2bef",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          {
+            "degree": "B.Tech",
+            "institution": "IIIT Nuzvid, Vijayawada",
+            "year": "2016"
+          }
+        ],
+        "skills": [
+          "Generative AI",
+          "LLMs",
+          "RAG",
+          "Ollama",
+          "Chat Bots",
+          "Open AI",
+          "Anthropic AI",
+          "Python",
+          "Fast API",
+          "Micro Services",
+          "Web Apps",
+          "Docker",
+          "DevOps",
+          "GCP",
+          "AWS",
+          "Vectors DBs",
+          "MongoDB",
+          "PostgreSQL",
+          "MySQL",
+          "Git",
+          "Unix",
+          "Startups"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "bf40b557-cacc-4cc9-9281-c1e16f7e2bef",
+        "name": "Jansaida Shaik",
+        "email": "jansaidashaik1995@gmail.com",
+        "phone_number": "+91-9010140931",
+        "address": "",
+        "linkedin_url": "https://www.linkedin.com/in/jansaidashaik",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/JansaidaShaik[8y_0m].pdf",
+        "original_filename": "JansaidaShaik[8y_0m].pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:24:12.082915",
+        "updated_dt": "2025-05-28 11:24:12.082915"
+      },
+      "search_score": 38.09,
+      "combined_score": 48.45,
+      "skill_match_score": 10.71,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "SQL",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 8.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "51676b63-c819-4cd5-9fb9-5357c4681666",
+      "resume_data": {
+        "positions": [
+          "Associate Consultant",
+          "Software Engineer II",
+          "Software Engineer"
+        ],
+        "summary": "Experienced software developer with 8 years of hands-on experience in Python programming, specializing in backend development, chatbot architecture, ETL processes, and building robust web applications. Proficient in Low-Level Design (LLD) and High-Level Design (HLD), delivering optimized solutions in both microservices and monolithic architectures. Adept in enhancing system performance, and driving end-to-end project success. A highly collaborative team leader with the ability to solve complex technical problems and contribute to scalable and efficient software systems.",
+        "created_at": "2025-05-28T16:54:18.053294",
+        "projects": [
+          {
+            "name": "ADOBE \u2013 Ad Cloud",
+            "technologies": [
+              "Python",
+              "Prometheus",
+              "Ka<ka",
+              "Zookeeper"
+            ],
+            "description": "ADOBE \u2013 Ad Cloud: It is a crossed channel platform that offers customers the ability to manage its ads.",
+            "role": "Associate Consultant",
+            "metrics": "Significant performance boost for the Adobe Ad Cloud platform",
+            "duration_months": "12"
+          },
+          {
+            "name": "VERONICA",
+            "technologies": [
+              "Rasa",
+              "Natural Language Processing (NLP)",
+              "Intent Detection",
+              "Named Entity Recognition (NER)"
+            ],
+            "description": "Chatbot for Siemens which helped L1 and L2 teams to resolve queries in quick time.",
+            "role": "Software Engineer II",
+            "metrics": "Generated revenue from internal clients",
+            "duration_months": "12"
+          },
+          {
+            "name": "Zene<its- HR Payroll",
+            "technologies": [
+              "Python",
+              "Django",
+              "Graph-QL"
+            ],
+            "description": "US based org that offers cloud-based software as a service to companies for managing their recourses.",
+            "role": "Software Engineer",
+            "metrics": "Created 19 different reports templates for US taxation",
+            "duration_months": "12"
+          },
+          {
+            "name": "Nokia Networks \u2013 Trouble Ticket Tool",
+            "technologies": [
+              "Python",
+              "Django",
+              "MySQL"
+            ],
+            "description": "Tool to create TT for every critical, major and minor outage related to site down.",
+            "role": "Software Engineer",
+            "metrics": "Automated most of the daily task using Python scripting",
+            "duration_months": "12"
+          }
+        ],
+        "total_experience": "8",
+        "companies": [
+          {
+            "name": "GlobalLogic-Hitachi",
+            "duration": "03/2022- Present",
+            "technologies": [
+              "Python",
+              "Prometheus",
+              "Ka<ka",
+              "Zookeeper"
+            ],
+            "description": "ADOBE \u2013 Ad Cloud",
+            "role": "Associate Consultant"
+          },
+          {
+            "name": "SIEMENS",
+            "duration": "09/2019-03/2022",
+            "technologies": [
+              "Rasa",
+              "Natural Language Processing (NLP)",
+              "Intent Detection",
+              "Named Entity Recognition (NER)"
+            ],
+            "description": "AI Chatbot -VERONICA and DIL",
+            "role": "Software Engineer II"
+          },
+          {
+            "name": "Altimetrik India",
+            "duration": "06/2018-09/2019",
+            "technologies": [
+              "Python",
+              "Django",
+              "Graph-QL"
+            ],
+            "description": "Zene<its- HR Payroll",
+            "role": "Software Engineer"
+          },
+          {
+            "name": "Altran Networks",
+            "duration": "10/2016-11/2017",
+            "technologies": [
+              "Python",
+              "Django",
+              "MySQL"
+            ],
+            "description": "Nokia Networks \u2013 Trouble Ticket Tool",
+            "role": "Software Engineer"
+          }
+        ],
+        "certifications": [
+          "Not provided"
+        ],
+        "achievements": [
+          "Not provided"
+        ],
+        "updated_at": "2025-05-28T16:54:18.053294",
+        "resume_id": "51676b63-c819-4cd5-9fb9-5357c4681666",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          {
+            "degree": "B.E (Electrical Engineering)",
+            "institution": "Government Engineering College, Jabalpur (M.P)",
+            "year": "2013"
+          },
+          {
+            "degree": "XIIth",
+            "institution": "IPS Acadmey, Bhind(M.P) (C.B.S.E Board)",
+            "year": "2008"
+          },
+          {
+            "degree": "Xth",
+            "institution": "Rajendra Convent School, Bhind, (M.P) (C.B.S.E Board)",
+            "year": "2006"
+          }
+        ],
+        "skills": [
+          "Python",
+          "Flask",
+          "Django",
+          "Django REST Framework (DRF)",
+          "Object-Oriented Programming",
+          "SOLID Principles",
+          "Low Level Designs",
+          "Microservices",
+          "Monolithic Systems",
+          "High Level Designs",
+          "MySQL",
+          "PostgreSQL",
+          "NoSQL (Redis, MongoDB, Cassandra)",
+          "Prometheus",
+          "Elastic Search",
+          "Ka<ka",
+          "Zookeeper",
+          "Rasa",
+          "Natural Language Processing (NLP)",
+          "Intent Detection",
+          "Named Entity Recognition (NER)",
+          "ETL Work<low Automation",
+          "AWS",
+          "Docker",
+          "Jenkins",
+          "GitLab CI",
+          "Prom QL",
+          "Alert Manager (Slack, Outlook, PagerDuty)",
+          "NumPy",
+          "Pandas"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "51676b63-c819-4cd5-9fb9-5357c4681666",
+        "name": "Himanshu Goyal",
+        "email": "ihimanshugoyal18@gmail.com",
+        "phone_number": "+91 7406465189",
+        "address": "",
+        "linkedin_url": "linkedin.com/in/himanshugoyal18/",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/HIMANSHUGOYAL[8y_2m].pdf",
+        "original_filename": "HIMANSHUGOYAL[8y_2m].pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:24:12.082915",
+        "updated_dt": "2025-05-28 11:24:12.082915"
+      },
+      "search_score": 26.77,
+      "combined_score": 43.92,
+      "skill_match_score": 10.71,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "SQL",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 8.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "0b4a9e6d-ed63-4b48-8ace-39717cb480d1",
+      "resume_data": {
+        "positions": [
+          "Senior Data Scientist",
+          "Machine Learning Specialist",
+          "Senior Product Engineer",
+          "Data Analyst",
+          "Programming Analyst"
+        ],
+        "summary": "Experienced Data Scientist with over 8 years of expertise in leveraging cutting-edge technologies, advanced analytics, NLP and Generative AI solutions to drive data-driven insights and automation.",
+        "created_at": "2025-05-28T16:57:07.557230",
+        "projects": [
+          {
+            "name": "RAG pipelines",
+            "technologies": [
+              "RAG",
+              "LLMs",
+              "Information Retrieval systems",
+              "Agentic Frameworks"
+            ],
+            "description": "Built a production-grade RAG pipelines that reduced hallucination by 78% while improving response relevance by 35% across enterprise knowledge bases.",
+            "role": "Senior Data Scientist",
+            "metrics": "78% reduction in hallucination, 35% improvement in response relevance",
+            "duration_months": "0"
+          },
+          {
+            "name": "Modular chain-of-agents framework",
+            "technologies": [
+              "LLMs",
+              "Agentic Frameworks"
+            ],
+            "description": "Developed and deployed a modular chain-of-agents framework integrating role-specialized LLMs that increased task completion rates and reduced processing time by 40% for complex information retrieval workflows.",
+            "role": "Senior Data Scientist",
+            "metrics": "40% increase in task completion rates, 40% reduction in processing time",
+            "duration_months": "0"
+          },
+          {
+            "name": "Knowledge graphs with Claude and OpenAI models",
+            "technologies": [
+              "Knowledge graphs",
+              "Claude",
+              "OpenAI models"
+            ],
+            "description": "Led innovation in combining knowledge graphs with Claude and OpenAI models, enabling multi-hop reasoning capabilities that solved previously intractable business problems and increased solution accuracy.",
+            "role": "Senior Data Scientist",
+            "metrics": "Increased solution accuracy",
+            "duration_months": "0"
+          },
+          {
+            "name": "Custom fine-tuning pipelines for domain-specific LLMs",
+            "technologies": [
+              "LLMs",
+              "Domain-specific LLMs"
+            ],
+            "description": "Developed custom fine-tuning pipelines for domain-specific LLMs that outperformed base models by 42% on industry-specific tasks while reducing inference latency by 30%.",
+            "role": "Senior Data Scientist",
+            "metrics": "42% outperformance of base models, 30% reduction in inference latency",
+            "duration_months": "0"
+          }
+        ],
+        "total_experience": "8",
+        "companies": [
+          {
+            "name": "Pegasystems",
+            "duration": "09/2023 \u2013 Present",
+            "technologies": [
+              "RAG",
+              "LLMs",
+              "Information Retrieval systems",
+              "Agentic Frameworks"
+            ],
+            "description": "Built a production-grade RAG pipelines that reduced hallucination by 78% while improving response relevance by 35% across enterprise knowledge bases.",
+            "role": "Senior Data Scientist"
+          },
+          {
+            "name": "Accenture",
+            "duration": "05/2021 - 09/2023",
+            "technologies": [
+              "ML models",
+              "LLMs",
+              "LangChain",
+              "Falcon",
+              "Bard",
+              "MPT",
+              "Llama"
+            ],
+            "description": "Led a team of data scientists and analysts in building advanced analytical and predictive pipeline using ML models and LLMs using large volumes of structured, semi-structured and chaotic data to solve complex business problems for clients in various industries",
+            "role": "Machine Learning Specialist"
+          },
+          {
+            "name": "Lymbyc LTI",
+            "duration": "12/2020 - 04/2021",
+            "technologies": [
+              "ML models",
+              "Leni"
+            ],
+            "description": "Developed virtual analyst system Leni that simplifies complex decision-making for clients across various sectors, mostly in sales, marketing, and commercial functions",
+            "role": "Senior Product Engineer"
+          },
+          {
+            "name": "Verizon",
+            "duration": "04/2019 - 12/2020",
+            "technologies": [
+              "TensorFlow",
+              "Keras",
+              "pyTorch",
+              "scikit-learn",
+              "BERT"
+            ],
+            "description": "Build predictive models, including linear and logistic regression, Multivariate regression, decision trees and deep learning models using frameworks like TensorFlow, Keras, pyTorch, scikit-learn.",
+            "role": "Data Analyst"
+          },
+          {
+            "name": "Cognizant",
+            "duration": "10/2016 - 03/2019",
+            "technologies": [
+              "Hadoop",
+              "Spark",
+              "Map/Reduce",
+              "Big Data platforms"
+            ],
+            "description": "Built robust data pipelines and ETL processes to support large-scale information retrieval systems",
+            "role": "Programming Analyst"
+          }
+        ],
+        "certifications": [
+          "Not provided"
+        ],
+        "achievements": [
+          "Not provided"
+        ],
+        "updated_at": "2025-05-28T16:57:07.557230",
+        "resume_id": "0b4a9e6d-ed63-4b48-8ace-39717cb480d1",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          {
+            "degree": "Master of Science",
+            "institution": "Liverpool John Moore's University, UK",
+            "year": "2021"
+          },
+          {
+            "degree": "Post Graduate Diploma",
+            "institution": "International Institute of Information Technology, Bangalore",
+            "year": "0"
+          },
+          {
+            "degree": "Bachelor of Science",
+            "institution": "Kalinga Institute of Industrial Technology",
+            "year": "2016"
+          }
+        ],
+        "skills": [
+          "Data Science",
+          "Machine Learning",
+          "Natural Language Processing (NLP)",
+          "Artificial Intelligence (AI)",
+          "Deep Learning",
+          "Generative AI",
+          "Retrieval Augmented Generation (RAG)",
+          "Agentic Frameworks",
+          "Transfer Learning",
+          "Python Programming",
+          "Predictive Modelling",
+          "Named Entity Recognition (NER)",
+          "Sentiment Analysis",
+          "Classification",
+          "Clustering",
+          "Ensemble Methods",
+          "Information Retrieval",
+          "Text Generation",
+          "Large Language Models (LLMs)",
+          "Feature Engineering",
+          "Quantitative/Advanced Analytics",
+          "Cloud Computing",
+          "Data Wrangling",
+          "Crew AI",
+          "Langchain",
+          "Big Data Analytics",
+          "Agile Methodology",
+          "Dimensionality Reduction",
+          "Database Management",
+          "Business requirements gathering",
+          "Data science research methods"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "0b4a9e6d-ed63-4b48-8ace-39717cb480d1",
+        "name": "Pratima Rathore",
+        "email": "Pratimarathore77@gmail.com",
+        "phone_number": "9163087381",
+        "address": "Hyderabad, India 500087",
+        "linkedin_url": "https://www.linkedin.com/in/pratimarathore17",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/PratimaRathore[8y_5m] (1).pdf",
+        "original_filename": "PratimaRathore[8y_5m] (1).pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:27:03.333880",
+        "updated_dt": "2025-05-28 11:27:03.333880"
+      },
+      "search_score": 27.92,
+      "combined_score": 42.78,
+      "skill_match_score": 5.36,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "SQL",
+        "Python",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 8.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "fcc5179d-4038-4e0c-8d35-d43977b7a9d1",
+      "resume_data": {
+        "positions": [
+          "Senior Data Scientist",
+          "Machine Learning Specialist",
+          "Senior Product Engineer",
+          "Data Analyst",
+          "Programming Analyst"
+        ],
+        "summary": "Experienced Data Scientist with over 8 years of expertise in leveraging cutting-edge technologies, advanced analytics, NLP and Generative AI solutions to drive data-driven insights and automation.",
+        "created_at": "2025-05-28T16:57:07.557230",
+        "projects": [
+          {
+            "name": "RAG pipelines",
+            "technologies": [
+              "RAG",
+              "LLMs",
+              "Information Retrieval systems",
+              "Agentic Frameworks"
+            ],
+            "description": "Built a production-grade RAG pipelines that reduced hallucination by 78% while improving response relevance by 35% across enterprise knowledge bases.",
+            "role": "Senior Data Scientist",
+            "metrics": "78% reduction in hallucination, 35% improvement in response relevance",
+            "duration_months": "0"
+          },
+          {
+            "name": "Modular chain-of-agents framework",
+            "technologies": [
+              "LLMs",
+              "Agentic Frameworks"
+            ],
+            "description": "Developed and deployed a modular chain-of-agents framework integrating role-specialized LLMs that increased task completion rates and reduced processing time by 40% for complex information retrieval workflows.",
+            "role": "Senior Data Scientist",
+            "metrics": "40% increase in task completion rates, 40% reduction in processing time",
+            "duration_months": "0"
+          },
+          {
+            "name": "Knowledge graphs with Claude and OpenAI models",
+            "technologies": [
+              "Knowledge graphs",
+              "Claude",
+              "OpenAI models"
+            ],
+            "description": "Led innovation in combining knowledge graphs with Claude and OpenAI models, enabling multi-hop reasoning capabilities that solved previously intractable business problems and increased solution accuracy.",
+            "role": "Senior Data Scientist",
+            "metrics": "Increased solution accuracy",
+            "duration_months": "0"
+          },
+          {
+            "name": "Custom fine-tuning pipelines for domain-specific LLMs",
+            "technologies": [
+              "LLMs",
+              "Domain-specific LLMs"
+            ],
+            "description": "Developed custom fine-tuning pipelines for domain-specific LLMs that outperformed base models by 42% on industry-specific tasks while reducing inference latency by 30%.",
+            "role": "Senior Data Scientist",
+            "metrics": "42% outperformance of base models, 30% reduction in inference latency",
+            "duration_months": "0"
+          }
+        ],
+        "total_experience": "8",
+        "companies": [
+          {
+            "name": "Pegasystems",
+            "duration": "09/2023 \u2013 Present",
+            "technologies": [
+              "RAG",
+              "LLMs",
+              "Information Retrieval systems",
+              "Agentic Frameworks"
+            ],
+            "description": "Built a production-grade RAG pipelines that reduced hallucination by 78% while improving response relevance by 35% across enterprise knowledge bases.",
+            "role": "Senior Data Scientist"
+          },
+          {
+            "name": "Accenture",
+            "duration": "05/2021 - 09/2023",
+            "technologies": [
+              "ML models",
+              "LLMs",
+              "LangChain",
+              "Falcon",
+              "Bard",
+              "MPT",
+              "Llama"
+            ],
+            "description": "Led a team of data scientists and analysts in building advanced analytical and predictive pipeline using ML models and LLMs using large volumes of structured, semi-structured and chaotic data to solve complex business problems for clients in various industries",
+            "role": "Machine Learning Specialist"
+          },
+          {
+            "name": "Lymbyc LTI",
+            "duration": "12/2020 - 04/2021",
+            "technologies": [
+              "ML models",
+              "Leni"
+            ],
+            "description": "Developed virtual analyst system Leni that simplifies complex decision-making for clients across various sectors, mostly in sales, marketing, and commercial functions",
+            "role": "Senior Product Engineer"
+          },
+          {
+            "name": "Verizon",
+            "duration": "04/2019 - 12/2020",
+            "technologies": [
+              "TensorFlow",
+              "Keras",
+              "pyTorch",
+              "scikit-learn",
+              "BERT"
+            ],
+            "description": "Build predictive models, including linear and logistic regression, Multivariate regression, decision trees and deep learning models using frameworks like TensorFlow, Keras, pyTorch, scikit-learn.",
+            "role": "Data Analyst"
+          },
+          {
+            "name": "Cognizant",
+            "duration": "10/2016 - 03/2019",
+            "technologies": [
+              "Hadoop",
+              "Spark",
+              "Map/Reduce",
+              "Big Data platforms"
+            ],
+            "description": "Built robust data pipelines and ETL processes to support large-scale information retrieval systems",
+            "role": "Programming Analyst"
+          }
+        ],
+        "certifications": [
+          "Not provided"
+        ],
+        "achievements": [
+          "Not provided"
+        ],
+        "updated_at": "2025-05-28T16:57:07.557230",
+        "resume_id": "fcc5179d-4038-4e0c-8d35-d43977b7a9d1",
+        "industries": [
+          "Not provided"
+        ],
+        "education": [
+          {
+            "degree": "Master of Science",
+            "institution": "Liverpool John Moore's University, UK",
+            "year": "2021"
+          },
+          {
+            "degree": "Post Graduate Diploma",
+            "institution": "International Institute of Information Technology, Bangalore",
+            "year": "0"
+          },
+          {
+            "degree": "Bachelor of Science",
+            "institution": "Kalinga Institute of Industrial Technology",
+            "year": "2016"
+          }
+        ],
+        "skills": [
+          "Data Science",
+          "Machine Learning",
+          "Natural Language Processing (NLP)",
+          "Artificial Intelligence (AI)",
+          "Deep Learning",
+          "Generative AI",
+          "Retrieval Augmented Generation (RAG)",
+          "Agentic Frameworks",
+          "Transfer Learning",
+          "Python Programming",
+          "Predictive Modelling",
+          "Named Entity Recognition (NER)",
+          "Sentiment Analysis",
+          "Classification",
+          "Clustering",
+          "Ensemble Methods",
+          "Information Retrieval",
+          "Text Generation",
+          "Large Language Models (LLMs)",
+          "Feature Engineering",
+          "Quantitative/Advanced Analytics",
+          "Cloud Computing",
+          "Data Wrangling",
+          "Crew AI",
+          "Langchain",
+          "Big Data Analytics",
+          "Agile Methodology",
+          "Dimensionality Reduction",
+          "Database Management",
+          "Business requirements gathering",
+          "Data science research methods"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "fcc5179d-4038-4e0c-8d35-d43977b7a9d1",
+        "name": "Pratima Rathore",
+        "email": "Pratimarathore77@gmail.com",
+        "phone_number": "9163087381",
+        "address": "Hyderabad, India 500087",
+        "linkedin_url": "https://www.linkedin.com/in/pratimarathore17",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/PratimaRathore[8y_5m].pdf",
+        "original_filename": "PratimaRathore[8y_5m].pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:27:03.333880",
+        "updated_dt": "2025-05-28 11:27:03.333880"
+      },
+      "search_score": 27.92,
+      "combined_score": 42.78,
+      "skill_match_score": 5.36,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "SQL",
+        "Python",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 8.0,
+      "required_experience": 8
+    },
+    {
+      "resume_id": "1585c32b-2119-459b-b40a-008fe5e7de69",
+      "resume_data": {
+        "positions": [
+          "Senior Software Engineer",
+          "Software Engineer"
+        ],
+        "summary": "Senior Software Engineer with 8.0 years of experience in ETL Development, having hands-on experience with Jira for Issue tracking, and knowledge of healthcare, insurance, and finance domains.",
+        "created_at": "2025-05-28T16:55:43.729002",
+        "projects": [
+          {
+            "name": "Credit System",
+            "technologies": [
+              "Scala",
+              "Azure Synapse",
+              "Airflow"
+            ],
+            "description": "Credit system application used to get account information which having credit loans.",
+            "role": "Senior Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "12"
+          },
+          {
+            "name": "Recovery Desktop",
+            "technologies": [
+              "Mainframe",
+              "Autosys"
+            ],
+            "description": "Recovery system application used to get account information which having loans.",
+            "role": "Senior Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "12"
+          },
+          {
+            "name": "Fraud Detection",
+            "technologies": [
+              "Hive",
+              "Tivoli"
+            ],
+            "description": "Application used to detect fraud in insurance company.",
+            "role": "Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "12"
+          },
+          {
+            "name": "Practice Optimizer",
+            "technologies": [
+              "Python",
+              "Mysql",
+              "Sqlserver"
+            ],
+            "description": "This is a Web based application in which all Sikka products are integrated.",
+            "role": "Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "12"
+          },
+          {
+            "name": "Practice Analyzer",
+            "technologies": [
+              "Python",
+              "AWS"
+            ],
+            "description": "This is analysis project. In which we analyze the data which is collected from practice management system.",
+            "role": "Software Engineer",
+            "metrics": "Not provided",
+            "duration_months": "12"
+          }
+        ],
+        "total_experience": "8",
+        "companies": [
+          {
+            "name": "Wipro Limited",
+            "duration": "12/2021-12/2023",
+            "technologies": [
+              "Azure Synapse",
+              "Airflow",
+              "Scala"
+            ],
+            "description": "Not provided",
+            "role": "Senior Software Engineer"
+          },
+          {
+            "name": "Foray Software pvt ltd (TCS)",
+            "duration": "01/2021-12/2021",
+            "technologies": [
+              "Tivoli"
+            ],
+            "description": "Not provided",
+            "role": "Software Engineer"
+          },
+          {
+            "name": "iBrain Decision Software (Sikka Software)",
+            "duration": "12/2016-12/2020",
+            "technologies": [
+              "Python",
+              "Mysql",
+              "Sqlserver"
+            ],
+            "description": "Not provided",
+            "role": "Software Engineer"
+          }
+        ],
+        "certifications": [
+          "Not provided"
+        ],
+        "achievements": [
+          "Not provided"
+        ],
+        "updated_at": "2025-05-28T16:55:43.729002",
+        "resume_id": "1585c32b-2119-459b-b40a-008fe5e7de69",
+        "industries": [
+          "Finance",
+          "Healthcare",
+          "Insurance"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering",
+            "institution": "PCCOE, Pune University",
+            "year": "2016"
+          },
+          {
+            "degree": "HSC",
+            "institution": "Ahmednagar, Sate Board",
+            "year": "2012"
+          },
+          {
+            "degree": "SSC",
+            "institution": "Ahmednagar, State Board",
+            "year": "2010"
+          }
+        ],
+        "skills": [
+          "Python",
+          "Scala",
+          "Azure Synapse",
+          "Airflow",
+          "AWS",
+          "Unix",
+          "Jenkins",
+          "Git",
+          "Informatica Power center",
+          "Informatica BDM",
+          "Informatica Power Exchange",
+          "Tivoli",
+          "Autosys",
+          "Mysql",
+          "Sqlserver",
+          "TeraData",
+          "Hive",
+          "Athena",
+          "Mainframe",
+          "Postgresql"
+        ]
+      },
+      "pii_data": {
+        "resume_id": "1585c32b-2119-459b-b40a-008fe5e7de69",
+        "name": "Akshay B Sabale",
+        "email": "sabalebakshay@gmail.com",
+        "phone_number": "7972297175 / 7276506583",
+        "address": "Shubhankar heights, Wakad Pune",
+        "linkedin_url": "",
+        "s3_bucket": "tg-ai-rec",
+        "s3_key": "raw/70 profiles/Naukri_SabaleAkshay[8y_0m].pdf",
+        "original_filename": "Naukri_SabaleAkshay[8y_0m].pdf",
+        "file_type": "pdf",
+        "created_dt": "2025-05-28 11:25:37.568050",
+        "updated_dt": "2025-05-28 11:25:37.568050"
+      },
+      "search_score": 22.45,
+      "combined_score": 41.12,
+      "skill_match_score": 7.14,
+      "experience_match_score": 100.0,
+      "meets_min_experience": true,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS cloud services",
+        "PySpark",
+        "SQL",
+        "Snowflake",
+        "microservices architecture",
+        "containerization",
+        "real-time data processing technologies",
+        "AI/ML technologies",
+        "certifications",
+        "data visualization tools",
+        "DevOps practices",
+        "CI/CD pipelines",
+        "industry experience"
+      ],
+      "years_experience": 8.0,
+      "required_experience": 8
+    }
+  ],
+  "timestamp": "2025-05-28T17:10:51.692826"
+}

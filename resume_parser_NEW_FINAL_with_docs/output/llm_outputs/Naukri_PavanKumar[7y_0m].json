@@ -1,0 +1,115 @@
+{
+  "resume_id": "85c83025-9566-4e43-8e17-cc036446ceaa",
+  "full_name": "Pavan Kumar",
+  "name": "Pavan Kumar",
+  "email": "Pavannaiduvadlamudi@gmail.com",
+  "phone_number": "+91-8555929065",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Having 7 Years of IT experience in SharePoint development and maintenance using Microsoft Technologies. Experienced Professional Specialized in Share PointOnline,Office 365",
+  "total_experience": 7.0,
+  "skills": [
+    "SharePoint",
+    "Power Apps",
+    "Power Automate",
+    "Office 365",
+    "Canvas App",
+    "Model driven Apps",
+    "Portal App",
+    "Power BI"
+  ],
+  "positions": [
+    "Power Apps Developer",
+    "Associate Consultant"
+  ],
+  "companies": [
+    {
+      "name": "Cognizant",
+      "role": "Associate Consultant",
+      "description": "",
+      "duration": "01/2015-12/2022",
+      "technologies": [
+        "Office 365",
+        "Power Apps",
+        "Power Automate"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Zurich",
+      "description": "Developing the entire application in Microsoft Power Apps based on the Client Requirement.",
+      "role": "Power Apps Developer",
+      "metrics": "",
+      "technologies": [
+        "Power Apps",
+        "Power Automate",
+        "Window 10"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "BAT",
+      "description": "Developing the entire application in Microsoft Power Apps based on the Client Requirement.",
+      "role": "Power Apps Developer",
+      "metrics": "",
+      "technologies": [
+        "Power Apps",
+        "Power Automate",
+        "Power BI",
+        "Window 10"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Telia",
+      "description": "Creating Sites based on the user requirement storing the resource details in SharePoint list",
+      "role": "PowerApps Developer",
+      "metrics": "",
+      "technologies": [
+        "Power Apps",
+        "Power Automate",
+        "Window 10"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "HAL -ISMS",
+      "description": "Creation of folders, views in the Document Library.",
+      "role": "PowerApps Developer",
+      "metrics": "",
+      "technologies": [
+        "SharePoint Online",
+        "Power Automate",
+        "Window 10"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Lloyds Bank",
+      "description": "Financing Application that is of importance to an organization.",
+      "role": "Power Apps Developer",
+      "metrics": "",
+      "technologies": [
+        "Office 365",
+        "Power Apps",
+        "Power Automate"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Insurance",
+    "Cyber Security",
+    "PMO"
+  ],
+  "opensearch_success": true,
+  "processing_time": 16.36892080307007,
+  "s3_key": "raw/70 profiles/Naukri_PavanKumar[7y_0m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_PavanKumar[7y_0m].docx"
+}

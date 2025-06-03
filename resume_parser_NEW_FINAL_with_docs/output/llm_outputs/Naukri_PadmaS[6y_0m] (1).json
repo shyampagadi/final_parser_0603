@@ -1,0 +1,126 @@
+{
+  "resume_id": "7c61f587-2ef7-44fd-a024-444b9b46872b",
+  "full_name": "Padma Somireddy",
+  "name": "Padma Somireddy",
+  "email": "padmasomireddyetl@gmail.com",
+  "phone_number": "9281459508",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Over 6 years of IT experience in the field of Software Design, Development, Testing and Monitoring with Proficiency in IICS CDI and ETL Informatica PowerCenter along with different Databases Oracle, SQL Server, Teradata that includes Complete System Development Life Cycle from Analysis and Design to Implementation.",
+  "total_experience": 6.0,
+  "skills": [
+    "IICS CDI",
+    "ETL Informatica PowerCenter",
+    "Oracle",
+    "SQL Server",
+    "Teradata",
+    "UNIX Shell Scripting",
+    "SQL",
+    "Autosys",
+    "Control M",
+    "Informatica Scheduler",
+    "SQL Developer",
+    "WinSCP",
+    "PUTTY",
+    "SSMS",
+    "ServiceNow",
+    "Jira"
+  ],
+  "positions": [
+    "Software Engineer",
+    "Deputy Manager I",
+    "ETL Developer",
+    "Data Engineer",
+    "KYC Specialist"
+  ],
+  "companies": [
+    {
+      "name": "Sigma Software Solutions Pvt Ltd",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "07/2021- Till Date",
+      "technologies": []
+    },
+    {
+      "name": "ICICI Bank Ltd",
+      "role": "Deputy Manager I",
+      "description": "",
+      "duration": "04/2019-07/2021",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institution": "Sri Padmavathi Mahila University, Tirupati",
+      "year": 70
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Insurance DWH",
+      "description": "Protective Insurance Company is Licensed in 50 States, the District of Columbia, Puerto Rico and all Canadian provinces and provides coverage for life insurance, Term Insurance and retirement benefits.",
+      "role": "ETL Developer",
+      "metrics": [],
+      "technologies": [
+        "IICS CDI",
+        "Informatica PowerCenter 10.5",
+        "SQL",
+        "Oracle",
+        "AZURE SQL DW",
+        "UNIX Shell Scripting"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Safeway Project",
+      "description": "Safeway shop is a chain of retail stores spread all over America.",
+      "role": "ETL Developer",
+      "metrics": [],
+      "technologies": [
+        "Informatica 10.2",
+        "Oracle 11g",
+        "Teradata",
+        "Windows NT",
+        "Unix"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Data Analytics support to Contact Center Team",
+      "description": "United Health insurance offers variety of health insurances products to its customers.",
+      "role": "Informatica ETL Developer",
+      "metrics": [],
+      "technologies": [
+        "Informatica PowerCenter 10.4",
+        "Oracle",
+        "UNIX Shell Scripting",
+        "JIRA",
+        "SAP BO"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Customer Data Integration",
+      "description": "Integrated customer information from ICICI Bank’s CRM, CBS, and loan systems, transform the data to create unified customer profiles, and load it into Oracle DWH, enabling a 360-degree customer view for analytics and segmentation.",
+      "role": "ETL Developer",
+      "metrics": [],
+      "technologies": [
+        "Informatica PowerCenter 10.x",
+        "SQL",
+        "CRM",
+        "UNIX Shell Scripting"
+      ],
+      "duration_months": 27
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 19.9542019367218,
+  "s3_key": "raw/70 profiles/Naukri_PadmaS[6y_0m] (1).docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_PadmaS[6y_0m] (1).docx"
+}

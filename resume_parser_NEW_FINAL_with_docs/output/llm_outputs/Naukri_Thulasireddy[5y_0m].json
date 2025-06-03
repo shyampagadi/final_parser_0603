@@ -1,0 +1,115 @@
+{
+  "resume_id": "f30400bf-b0f4-49ac-bc98-ec637e0abd25",
+  "full_name": "Thulasi Reddy",
+  "name": "Thulasi Reddy",
+  "email": "ethulasireddy3377@gmail.com",
+  "phone_number": "+91-9701720597",
+  "address": "Hyderabad",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Highly experienced Data Analyst with 5 years of professional IT experience in Business Intelligence, Alteryx, Tableau, Power BI, Data Warehouse, Data mart, and SQL. Proficient in writing and optimizing SQL queries, creating ETL workflows, and designing dashboards with visualization tools like Tableau.",
+  "total_experience": 5.0,
+  "skills": [
+    "Alteryx",
+    "Tableau",
+    "Power BI",
+    "Data Warehouse",
+    "Data mart",
+    "SQL",
+    "ETL",
+    "Data Visualization",
+    "BI Reporting Tools",
+    "Database",
+    "Ticketing Tools",
+    "Operating System"
+  ],
+  "positions": [
+    "Data Analyst",
+    "Associate Consultant",
+    "Tableau Developer"
+  ],
+  "companies": [
+    {
+      "name": "LTI MindTree Pvt. Ltd",
+      "role": "Data Analyst",
+      "description": "Working as a Data Analyst",
+      "duration": "05/2023-Current",
+      "technologies": [
+        "Alteryx",
+        "Tableau",
+        "SQL"
+      ]
+    },
+    {
+      "name": "WIPRO",
+      "role": "Data Analyst",
+      "description": "Working as a Data Analyst",
+      "duration": "04/2020-05/2023",
+      "technologies": [
+        "Alteryx",
+        "Tableau",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Com",
+      "institution": "Palamuru University",
+      "year": 2018
+    }
+  ],
+  "certifications": [
+    "Alteryx Designer Core Certified"
+  ],
+  "projects": [
+    {
+      "name": "CITI Work fusion",
+      "description": "Citigroup Inc. project involving data profiling, data validation, and ETL workflows using Alteryx and Tableau",
+      "role": "Associate Consultant",
+      "metrics": [],
+      "technologies": [
+        "Alteryx",
+        "Tableau",
+        "SQL"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "MT(Medical Test) Dashboard",
+      "description": "Optum Global Solutions Pvt. Ltd project involving building dashboards for medical test data using Alteryx and Tableau",
+      "role": "Associate Consultant",
+      "metrics": [],
+      "technologies": [
+        "Alteryx",
+        "Tableau",
+        "SQL Server",
+        "Sharepoint"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Inventory and Sales Management Dashboard",
+      "description": "Costco project involving building dashboards for inventory and sales management using Tableau and Power BI",
+      "role": "Tableau Developer",
+      "metrics": [],
+      "technologies": [
+        "Tableau",
+        "Power BI Desktop",
+        "Postgres SQL",
+        "Excel"
+      ],
+      "duration_months": 12
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Financial Services",
+    "Healthcare"
+  ],
+  "opensearch_success": true,
+  "processing_time": 15.886732339859009,
+  "s3_key": "raw/70 profiles/Naukri_Thulasireddy[5y_0m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_Thulasireddy[5y_0m].docx"
+}

@@ -1,0 +1,127 @@
+{
+  "resume_id": "f4f87c03-9a72-4cfb-9a2b-b0ff2ef99338",
+  "full_name": "Thanishki Reddy",
+  "name": "Thanishki Reddy",
+  "email": "thanish6928@gmail.com",
+  "phone_number": "+91 8148916796",
+  "address": "Chennai",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "AWS Cloud Data Engineer with 5 plus years of experience, Skilled in AWS services including Glue, Databricks, EMR, Lambda, Redshift, and RDS. Proficient in building ETL pipelines using PySpark, SQL, with expertise in custom data transformations. Strong background in Python and shell scripting for automation.",
+  "total_experience": 5.3,
+  "skills": [
+    "Python",
+    "PySpark",
+    "SQL",
+    "shell scripting",
+    "Glue",
+    "EMR",
+    "Databricks",
+    "Redshift",
+    "RDS",
+    "CRON jobs",
+    "Rundeck",
+    "Autosys",
+    "AWS",
+    "GitHub",
+    "code commit",
+    "Microsoft Windows Server",
+    "Linux",
+    "Hp ALM",
+    "JIRA",
+    "SQL workbench",
+    "Hadoop"
+  ],
+  "positions": [
+    "AWS Data Engineer",
+    "AWS/ETL/SQL/ Bigdata DEVELOPER"
+  ],
+  "companies": [
+    {
+      "name": "MGM Healthcare Pvt Ltd",
+      "role": "AWS Data Engineer",
+      "description": "Extracted high-volume transactional data from Oracle using GoldenGate and transformed it using AWS Glue and PySpark, enabling real-time analytics across clinical datasets.",
+      "duration": "11/2023-02/2024",
+      "technologies": [
+        "AWS Glue",
+        "PySpark",
+        "Redshift",
+        "S3",
+        "Lambda"
+      ]
+    },
+    {
+      "name": "Faber Sindoori Management Services Pvt Ltd",
+      "role": "AWS/ETL/SQL/ Bigdata DEVELOPER",
+      "description": "Worked in ETL pipeline with the SPARK and Python by applying the mapping logic and business transformation for the downstream consumption.",
+      "duration": "01/2020-08/2023",
+      "technologies": [
+        "SPARK",
+        "Python",
+        "SFTP",
+        "S3",
+        "Athena",
+        "Redshift",
+        "Lambda",
+        "EC2",
+        "SNS",
+        "SQS",
+        "IAM"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Bharath University",
+      "year": 2018
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Real-time analytics across clinical datasets",
+      "description": "Extracted high-volume transactional data from Oracle using GoldenGate and transformed it using AWS Glue and PySpark, enabling real-time analytics across clinical datasets.",
+      "role": "AWS Data Engineer",
+      "metrics": "Improved reporting accuracy and timeliness for patient operations",
+      "technologies": [
+        "AWS Glue",
+        "PySpark",
+        "Redshift",
+        "S3",
+        "Lambda"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "ETL pipeline with SPARK and Python",
+      "description": "Worked in ETL pipeline with the SPARK and Python by applying the mapping logic and business transformation for the downstream consumption.",
+      "role": "AWS/ETL/SQL/ Bigdata DEVELOPER",
+      "metrics": "Optimized Redshift/Snowflake queries and indexing, reducing query execution time by 40%",
+      "technologies": [
+        "SPARK",
+        "Python",
+        "SFTP",
+        "S3",
+        "Athena",
+        "Redshift",
+        "Lambda",
+        "EC2",
+        "SNS",
+        "SQS",
+        "IAM"
+      ],
+      "duration_months": 42
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "511120 - Software Publishers",
+    "621111 - Offices of Physicians"
+  ],
+  "opensearch_success": true,
+  "processing_time": 19.09205436706543,
+  "s3_key": "raw/70 profiles/Naukri_Thanish[5y_3m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_Thanish[5y_3m].pdf"
+}

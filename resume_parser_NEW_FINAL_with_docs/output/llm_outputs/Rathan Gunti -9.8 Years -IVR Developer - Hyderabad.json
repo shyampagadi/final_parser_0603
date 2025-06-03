@@ -1,0 +1,234 @@
+{
+  "resume_id": "867e1555-f260-4205-80ba-878adbb2c96b",
+  "full_name": "Gunti Rathan",
+  "name": "Gunti Rathan",
+  "email": "rats427@gmail.com",
+  "phone_number": "+91 9908822876",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Highly motivated and experienced technical professional with a strong background in software development, solution architecture, and technical implementation coordination. Proven track record of delivering high-quality solutions and leading cross-functional teams. Skilled in multiple programming languages, cloud communication platforms, and agile methodologies.",
+  "total_experience": 8.0,
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "NLP Services",
+    "SQL",
+    "Visual Studio Code",
+    "Eclipse",
+    "Microsoft Windows",
+    "Linux",
+    "POSTMAN",
+    "Twilio",
+    "GitLab",
+    "Jira",
+    "EDW",
+    "Vision",
+    "Kore",
+    "MS Bot Framework",
+    "Amazon Alexa",
+    "LUIS",
+    "Dialogflow",
+    "Amazon Lex",
+    "Confluence",
+    "MS Project",
+    "Word",
+    "Excel",
+    "Visio",
+    "PowerPoint"
+  ],
+  "positions": [
+    "Technical Implementation Coordinator",
+    "Solution Architect",
+    "Senior Analyst Programmer",
+    "Associate"
+  ],
+  "companies": [
+    {
+      "name": "Google-HCL",
+      "role": "Technical Implementation Coordinator",
+      "description": "Technical implementation coordinator",
+      "duration": "06/2024-12/2024",
+      "technologies": [
+        "Techstop",
+        "Google Cloud",
+        "Speakeasy platform"
+      ]
+    },
+    {
+      "name": "Verizon-HCL",
+      "role": "Solution Architect",
+      "description": "Solution Architect",
+      "duration": "01/2022-05/2024",
+      "technologies": [
+        "Mobile Agent Assist Messaging",
+        "Cetom Transformation",
+        "Agent Messaging Assist",
+        "Calling plan change"
+      ]
+    },
+    {
+      "name": "Web Synergies",
+      "role": "Senior Analyst Programmer",
+      "description": "Senior Analyst Programmer",
+      "duration": "08/2020-01/2022",
+      "technologies": [
+        "WhatsApp Chat Bot"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "role": "Associate",
+      "description": "Associate",
+      "duration": "07/2015-07/2020",
+      "technologies": [
+        "Error Code Anomaly",
+        "Healthcare Chat Bot",
+        "Banking Chat Bot",
+        "Mortgage Application Chat Bot",
+        "Airlines Chat Bot"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B-tech",
+      "institution": "Indian Institute of Technology Madras",
+      "year": 2015
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Techstop",
+      "description": "Acted as a liaison between clients and the development team, handling ad-hoc requests and managing task prioritization to ensure smooth operations and timely delivery.",
+      "role": "Technical Implementation Coordinator",
+      "metrics": "Improved call-handling efficiency",
+      "technologies": [
+        "Techstop"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Google Cloud",
+      "description": "Interacted directly with clients to gather detailed requirements and ensure project goals aligned with business objectives.",
+      "role": "Technical Implementation Coordinator",
+      "metrics": "Enhanced call-handling efficiency",
+      "technologies": [
+        "Google Cloud"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Speakeasy platform",
+      "description": "Onboarding the new business to speakeasy platform that supports inbound and outbound call flows.",
+      "role": "Technical Implementation Coordinator",
+      "metrics": "Reduced processing times and improved overall user experience",
+      "technologies": [
+        "Speakeasy platform"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Mobile Agent Assist Messaging",
+      "description": "Designed the End-to-End solution for the application that helps Verizon Employees",
+      "role": "Solution Architect",
+      "metrics": "Improved wireless customer experience",
+      "technologies": [
+        "Mobile Agent Assist Messaging"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Cetom Transformation",
+      "description": "Transforming and modernizing the application which supports both wireline and wireless.",
+      "role": "Solution Architect",
+      "metrics": "Enhanced application performance",
+      "technologies": [
+        "Cetom Transformation"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Agent Messaging Assist",
+      "description": "Designed the End-to-End solution for My Plan (Bayou) grandfathering the existing plan (Apple and Android)",
+      "role": "Solution Architect",
+      "metrics": "Improved wireline customer experience",
+      "technologies": [
+        "Agent Messaging Assist"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "WhatsApp Chat Bot",
+      "description": "Implemented Open-source integration between dialogflow and Twilio WhatsApp.",
+      "role": "Senior Analyst Programmer",
+      "metrics": "Enabled two-way communication between users and clients",
+      "technologies": [
+        "WhatsApp Chat Bot"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Error Code Anomaly",
+      "description": "Built and deployed the Error Code Anomaly model with Hyper Tuning and RMSE, making sure that false alarm is avoided.",
+      "role": "Associate",
+      "metrics": "Reduced false alarms",
+      "technologies": [
+        "Error Code Anomaly"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "Healthcare Chat Bot",
+      "description": "Responded to Healthcare related queries and displayed organizational metrics on Amazon echo show device.",
+      "role": "Associate",
+      "metrics": "Improved healthcare customer experience",
+      "technologies": [
+        "Healthcare Chat Bot"
+      ],
+      "duration_months": 4
+    },
+    {
+      "name": "Banking Chat Bot",
+      "description": "Helped users to check the current account balance and bill ready notifications.",
+      "role": "Associate",
+      "metrics": "Enhanced banking customer experience",
+      "technologies": [
+        "Banking Chat Bot"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "Mortgage Application Chat Bot",
+      "description": "Helped users to clarify all the queries on financial services and provide the status of the loan application.",
+      "role": "Associate",
+      "metrics": "Improved mortgage application process",
+      "technologies": [
+        "Mortgage Application Chat Bot"
+      ],
+      "duration_months": 2
+    },
+    {
+      "name": "Airlines Chat Bot",
+      "description": "Helped users to book the ticket in various ways using the rewards and redeeming the rewards.",
+      "role": "Associate",
+      "metrics": "Enhanced airlines customer experience",
+      "technologies": [
+        "Airlines Chat Bot"
+      ],
+      "duration_months": 3
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "511120 - Software Publishers",
+    "517110 - Wired Telecommunications Carriers",
+    "522320 - Financial Transaction Processing, Reserve, and Clearinghouse Activities"
+  ],
+  "opensearch_success": true,
+  "processing_time": 33.82550644874573,
+  "s3_key": "raw/70 profiles/Rathan Gunti -9.8 Years -IVR Developer - Hyderabad.docx",
+  "file_type": "docx",
+  "original_filename": "Rathan Gunti -9.8 Years -IVR Developer - Hyderabad.docx"
+}

@@ -1,0 +1,104 @@
+{
+  "resume_id": "d3a53512-a8f8-44ac-9782-89f02bdf31c1",
+  "full_name": "Supriyo Kumar Pattnaik",
+  "name": "Supriyo Kumar Pattnaik",
+  "email": "supriyo2111@gmail.com",
+  "phone_number": "+91 7013683418",
+  "address": "Hyderabad, IN",
+  "linkedin": "LinkedIn",
+  "linkedin_url": "LinkedIn",
+  "summary": "Data Engineer with more than 5 years of experience in handling ETL pipelines, performing data analysis, and delivering cloud-based solutions. Skilled in designing and optimizing data workflows to enhance decision-making and operational efficiency. Proficient in Python (Jupyter, Spyder), SQL, PySpark, Tableau and Excel for data transformation and analytics. Known for standardizing processes, improving data quality, and mentoring new hires to strengthen team capabilities and collaboration.",
+  "total_experience": 5.6,
+  "skills": [
+    "Data Analysis",
+    "Extract Transform Load (ETL)",
+    "Data Processing",
+    "Leadership & Training",
+    "Process Improvement",
+    "Data Visualization",
+    "Organization Initiatives",
+    "Python",
+    "SQL",
+    "MS Excel",
+    "PySpark",
+    "Machine learning (Scikit-learn)",
+    "GitHub",
+    "LucidChart"
+  ],
+  "positions": [
+    "Product Analyst",
+    "Data Analyst"
+  ],
+  "companies": [
+    {
+      "name": "Amazon",
+      "role": "Data Analyst",
+      "description": "Performed data analysis using Tableau to drive business decision-making & enhance operational efficiency by 20%",
+      "duration": "07/2019-12/2022",
+      "technologies": [
+        "Tableau",
+        "AWS"
+      ]
+    },
+    {
+      "name": "HealthWorksAI",
+      "role": "Product Analyst",
+      "description": "Led data-driven enhancements for HealthWorksAI, supporting 30+ top Medicare companies (Humana, Aetna, Elevance) in optimizing provider networks",
+      "duration": "09/2013-08/2017",
+      "technologies": [
+        "Python",
+        "PySpark",
+        "Tableau",
+        "UiPath"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Electrical and Electronics Engineering",
+      "institution": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY",
+      "year": 0
+    }
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner Certification (Udemy)"
+  ],
+  "projects": [
+    {
+      "name": "ACOE project for Aetna",
+      "description": "Analyzed 250+ networks across various markets",
+      "role": "Product Analyst",
+      "metrics": "250+ networks",
+      "technologies": [
+        "Python",
+        "PySpark"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Optimized ETL processes by automating and streamlining workflows, boosting data accuracy by 7% and enhancing accessibility for strategic decision-making",
+      "metrics": "7%"
+    },
+    {
+      "type": "Performance",
+      "description": "Revamped Python-based analytics workflows, reduced the manual workload, increased process efficiency by 50% and enabling faster insights",
+      "metrics": "50%"
+    },
+    {
+      "type": "Performance",
+      "description": "Performed data analysis using Tableau to drive business decision-making & enhance operational efficiency by 20%",
+      "metrics": "20%"
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers"
+  ],
+  "opensearch_success": true,
+  "processing_time": 16.950294971466064,
+  "s3_key": "raw/70 profiles/Naukri_SupriyoKumarPattnaik[5y_6m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SupriyoKumarPattnaik[5y_6m].pdf"
+}

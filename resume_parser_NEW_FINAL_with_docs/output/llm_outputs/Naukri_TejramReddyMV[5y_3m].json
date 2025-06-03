@@ -1,0 +1,112 @@
+{
+  "resume_id": "fd142a1e-51d1-4e46-8431-52a561444394",
+  "full_name": "Tejram Reddy MV",
+  "name": "Tejram Reddy MV",
+  "email": "tejramreddysm@gmail.com",
+  "phone_number": "+91 - 8328470183",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "BI Analytics Developer with 5.3 years of experience in BI analytics technologies on Alteryx, Tableau, and Power BI & SQL. Experienced in analysis, development, design, and maintenance as per business needs.",
+  "total_experience": 5.3,
+  "skills": [
+    "Alteryx",
+    "Tableau",
+    "Power BI",
+    "SQL",
+    "BI Analytics",
+    "Data Analytics",
+    "Data Visualization",
+    "ETL",
+    "Data Warehousing",
+    "Data Mart",
+    "Data Quality",
+    "Performance Optimization"
+  ],
+  "positions": [
+    "BI Analytics Developer",
+    "Alteryx Consultant",
+    "Tableau Developer",
+    "BI Analytic Engineer"
+  ],
+  "companies": [
+    {
+      "name": "LATENT VIEW ANALYTICS",
+      "role": "BI Analytics Developer",
+      "description": "",
+      "duration": "Dec 2019 - Till Date",
+      "technologies": [
+        "Tableau",
+        "Power BI",
+        "Alteryx"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "SRM University, Chennai",
+      "year": 0
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Payments Distribution System (PDS) Automation",
+      "description": "Automated data extraction, transformation, and loading (ETL) processes using Alteryx",
+      "role": "BI Analytic Engineer",
+      "metrics": "",
+      "technologies": [
+        "Alteryx",
+        "Tableau",
+        "Power BI"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Financial Risk Management Services & Solutions",
+      "description": "Provided comprehensive, integrated financial analytical solutions and financial risk management services",
+      "role": "Tableau Developer",
+      "metrics": "",
+      "technologies": [
+        "Tableau",
+        "Alteryx"
+      ],
+      "duration_months": 33
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Improved stakeholder reporting efficiency by 25%",
+      "metrics": "25%"
+    },
+    {
+      "type": "Performance",
+      "description": "Reduced data retrieval time by 40%",
+      "metrics": "40%"
+    },
+    {
+      "type": "Performance",
+      "description": "Decreased load times by 30% and increased user satisfaction",
+      "metrics": "30%"
+    },
+    {
+      "type": "Cost Savings",
+      "description": "Achieved 12% cost saving through optimized inventory levels and a more streamlined vendor selection process",
+      "metrics": "12%"
+    }
+  ],
+  "industries": [
+    "Financial Services",
+    "Banking",
+    "Insurance",
+    "Payments",
+    "Investment Management"
+  ],
+  "opensearch_success": true,
+  "processing_time": 15.560094594955444,
+  "s3_key": "raw/70 profiles/Naukri_TejramReddyMV[5y_3m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_TejramReddyMV[5y_3m].docx"
+}

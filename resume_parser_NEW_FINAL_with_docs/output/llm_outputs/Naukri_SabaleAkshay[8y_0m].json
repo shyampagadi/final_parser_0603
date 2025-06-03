@@ -1,0 +1,159 @@
+{
+  "resume_id": "1585c32b-2119-459b-b40a-008fe5e7de69",
+  "full_name": "Akshay B Sabale",
+  "name": "Akshay B Sabale",
+  "email": "sabalebakshay@gmail.com",
+  "phone_number": "7972297175 / 7276506583",
+  "address": "Shubhankar heights, Wakad Pune",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Senior Software Engineer with 8.0 years of experience in ETL Development, having hands-on experience with Jira for Issue tracking, and knowledge of healthcare, insurance, and finance domains.",
+  "total_experience": 8.0,
+  "skills": [
+    "Python",
+    "Scala",
+    "Azure Synapse",
+    "Airflow",
+    "AWS",
+    "Unix",
+    "Jenkins",
+    "Git",
+    "Informatica Power center",
+    "Informatica BDM",
+    "Informatica Power Exchange",
+    "Tivoli",
+    "Autosys",
+    "Mysql",
+    "Sqlserver",
+    "TeraData",
+    "Hive",
+    "Athena",
+    "Mainframe",
+    "Postgresql"
+  ],
+  "positions": [
+    "Senior Software Engineer",
+    "Software Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Wipro Limited",
+      "role": "Senior Software Engineer",
+      "description": "",
+      "duration": "12/2021-12/2023",
+      "technologies": [
+        "Azure Synapse",
+        "Airflow",
+        "Scala"
+      ]
+    },
+    {
+      "name": "Foray Software pvt ltd (TCS)",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "01/2021-12/2021",
+      "technologies": [
+        "Tivoli"
+      ]
+    },
+    {
+      "name": "iBrain Decision Software (Sikka Software)",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "12/2016-12/2020",
+      "technologies": [
+        "Python",
+        "Mysql",
+        "Sqlserver"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "PCCOE, Pune University",
+      "year": 2016
+    },
+    {
+      "degree": "HSC",
+      "institution": "Ahmednagar, Sate Board",
+      "year": 2012
+    },
+    {
+      "degree": "SSC",
+      "institution": "Ahmednagar, State Board",
+      "year": 2010
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Credit System",
+      "description": "Credit system application used to get account information which having credit loans.",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Scala",
+        "Azure Synapse",
+        "Airflow"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Recovery Desktop",
+      "description": "Recovery system application used to get account information which having loans.",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Mainframe",
+        "Autosys"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Fraud Detection",
+      "description": "Application used to detect fraud in insurance company.",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Hive",
+        "Tivoli"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Practice Optimizer",
+      "description": "This is a Web based application in which all Sikka products are integrated.",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Python",
+        "Mysql",
+        "Sqlserver"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Practice Analyzer",
+      "description": "This is analysis project. In which we analyze the data which is collected from practice management system.",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Python",
+        "AWS"
+      ],
+      "duration_months": 12
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Finance",
+    "Healthcare",
+    "Insurance"
+  ],
+  "opensearch_success": true,
+  "processing_time": 20.63944149017334,
+  "s3_key": "raw/70 profiles/Naukri_SabaleAkshay[8y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SabaleAkshay[8y_0m].pdf"
+}

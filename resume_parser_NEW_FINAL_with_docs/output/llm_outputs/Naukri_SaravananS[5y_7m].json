@@ -1,0 +1,101 @@
+{
+  "resume_id": "0719b8ea-1fac-43c1-a951-58e7da33a9db",
+  "full_name": "Saravanan S",
+  "name": "Saravanan S",
+  "email": "saravanans120898@gmail.com",
+  "phone_number": "+91-8778200342",
+  "address": "Namakkal",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Overall, 5.5 years of professional experience including 3.5 years of extensive experience in Data Engineering, contributing to diverse and impactful projects. Skilled in Big Data technologies with practical expertise in Apache Spark and Python. Proficient in AWS services such as Lambda, S3, Athena, and Glue, ensuring seamless data processing and management.",
+  "total_experience": 5.5,
+  "skills": [
+    "Python",
+    "SQL",
+    "Apache Spark",
+    "Pandas",
+    "PySpark",
+    "AWS",
+    "Lambda",
+    "S3",
+    "Athena",
+    "Glue",
+    "MongoDB",
+    "Terraform",
+    "Git",
+    "GitHub",
+    "Snowflake"
+  ],
+  "positions": [
+    "Data Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Cognizant Technology Solutions",
+      "role": "Data Engineer",
+      "description": "",
+      "duration": "07/2019- Present",
+      "technologies": [
+        "Apache Spark",
+        "Python",
+        "AWS",
+        "Lambda",
+        "S3",
+        "Athena",
+        "Glue",
+        "Snowflake"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E (Mechanical)",
+      "institution": "Kumaraguru College of Technologies, Coimbatore",
+      "year": 2019
+    },
+    {
+      "degree": "Senior Secondary (10+2)",
+      "institution": "S.K.V Matriculation Higher Secondary School, Tiruchengode",
+      "year": 2015
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Merck & Co.",
+      "description": "To monitor and track the usage and claims of various drugs and medicines based on the regions and time.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Apache Spark",
+        "Python",
+        "AWS",
+        "Lambda",
+        "S3",
+        "Athena",
+        "Glue",
+        "Snowflake"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Employee Behavior Analytics",
+      "description": "The purpose of the project is to track the behavior of the employees working in the various departments to drive the productive time of the employees.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Pyspark",
+        "AWS Glue",
+        "AWS S3"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 14.173260688781738,
+  "s3_key": "raw/70 profiles/Naukri_SaravananS[5y_7m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SaravananS[5y_7m].pdf"
+}

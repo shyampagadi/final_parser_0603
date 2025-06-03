@@ -1,0 +1,129 @@
+{
+  "resume_id": "2fc2820e-9e96-474e-a976-6cf75168b11c",
+  "full_name": "Utkarsh Shrivastava",
+  "name": "Utkarsh Shrivastava",
+  "email": "amaksh.77@gmail.com",
+  "phone_number": "+917389206722",
+  "address": "Chitransh, Shri Ram Colony Gopal Ganj, Sagar, M.P – 470001",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Experienced Data Engineer with 6.5 years in IT, currently overlooking a team while contributing individually to the full lifecycle of ETL, SQL Scripting, Data Modeling, and Data Warehousing projects. Skilled in business requirements analysis, development, testing, documentation, and reporting, with expertise in implementing and optimizing data warehouses and solutions.",
+  "total_experience": 6.5,
+  "skills": [
+    "Python",
+    "PySpark",
+    "SQL",
+    "PLSQL",
+    "Snowflake",
+    "Glue",
+    "Informatica PowerCenter",
+    "AWS s3",
+    "Microsoft SQL server",
+    "HDFS(Hive)",
+    "Power BI",
+    "Sisense",
+    "Data Visualization",
+    "WinOS",
+    "Linux"
+  ],
+  "positions": [
+    "Associate Consultant (Business Technology – Data Engineering)",
+    "Data Engineer (Software Development)"
+  ],
+  "companies": [
+    {
+      "name": "ZS Associates",
+      "role": "Associate Consultant (Business Technology – Data Engineering)",
+      "description": "Spearheaded the end-to-end design and execution of scalable big data pipelines for GSK’s omni-channel marketing efforts, targeting healthcare providers and sales representatives.",
+      "duration": "04/2024- Present",
+      "technologies": [
+        "Databricks",
+        "AWS services (S3, EMR, Glue, Sage Maker)",
+        "Snowflake",
+        "Informatica",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Mphasis Ltd.",
+      "role": "Data Engineer (Software Development)",
+      "description": "Worked on the Datawarehouse project of First Republic Bank, where I have worked on ETL Jobs.",
+      "duration": "10/2018-07/2021",
+      "technologies": [
+        "Informatica",
+        "Snowflake",
+        "Python",
+        "PySpark",
+        "AWS s3",
+        "HDFS(Hive)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering (Information Technology)",
+      "institution": "Oriental Institute of Science and Technology, Bhopal",
+      "year": 2018
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "GSK’s omni-channel marketing project",
+      "description": "Spearheaded the end-to-end design and execution of scalable big data pipelines for GSK’s omni-channel marketing efforts, targeting healthcare providers and sales representatives.",
+      "role": "Associate Consultant (Business Technology – Data Engineering)",
+      "metrics": "",
+      "technologies": [
+        "Databricks",
+        "AWS services (S3, EMR, Glue, Sage Maker)",
+        "Snowflake",
+        "Informatica",
+        "Power BI"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Pfizer project",
+      "description": "Worked on a Big Data based omni-channel marketing Pfizer project aimed at health care providers in conjunction with the associated pharmaceutical sales representatives for increased engagements & overall sales.",
+      "role": "Data Engineer (Software Development)",
+      "metrics": "",
+      "technologies": [
+        "PySpark",
+        "Hadoop HDFS/Spark",
+        "AWS Services (s3, Emr, Sagemaker, Glue)",
+        "Informatica",
+        "Snowflake",
+        "Airflow"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "First Republic Bank project",
+      "description": "Worked on the Datawarehouse project of First Republic Bank, where I have worked on ETL Jobs.",
+      "role": "Data Engineer (Software Development)",
+      "metrics": "",
+      "technologies": [
+        "Informatica",
+        "Snowflake",
+        "Python",
+        "PySpark",
+        "AWS s3",
+        "HDFS(Hive)"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Monthly Summit Award for Oct 2019",
+      "metrics": ""
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 23.529386043548584,
+  "s3_key": "raw/70 profiles/Naukri_UtkarshShrivastava[6y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_UtkarshShrivastava[6y_0m].pdf"
+}

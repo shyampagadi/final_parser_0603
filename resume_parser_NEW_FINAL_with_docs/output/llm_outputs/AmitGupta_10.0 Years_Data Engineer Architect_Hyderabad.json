@@ -1,0 +1,207 @@
+{
+  "resume_id": "6895b237-eeaa-4718-bb19-1545edddd676",
+  "full_name": "Amit Gupta",
+  "name": "Amit Gupta",
+  "email": "amit.gupta.agdav@outlook.com",
+  "phone_number": "+91 9600083036",
+  "address": "Bangalore",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Data & ML Engineer with expertise in building scalable AI & data solutions.",
+  "total_experience": 10.0,
+  "skills": [
+    "Docker",
+    "AWS",
+    "Terraform",
+    "Jenkins",
+    "Control-M",
+    "Snowflake",
+    "Oracle",
+    "PostGres",
+    "SQL Server",
+    "ChromaDB",
+    "Sagemaker",
+    "OpenAI",
+    "Hugging Face",
+    "SpaCy",
+    "LangChain",
+    "NLP",
+    "Entity Recognition",
+    "LLM-based Search",
+    "Python",
+    "FastAPI",
+    "REST APIs",
+    "CI/CD Automation",
+    "Git",
+    "PySpark",
+    "Hadoop",
+    "HDFS",
+    "YARN",
+    "AWS EMR",
+    "CloudWatch",
+    "Datadog"
+  ],
+  "positions": [
+    "Lead Data Engineer",
+    "Data Engineer",
+    "Intern"
+  ],
+  "companies": [
+    {
+      "name": "Fidelity Investments",
+      "role": "Lead Data Engineer",
+      "description": "",
+      "duration": "07/2016-12/2023",
+      "technologies": [
+        "AWS",
+        "Terraform",
+        "Jenkins",
+        "Control-M",
+        "CloudWatch",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "role": "Data Engineer",
+      "description": "",
+      "duration": "02/2014-07/2016",
+      "technologies": [
+        "ETL",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Samsung",
+      "role": "Intern",
+      "description": "",
+      "duration": "06/2013-12/2013",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Tech",
+      "institution": "BITS Pilani, India",
+      "year": 2024
+    },
+    {
+      "degree": "B.Tech",
+      "institution": "Kurukshetra University, India",
+      "year": 2012
+    }
+  ],
+  "certifications": [
+    "SnowPro Core Certification by Snowflake"
+  ],
+  "projects": [
+    {
+      "name": "Plynk Data Platform Deployment",
+      "description": "Architected and deployed a multi-region VPC with Terraform, provisioning EC2, Lambda, Batch, API Gateway, Secrets Manager, Parameter Store, Route 53, and VPC for secure, scalable data processing.",
+      "role": "Lead Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "AWS",
+        "Terraform",
+        "Jenkins",
+        "Control-M",
+        "CloudWatch",
+        "Datadog"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Plynk Crypto Batch Framework",
+      "description": "Engineered a multi-region batch framework to process Paxos crypto transactions & balance files twice daily, ensuring accurate audit & reporting.",
+      "role": "Lead Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "AWS",
+        "Control-M"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Plynk N.C. A&T Simulated Trading Scholarship Competition",
+      "description": "Built a high-performance rewards engine using Python, Oracle & AWS, automating real-time trade scoring & milestone-based rewards for thousands of participants.",
+      "role": "Lead Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Python",
+        "Oracle",
+        "AWS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Entity Recognition API for Company Symbol & Name Search",
+      "description": "Built a high-performance FastAPI microservice for real-time entity recognition, after comparing OpenAI, SpaCy, and Hugging Face embeddings with ChromaDB similarity search.",
+      "role": "Lead Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "FastAPI",
+        "OpenAI",
+        "SpaCy",
+        "Hugging Face",
+        "ChromaDB"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "ML Model Deployment & Intelligent Automation",
+      "description": "Deployed ML models for intelligent ticket routing, leveraging historical associate expertise to reduce client ticket handling errors by 30%.",
+      "role": "Lead Data Engineer",
+      "metrics": "30%",
+      "technologies": [
+        "ML"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "POC - Natural Language Interaction with CSV Data Using LangChain",
+      "description": "Built a PoC using LangChain, enabling natural language querying of CSV data for seamless “Chat With Data” interactions.",
+      "role": "Lead Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "LangChain"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Modern ETL Framework for Data",
+      "description": "Designed and optimized a scalable ETL pipeline to automate API ingestion, data cleaning, and transformation for large-scale SEC & EDGAR financial data.",
+      "role": "Lead Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "ETL",
+        "Snowflake"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "FCAT Above & Beyond Award",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "FCAT Owns The Outcome Award",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "On The Spot (Multiple)",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers"
+  ],
+  "opensearch_success": true,
+  "processing_time": 31.01918053627014,
+  "s3_key": "raw/70 profiles/AmitGupta_10.0 Years_Data Engineer Architect_Hyderabad.docx",
+  "file_type": "docx",
+  "original_filename": "AmitGupta_10.0 Years_Data Engineer Architect_Hyderabad.docx"
+}

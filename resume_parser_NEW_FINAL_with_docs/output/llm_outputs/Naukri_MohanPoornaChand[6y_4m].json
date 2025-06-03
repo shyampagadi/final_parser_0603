@@ -1,0 +1,85 @@
+{
+  "resume_id": "9e00861b-3443-4302-acd0-9a9b18400e2a",
+  "full_name": "Mohan Poorna Chand",
+  "name": "Mohan Poorna Chand",
+  "email": "g.mohanpoornachand@gmail.com",
+  "phone_number": "+91-8985988136",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Highly analytical and process-oriented data analyst with 6+ years of experience in business analysis, data analysis, and IT. Skilled in data governance, data quality, and data visualization. Proficient in Oracle ERP solutions, Alteryx, and big data analytics.",
+  "total_experience": 6.4,
+  "skills": [
+    "Alteryx",
+    "Oracle ERP",
+    "Big Data Analytics",
+    "Data Governance",
+    "Data Quality",
+    "Data Visualization",
+    "Hadoop",
+    "Spark",
+    "Kafka",
+    "Python",
+    "Java",
+    "SQL",
+    "NoSQL",
+    "Cloud Services",
+    "Azure",
+    "AWS",
+    "GCP"
+  ],
+  "positions": [
+    "Business Analyst",
+    "Data Analyst"
+  ],
+  "companies": [
+    {
+      "name": "Accenture",
+      "role": "Data Analyst/Business Analyst",
+      "description": "Worked as a Data Analyst/Business Analyst for Nokia client",
+      "duration": "Aug 2022 to Present",
+      "technologies": [
+        "AWS",
+        "Azure",
+        "Alteryx",
+        "Oracle ERP",
+        "Big Data Analytics"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Data Governance",
+      "description": "Implemented Data Governance using Excel and Collibra",
+      "role": "Data Analyst",
+      "metrics": "Improved data quality by 30%",
+      "technologies": [
+        "Excel",
+        "Collibra"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Big Data Analytics",
+      "description": "Worked on Big Data Analytics with hands-on experience in installing, configuring, and using ecosystem components like Hadoop Map reduce, HDFS, HBase, Hive, Pig, Flume, Cassandra, Kafka and Spark",
+      "role": "Data Analyst",
+      "metrics": "Improved data processing efficiency by 50%",
+      "technologies": [
+        "Hadoop",
+        "Spark",
+        "Kafka",
+        "Cassandra"
+      ],
+      "duration_months": 12
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 17.89052414894104,
+  "s3_key": "raw/70 profiles/Naukri_MohanPoornaChand[6y_4m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_MohanPoornaChand[6y_4m].docx"
+}

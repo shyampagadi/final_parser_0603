@@ -1,0 +1,130 @@
+{
+  "resume_id": "a9d39899-e248-4aab-9942-b74d46c41ff2",
+  "full_name": "Shanmuka",
+  "name": "Shanmuka",
+  "email": "shanmuka616@gmail.com",
+  "phone_number": "+91 9492956455",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Around 4.5 years of IT Experience with 3.4 years of Integration technology i.e., Dell Boomi iPaas. Strong cloud integration experience in Dell Boomi. Proficient in developing integration process flow in Dell Boomi.",
+  "total_experience": 4.5,
+  "skills": [
+    "Dell Boomi",
+    "SQL Server",
+    "Oracle",
+    "HTML 5.0",
+    "XML 1.1",
+    "Groovy Script",
+    "Java",
+    "JavaScript"
+  ],
+  "positions": [
+    "Integration Developer",
+    "Boomi Integration Developer",
+    "Testing engineer"
+  ],
+  "companies": [
+    {
+      "name": "DANA Corp",
+      "role": "Boomi Integration Developer",
+      "description": "The Dana Incorporated is an American worldwide supplier of drive train, sealing, and thermal-management technologies based in Maumee, Ohio, in United States of America.",
+      "duration": "06/2022-",
+      "technologies": [
+        "Dell Boomi",
+        "Salesforce",
+        "Database",
+        "FTP",
+        "SFTP",
+        "HTTP",
+        "Atom Queue"
+      ]
+    },
+    {
+      "name": "Michelin",
+      "role": "Boomi Integration Developer",
+      "description": "Michelin is the Leading tyres manufactures in all over the world.",
+      "duration": "10/2021-05/2022",
+      "technologies": [
+        "Dell Boomi",
+        "Oracle Applications",
+        "Web service server",
+        "Salesforce connection"
+      ]
+    },
+    {
+      "name": "Wipro Ltd",
+      "role": "Integration Developer",
+      "description": "",
+      "duration": "08/2020-",
+      "technologies": [
+        "Dell Boomi"
+      ]
+    },
+    {
+      "name": "TJX",
+      "role": "Testing engineer",
+      "description": "",
+      "duration": "08/2020-09/2021",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "S.K University",
+      "year": 0
+    }
+  ],
+  "certifications": [
+    "Associate Dell Boomi Developer Certification"
+  ],
+  "projects": [
+    {
+      "name": "DANA Corp",
+      "description": "Migrate all plants from Database to SFDC system.",
+      "role": "Boomi Integration Developer",
+      "metrics": "",
+      "technologies": [
+        "Dell Boomi",
+        "Salesforce",
+        "Database",
+        "FTP",
+        "SFTP",
+        "HTTP",
+        "Atom Queue"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Michelin",
+      "description": "Oracle upgrade to their older version to new version.",
+      "role": "Boomi Integration Developer",
+      "metrics": "",
+      "technologies": [
+        "Dell Boomi",
+        "Oracle Applications",
+        "Web service server",
+        "Salesforce connection"
+      ],
+      "duration_months": 8
+    },
+    {
+      "name": "TJX",
+      "description": "Manual testing for source data and target data.",
+      "role": "Testing engineer",
+      "metrics": "",
+      "technologies": [],
+      "duration_months": 13
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "511120 - Software Publishers"
+  ],
+  "opensearch_success": true,
+  "processing_time": 17.52734923362732,
+  "s3_key": "raw/70 profiles/Naukri_shanmuka[4y_4m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_shanmuka[4y_4m].pdf"
+}

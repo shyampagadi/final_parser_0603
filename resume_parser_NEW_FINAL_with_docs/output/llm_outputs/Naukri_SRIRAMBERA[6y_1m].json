@@ -1,0 +1,130 @@
+{
+  "resume_id": "98d357c0-400e-415b-913f-3743a6c30ee8",
+  "full_name": "SRIRAM BERA",
+  "name": "SRIRAM BERA",
+  "email": "srirambera1822@outlook.com",
+  "phone_number": "+91 9553231942",
+  "address": "Hyderabad, India",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Results-driven IT professional with 6 years of overall experience, including 3.5 years of expertise in cloud and data engineering. Specialized in designing, deploying, and optimizing scalable data pipelines for large-scale integration, transformation, and analysis. Proven expertise in leveraging, enhance accessibility, and support business intelligence initiatives. Adept at driving operational efficiency and delivering high-quality data solutions to empower data-driven decision-making.",
+  "total_experience": 6.1,
+  "skills": [
+    "Azure",
+    "Amazon Web Services (AWS)",
+    "Amazon S3",
+    "Databricks",
+    "ADF",
+    "RDBMS",
+    "Windows",
+    "Python",
+    "SQL",
+    "PySpark"
+  ],
+  "positions": [
+    "Data Engineer",
+    "Data Analyst"
+  ],
+  "companies": [
+    {
+      "name": "Amazon",
+      "role": "Data Engineer",
+      "description": "Project: Banking Transaction Data Processing & Optimization",
+      "duration": "10/2023-12/2023",
+      "technologies": [
+        "Databricks",
+        "PySpark",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Coburg Banks Limited",
+      "role": "Data Engineer",
+      "description": "Project: Batch Data Processing and Analysis",
+      "duration": "09/2022-05/2023",
+      "technologies": [
+        "Databricks",
+        "PySpark",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Concentrix Daksh India Pvt Ltd",
+      "role": "Data Analyst",
+      "description": "Project: Sales Data Analysis and Visualization",
+      "duration": "02/2018-01/2021",
+      "technologies": [
+        "Python",
+        "SQL",
+        "Tableau"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Masters in Science Automotive Engineering",
+      "institution": "University of Hertfordshire (London)",
+      "year": 2022
+    },
+    {
+      "degree": "Bachelor of Technology in Mechanical Engineering",
+      "institution": "SR Engineering College",
+      "year": 2017
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Banking Transaction Data Processing & Optimization",
+      "description": "The project focused on building and optimizing scalable data pipelines in Databricks using PySpark, implementing Medallion Architecture to enhance data quality, streamline processing, and support analytics for a major banking institution’s transaction data.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Databricks",
+        "PySpark",
+        "SQL"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "Batch Data Processing and Analysis",
+      "description": "Employed PySpark transformations to cleanse data by addressing missing values, removing duplicates, and standardizing data types and formats.",
+      "role": "Data Engineer",
+      "metrics": "40% reduction in execution time",
+      "technologies": [
+        "Databricks",
+        "PySpark",
+        "SQL"
+      ],
+      "duration_months": 8
+    },
+    {
+      "name": "Sales Data Analysis and Visualization",
+      "description": "Extracted raw sales data from multiple sources including CSV files, databases, and APIs using Python.",
+      "role": "Data Analyst",
+      "metrics": "15% increase in sales",
+      "technologies": [
+        "Python",
+        "SQL",
+        "Tableau"
+      ],
+      "duration_months": 36
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Received awards for being among the top performers at Amazon",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers",
+    "522320 - Financial Transaction Processing, Reserve, and Clearinghouse Activities"
+  ],
+  "opensearch_success": true,
+  "processing_time": 19.78143334388733,
+  "s3_key": "raw/70 profiles/Naukri_SRIRAMBERA[6y_1m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SRIRAMBERA[6y_1m].pdf"
+}

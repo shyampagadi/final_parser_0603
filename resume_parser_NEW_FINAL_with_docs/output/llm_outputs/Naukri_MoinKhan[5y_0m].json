@@ -1,0 +1,143 @@
+{
+  "resume_id": "3d8a5d01-302e-4963-8b51-026409052a79",
+  "full_name": "Moin Khan",
+  "name": "Moin Khan",
+  "email": "moinkhan3094@gmail.com",
+  "phone_number": "+91 8660281668",
+  "address": "Bangalore",
+  "linkedin": "linkedin.com/in/moin-khan-b2",
+  "linkedin_url": "linkedin.com/in/moin-khan-b2",
+  "summary": "Big Data Engineer with 5 years of experience in IT Industry, having 4.5 years of experience in Big Data development working on various Big Data tools such as HIVE, SQOOP, SPARK, PYSPARK, HBASE, SQL, AWS with good understanding of HDFS.",
+  "total_experience": 5.0,
+  "skills": [
+    "Python",
+    "Scala",
+    "Hadoop",
+    "Spark",
+    "PySpark",
+    "SQL",
+    "NoSQL",
+    "HBase",
+    "AWS",
+    "Hive",
+    "Sqoop",
+    "Autosys",
+    "Airflow",
+    "Machine Learning"
+  ],
+  "positions": [
+    "Big Data Engineer",
+    "Machine Learning Engineer",
+    "Senior Big Data Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Maveric Systems Limited",
+      "role": "Senior Big Data Engineer",
+      "description": "",
+      "duration": "04/2023-05/2025",
+      "technologies": [
+        "PySpark",
+        "Autosys",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Cosmic Strands Pvt Ltd",
+      "role": "Big Data Engineer",
+      "description": "",
+      "duration": "03/2021-04/2023",
+      "technologies": [
+        "Keyshot",
+        "Python"
+      ]
+    },
+    {
+      "name": "MNI Pvt Ltd",
+      "role": "Machine Learning Engineer",
+      "description": "",
+      "duration": "09/2020-01/2021",
+      "technologies": []
+    },
+    {
+      "name": "Intelizign Engineering Services",
+      "role": "Big Data Engineer",
+      "description": "",
+      "duration": "03/2019-09/2019",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E.",
+      "institution": "T. John Institute of Technology",
+      "year": 2014
+    }
+  ],
+  "certifications": [
+    "Big Data Certification",
+    "Machine Learning Certification"
+  ],
+  "projects": [
+    {
+      "name": "Time Series Data Project",
+      "description": "Worked on a time series data project for an automatic conveyor belt flow line.",
+      "role": "Big Data Engineer",
+      "metrics": "",
+      "technologies": [],
+      "duration_months": 0
+    },
+    {
+      "name": "ML Model Project",
+      "description": "Built an ML model in Python to calculate the time consumed by each product as it moved from machine to machine.",
+      "role": "Big Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Python"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "NLP-based Spell Check and Grammar Check Project",
+      "description": "Worked on an NLP-based Spell Check and Grammar Check project, improving text accuracy.",
+      "role": "Big Data Engineer",
+      "metrics": "",
+      "technologies": [],
+      "duration_months": 0
+    },
+    {
+      "name": "Scorecard Metrics Project",
+      "description": "Worked on the Scorecard Metrics project, ingesting data into Hive tables using the File Ingestion Framework.",
+      "role": "Senior Big Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Hive",
+        "File Ingestion Framework"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Developed and optimized Hive queries to extract valuable analytical insights.",
+      "metrics": ""
+    },
+    {
+      "type": "Innovation",
+      "description": "Worked on an NLP-based Spell Check and Grammar Check project, improving text accuracy.",
+      "metrics": ""
+    },
+    {
+      "type": "Leadership",
+      "description": "Designed and implemented data ingestion pipelines for efficient data loading and transformation in Hive tables.",
+      "metrics": ""
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 20.732934713363647,
+  "s3_key": "raw/70 profiles/Naukri_MoinKhan[5y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_MoinKhan[5y_0m].pdf"
+}

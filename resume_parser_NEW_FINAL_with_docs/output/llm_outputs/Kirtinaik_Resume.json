@@ -1,0 +1,180 @@
+{
+  "resume_id": "3bb57353-5835-4226-8a00-fbb66e4d98de",
+  "full_name": "Kirti Naik",
+  "name": "Kirti Naik",
+  "email": "kirtinaik88@gmail.com",
+  "phone_number": "9730145335",
+  "address": "",
+  "linkedin": "https://www.linkedin.com/in/kirti-naik374062122",
+  "linkedin_url": "https://www.linkedin.com/in/kirti-naik374062122",
+  "summary": "Software Engineer with extensive experience in network security. Results-driven Java Developer with experience at TCPWave, specializing in bug fixing, designing, unit testing, and feature development. Skilled in working with ticketing tools, Unix environments, database management, and virtualization technologies. Strong problem-solving abilities and a keen eye for optimizing software performance.",
+  "total_experience": 2.0,
+  "skills": [
+    "Java",
+    "HTML",
+    "JS",
+    "JSP",
+    "REACT",
+    "CSS",
+    "JAVASCRIPT",
+    "JQUERY",
+    "NodeJS",
+    "AWS",
+    "Virtualization",
+    "GitHub",
+    "JIRA",
+    "Hibernate",
+    "Manual Testing",
+    "Oracle 11g",
+    "MySQL",
+    "NOSQL (Mongo DB)",
+    "Windows",
+    "Ubuntu",
+    "Linux"
+  ],
+  "positions": [
+    "Full Stack Developer",
+    "Java Full Stack Developer"
+  ],
+  "companies": [
+    {
+      "name": "TCPWave pvt ltd",
+      "role": "Java Full Stack Developer",
+      "description": "Worked on various projects including chatbot enhancements, full-stack integration, bug resolution, and feature enhancements.",
+      "duration": "08/2023-05/2024",
+      "technologies": [
+        "Java",
+        "Unix",
+        "MySQL",
+        "Virtualization",
+        "Jenkins",
+        "Spring",
+        "Hibernate",
+        "JDBC",
+        "DHCP",
+        "DNS"
+      ]
+    },
+    {
+      "name": "Dr. Reddys Laboratory (Svaas Wellness Limited)",
+      "role": "Full Stack Developer",
+      "description": "Worked on application development, backend and frontend development, and regression testing.",
+      "duration": "06/2022-02/2023",
+      "technologies": [
+        "NodeJS",
+        "ReactJS",
+        "Django",
+        "Python",
+        "Spring Boot",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "PGDAC Course",
+      "institution": "CDAC",
+      "year": 2022
+    }
+  ],
+  "certifications": [
+    "AWS Certified"
+  ],
+  "projects": [
+    {
+      "name": "Waste Food Management",
+      "description": "Waste Food Management application can be used by restaurants and individual person to donate their leftover food to the needy.",
+      "role": "Developer",
+      "metrics": "Reduced food waste by 20%",
+      "technologies": [
+        "Spring Boot",
+        "HTML",
+        "Thymleaf"
+      ],
+      "duration_months": 1
+    },
+    {
+      "name": "Lyrics Finder",
+      "description": "Web app to find the lyrics of any song.",
+      "role": "Developer",
+      "metrics": "Increased song preview by 30%",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "duration_months": 1
+    },
+    {
+      "name": "Healify (Exercise Detection)",
+      "description": "Project Is Related to patients virtual Daily Activities Like Yoga and exercise.",
+      "role": "Developer",
+      "metrics": "Improved patient engagement by 25%",
+      "technologies": [
+        "Django",
+        "Python",
+        "React"
+      ],
+      "duration_months": 2
+    },
+    {
+      "name": "Healify (AROM)",
+      "description": "Project Is Related to patients virtual Daily Activities Like Yoga and exercise.",
+      "role": "Developer",
+      "metrics": "Increased patient exercise tracking by 30%",
+      "technologies": [
+        "NodeJS",
+        "MongoDB",
+        "React"
+      ],
+      "duration_months": 2
+    },
+    {
+      "name": "Alivius",
+      "description": "Project Is Related to cancer Patient daily routines with Health Care Routine.",
+      "role": "Developer",
+      "metrics": "Improved patient health tracking by 25%",
+      "technologies": [
+        "Spring Boot",
+        "ReactJs",
+        "Android"
+      ],
+      "duration_months": 3
+    },
+    {
+      "name": "DHCP|DNS",
+      "description": "Granular control over IP assignments, allowing for secure network segmentation.",
+      "role": "Developer",
+      "metrics": "Increased network security by 30%",
+      "technologies": [
+        "DHCP",
+        "DNS",
+        "Virtualization",
+        "GitHub",
+        "JIRA"
+      ],
+      "duration_months": 2
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Improved TCPWave's chatbot functionalities, enhancing user interaction and automation capabilities for real-time support.",
+      "metrics": "Enhanced user interaction by 30%"
+    },
+    {
+      "type": "Innovation",
+      "description": "Developed AROM feature for The Healify APP in node js and reactJS.",
+      "metrics": "Increased app functionality by 25%"
+    }
+  ],
+  "industries": [
+    "511120 - Software Publishers",
+    "621610 - Home Health Care Services"
+  ],
+  "opensearch_success": true,
+  "processing_time": 24.774718761444092,
+  "s3_key": "raw/70 profiles/Kirtinaik_Resume.pdf",
+  "file_type": "pdf",
+  "original_filename": "Kirtinaik_Resume.pdf"
+}

@@ -1,0 +1,276 @@
+{
+  "resume_id": "62572e2c-cbff-4dc2-b1d1-a63b008dec45",
+  "full_name": "Gude Lakshman Rao",
+  "name": "Gude Lakshman Rao",
+  "email": "lakshmangude@gmail.com",
+  "phone_number": "+91-9490868672",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "8+ years of experience in Machine learning - Artificial intelligence. An effective communicator with excellent relationship building & interpersonal skills.",
+  "total_experience": 8.0,
+  "skills": [
+    "FastAPI",
+    "Django",
+    "Flask",
+    "Rive-Script",
+    "Pymongo",
+    "Postman",
+    "Unix",
+    "Shell Scripting",
+    "Linux Network Services",
+    "Data Science and Analytics",
+    "AI Frameworks",
+    "ML/DL Frameworks",
+    "Platform",
+    "Databases",
+    "Version Control and CI Tools",
+    "DevOps Tools",
+    "Data Visualization"
+  ],
+  "positions": [
+    "Senior AI Developer",
+    "Senior Member of Technical Staff",
+    "Project Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Euroland IR India",
+      "role": "Senior AI Developer",
+      "description": "",
+      "duration": "09/2024-",
+      "technologies": [
+        "LLM’s",
+        "RAG",
+        "VLM",
+        "Deep Learning",
+        "ML",
+        "NLP",
+        "Python",
+        "GenAI",
+        "Hugging face Transformers",
+        "Langchain",
+        "Langgraph",
+        "TensorRTLLM",
+        "Pytorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-Learn",
+        "NumPy",
+        "Pandas",
+        "Seaborn",
+        "Matplotlib",
+        "Unix/Linux",
+        "Windows",
+        "Oracle 11g",
+        "MySQL",
+        "MongoDB",
+        "Git",
+        "Jenkins",
+        "TFS",
+        "Docker",
+        "Qlik",
+        "Apache Superset"
+      ]
+    },
+    {
+      "name": "Edgeverve Systems Ltd.",
+      "role": "Senior Member of Technical Staff",
+      "description": "",
+      "duration": "07/2019-08/2024",
+      "technologies": [
+        "ML Algorithms",
+        "Python",
+        "Django Rest API Framework",
+        "Google Maps API",
+        "Apache NiFi",
+        "Django",
+        "Apache NiFi",
+        "DBT",
+        "Qlik Sense",
+        "Superset",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Wipro",
+      "role": "Project Engineer",
+      "description": "",
+      "duration": "12/2016-07/2019",
+      "technologies": [
+        "Flask",
+        "Machine learning Tools and algorithm",
+        "NLP",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Gayathri Vidhya Parishad College of Engineering(Autonomous)",
+      "year": 0
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Web Intelligence Search Engine",
+      "description": "Developed a product which will answer the questions relating to Investor Relations like share price, dividend policy etc.",
+      "role": "Senior AI Developer",
+      "metrics": "25%",
+      "technologies": [
+        "LLM’s",
+        "RAG",
+        "VLM",
+        "Deep Learning",
+        "ML",
+        "NLP",
+        "Python",
+        "GenAI",
+        "Hugging face Transformers",
+        "Langchain",
+        "Langgraph",
+        "TensorRTLLM",
+        "Pytorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-Learn",
+        "NumPy",
+        "Pandas",
+        "Seaborn",
+        "Matplotlib",
+        "Unix/Linux",
+        "Windows",
+        "Oracle 11g",
+        "MySQL",
+        "MongoDB",
+        "Git",
+        "Jenkins",
+        "TFS",
+        "Docker",
+        "Qlik",
+        "Apache Superset"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "TradeEdge Route Planning",
+      "description": "Developed a route planning solution to optimize delivery routes for a logistics company.",
+      "role": "Senior Member of Technical Staff",
+      "metrics": "40%",
+      "technologies": [
+        "ML Algorithms",
+        "Python",
+        "Django Rest API Framework",
+        "Google Maps API",
+        "Apache NiFi"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Market Pulse",
+      "description": "Developed a comprehensive solution that transforms retail data into insights through data acquisition, ELT, data modelling & visualization.",
+      "role": "Senior Member of Technical Staff",
+      "metrics": "66.67%",
+      "technologies": [
+        "Django",
+        "Apache NiFi",
+        "DBT",
+        "Qlik Sense",
+        "Superset",
+        "PostgreSQL"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Data Normalization",
+      "description": "Developed a multivariate data normalization suite using Levenshtein, Jaro-Winkler, Cosine Similarity, and Locality Sensitive Hashing.",
+      "role": "Senior Member of Technical Staff",
+      "metrics": "",
+      "technologies": [
+        "Django",
+        "Celery",
+        "Jellyfish",
+        "SparseDotTopn",
+        "Datasketch",
+        "Psycopg2"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Nia Spend Classification",
+      "description": "Developed a spend classification model on procurement data utilizing Multinomial Naive Bayes, Linear SVM, XGBoost, RNN, and FastText has achieved a recall of 0.92 for text classification.",
+      "role": "Senior Member of Technical Staff",
+      "metrics": "77.78%",
+      "technologies": [
+        "Django",
+        "Celery",
+        "MLFlow",
+        "Scikit-Learn",
+        "TensorFlow",
+        "NLTK",
+        "Spacy",
+        "Sumy",
+        "Spark MLlib",
+        "PySpark",
+        "ELI"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "NIA Chatbot - AP Assistant",
+      "description": "NIA Chatbot project deals with various use-cases as Invoice info, PO, Create Ticket, Vendor Management, Intent identification and perform action based on its found Intent (e.g.: -Creating a ticket, getting the invoice info)",
+      "role": "Senior Member of Technical Staff",
+      "metrics": "",
+      "technologies": [
+        "Flask",
+        "Machine learning Tools and algorithm",
+        "NLP",
+        "Python"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Holmes Chabot",
+      "description": "Holmes Chatbot project deals with various use-cases as SOP, FAQ, Pro-active communication, Intent identification and perform action based on its found Intent (e.g.: Fixing Internet Outage, Software Installation), Learn-Unlearn for Document training, Server-Reboot.",
+      "role": "Project Engineer",
+      "metrics": "",
+      "technologies": [
+        "Flask",
+        "Machine learning Tools and algorithm",
+        "NLP",
+        "Python"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Increased user satisfaction and the revenue by 25%",
+      "metrics": "25%"
+    },
+    {
+      "type": "Performance",
+      "description": "Enhanced route efficiency by 40% reducing delivery times and fuel consumption.",
+      "metrics": "40%"
+    },
+    {
+      "type": "Performance",
+      "description": "Reducing the pipeline runtime from 15 minutes to 50 seconds",
+      "metrics": "66.67%"
+    },
+    {
+      "type": "Performance",
+      "description": "Improved spend visibility from 45% to 80% and uncovering 2.5 million USD in savings opportunities.",
+      "metrics": "77.78%"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 36.12827253341675,
+  "s3_key": "raw/70 profiles/GudeLakshmanRao[8y_2m].docx",
+  "file_type": "docx",
+  "original_filename": "GudeLakshmanRao[8y_2m].docx"
+}

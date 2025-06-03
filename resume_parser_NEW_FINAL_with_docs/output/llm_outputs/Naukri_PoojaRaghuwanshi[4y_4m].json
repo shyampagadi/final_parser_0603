@@ -1,0 +1,157 @@
+{
+  "resume_id": "f00556da-41ee-4f58-aff0-d24cbe914a4c",
+  "full_name": "Pooja Raghuwanshi",
+  "name": "Pooja Raghuwanshi",
+  "email": "poojaraghuwanshi93@gmail.com",
+  "phone_number": "+91 9131543651",
+  "address": "India",
+  "linkedin": "https://in.linkedin.com/in/pooja-raghuwanshi-293283164",
+  "linkedin_url": "https://in.linkedin.com/in/pooja-raghuwanshi-293283164",
+  "summary": "Highly motivated and experienced Technology Analyst with 4.4 years of experience in software development, with expertise in Java, Spring Boot, and Microservices. Proven track record of delivering high-quality solutions and providing exceptional technical support.",
+  "total_experience": 4.4,
+  "skills": [
+    "Java Core",
+    "Java8",
+    "SQL",
+    "MySQL",
+    "Spring Boot",
+    "RESTful APIs",
+    "Microservices",
+    "JWT",
+    "HTML5",
+    "CSS3",
+    "Git",
+    "Github",
+    "Jenkins",
+    "Jira",
+    "SonarQube",
+    "CI/CD",
+    "Maven",
+    "Postman",
+    "Agile"
+  ],
+  "positions": [
+    "Technology Analyst",
+    "Senior System Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Infosys Limited",
+      "role": "Technology Analyst",
+      "description": "",
+      "duration": "04/2020-03/2024",
+      "technologies": [
+        "Core java",
+        "java8",
+        "Spring Boot",
+        "MySQL",
+        "Microservices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors in Technology",
+      "institution": "Madhav Institute of Technology and Science",
+      "year": 2016
+    }
+  ],
+  "certifications": [
+    "Java - SE8 Programmer part- 1, Infosys"
+  ],
+  "projects": [
+    {
+      "name": "CUCM",
+      "description": "",
+      "role": "Technology Analyst",
+      "metrics": "Improved response time by 30%",
+      "technologies": [
+        "Core java",
+        "java8",
+        "Spring Boot",
+        "MySQL",
+        "Microservices"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "CCUC",
+      "description": "",
+      "role": "Technology Analyst",
+      "metrics": "",
+      "technologies": [
+        "Core java",
+        "java8",
+        "Spring Boot",
+        "MySQL",
+        "Microservices"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "SELFCARE",
+      "description": "",
+      "role": "Technology Analyst",
+      "metrics": "",
+      "technologies": [
+        "Core java",
+        "java8",
+        "Spring Boot",
+        "MySQL",
+        "Microservices"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "LDAP",
+      "description": "",
+      "role": "Senior System Engineer",
+      "metrics": "Reduced sync process time by 40%",
+      "technologies": [
+        "Core java",
+        "java8",
+        "Spring Boot",
+        "MySQL",
+        "Microservices"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "SonarQube",
+      "description": "",
+      "role": "Senior System Engineer",
+      "metrics": "Reduced SA blocker issues by 15%",
+      "technologies": [
+        "Core java",
+        "java8",
+        "Spring Boot",
+        "MySQL",
+        "Microservices"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Most Valuable Player Cisco glory For outstanding performance during feature implementation",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Most Valuable Player Cisco glory For exceptional performance during development phase of jabber feature",
+      "metrics": ""
+    },
+    {
+      "type": "Merit",
+      "description": "Merit Certificate Central Board of Delhi For Scoring 10 CGPA in Xth",
+      "metrics": ""
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 21.672789096832275,
+  "s3_key": "raw/70 profiles/Naukri_PoojaRaghuwanshi[4y_4m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_PoojaRaghuwanshi[4y_4m].pdf"
+}

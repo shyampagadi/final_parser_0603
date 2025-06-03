@@ -1,0 +1,126 @@
+{
+  "resume_id": "af16cdde-c36f-4902-898a-40de4965f958",
+  "full_name": "Swathi K",
+  "name": "Swathi K",
+  "email": "swathi548769@gmail.com",
+  "phone_number": "+91 7075969887",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Around total 5+ years of experience in IT industry with more than 4+ years of experience in Boomi. Good communication and team building skills, with proficiency at grasping new technical concepts quickly and utilizing them in a productive manner.",
+  "total_experience": 5.1,
+  "skills": [
+    "Boomi",
+    "API Management",
+    "JavaScript",
+    "Groovy Script",
+    "Oracle",
+    "MySQL",
+    "SoapUI",
+    "Postman",
+    "Workato",
+    "EDi",
+    "MDM/MDH",
+    "Private & Public – IPaas, SaaS, PaaS, IaaS cloud Technologies"
+  ],
+  "positions": [
+    "Boomi Developer",
+    "Developer",
+    "Integration Developer",
+    "Test Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Wipro",
+      "role": "Boomi Developer",
+      "description": "",
+      "duration": "05/2020-07/2024",
+      "technologies": [
+        "Boomi"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "role": "Boomi Developer",
+      "description": "",
+      "duration": "07/2018-04/2020",
+      "technologies": [
+        "Boomi"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Siddhartha Institute Of Technology & Sciences",
+      "year": 2016
+    }
+  ],
+  "certifications": [
+    "Associate Boomi Developer Certification",
+    "Boomi Professional Developer Certification",
+    "Boomi Professional API Management"
+  ],
+  "projects": [
+    {
+      "name": "Origin Energy",
+      "description": "Origin is one of Australia's leading energy companies, exploring, generating and delivering energy to over 4 million customer accounts.",
+      "role": "Developer",
+      "metrics": "",
+      "technologies": [
+        "Boomi",
+        "Disk",
+        "FTP",
+        "Mail",
+        "Database",
+        "Salesforce",
+        "HTTP client",
+        "Web Services SOAP"
+      ],
+      "duration_months": 42
+    },
+    {
+      "name": "HOYER",
+      "description": "The international logistics company HOYER is one of the worldwide market leaders in moving liquids by road, rail and sea.",
+      "role": "Integration Developer",
+      "metrics": "",
+      "technologies": [
+        "Boomi"
+      ],
+      "duration_months": 24
+    },
+    {
+      "name": "Reckitt",
+      "description": "Every day, in everything we do, our purpose is to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world.",
+      "role": "Developer",
+      "metrics": "",
+      "technologies": [
+        "Boomi",
+        "Database",
+        "Mail",
+        "SFTP",
+        "HTTP Client",
+        "Web services server"
+      ],
+      "duration_months": 18
+    },
+    {
+      "name": "OKI",
+      "description": "OKI Europe Ltd. is a global business-to-business brand and pioneer of award-winning digital LED printer technology.",
+      "role": "Test Engineer",
+      "metrics": "",
+      "technologies": [],
+      "duration_months": 6
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "511120 - Software Publishers",
+    "221122 - Electric Power Distribution"
+  ],
+  "opensearch_success": true,
+  "processing_time": 17.6039617061615,
+  "s3_key": "raw/70 profiles/Naukri_SwathiKolukuluri[5y_10m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_SwathiKolukuluri[5y_10m].docx"
+}

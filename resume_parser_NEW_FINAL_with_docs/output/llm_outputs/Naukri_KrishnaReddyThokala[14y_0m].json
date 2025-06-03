@@ -1,0 +1,293 @@
+{
+  "resume_id": "6d007ec7-6572-40b1-ab08-5842f9fefaee",
+  "full_name": "Krishna Reddy Thokala",
+  "name": "Krishna Reddy Thokala",
+  "email": "Krishna.thokala@gmail.com",
+  "phone_number": "9502434566",
+  "address": "E-108, Aparna Cyber Commune, Kanchi Gachibowli Road, Serilingampally, Hyderabad-500019",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "More than 10 years of experience in IT industry with exposure of working with various clients from implementation and advisory perspective in Content Management & e-Commerce Solutions. Consulted large MNCs in US and Europe on Content Management and e-commerce Strategy, Requirement analysis, Design Architecture, Development/Coding, Unit Testing, Maintenance(Enhancements and Changes Requests) in Life Sciences & Health Care domain.",
+  "total_experience": 14.0,
+  "skills": [
+    "PHP",
+    "MySQL",
+    "Linux",
+    "CSS",
+    "HTML",
+    "Java Script",
+    "Zend framework",
+    "WordPress",
+    "Drupal 7",
+    "Drush",
+    "Magento",
+    "Code igniter",
+    "REST Web Service",
+    "JQuery",
+    "AJAX",
+    "LAMP Stack",
+    "Memcache",
+    "Apache",
+    "Shell scripts",
+    "MySQL Query writing"
+  ],
+  "positions": [
+    "Associate- Projects",
+    "Senior Software Engineer",
+    "Senior PHP Developer",
+    "PHP Developer",
+    "Architect",
+    "Developer",
+    "Senior Developer"
+  ],
+  "companies": [
+    {
+      "name": "Cognizant Technology Solutions India Pvt. Ltd",
+      "role": "Associate- Projects",
+      "description": "",
+      "duration": "10/2013-02/2023",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "Linux",
+        "CSS",
+        "HTML",
+        "Java Script",
+        "Zend framework",
+        "WordPress",
+        "Drupal 7",
+        "Drush",
+        "Magento",
+        "Code igniter",
+        "REST Web Service"
+      ]
+    },
+    {
+      "name": "VIP IT Service Pvt. Ltd.",
+      "role": "Senior Software Engineer",
+      "description": "",
+      "duration": "03/2013-10/2013",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "Linux",
+        "CSS",
+        "HTML",
+        "Java Script",
+        "Zend framework",
+        "WordPress",
+        "Drupal 7",
+        "Drush",
+        "Magento",
+        "Code igniter",
+        "REST Web Service"
+      ]
+    },
+    {
+      "name": "Adaptive Payments",
+      "role": "Senior PHP Developer",
+      "description": "",
+      "duration": "04/2011-02/2013",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "Linux",
+        "CSS",
+        "HTML",
+        "Java Script",
+        "Zend framework",
+        "WordPress",
+        "Drupal 7",
+        "Drush",
+        "Magento",
+        "Code igniter",
+        "REST Web Service"
+      ]
+    },
+    {
+      "name": "Sirahu Technologies Pvt. Ltd.",
+      "role": "PHP Developer",
+      "description": "",
+      "duration": "05/2009-02/2011",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "Linux",
+        "CSS",
+        "HTML",
+        "Java Script",
+        "Zend framework",
+        "WordPress",
+        "Drupal 7",
+        "Drush",
+        "Magento",
+        "Code igniter",
+        "REST Web Service"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology (BTech) – CSE",
+      "institution": "Jawaharlal Nehru Technological University, Hyderabad",
+      "year": 2006
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Wellevate, EmersonEcologics",
+      "description": "Ecommerce: Magento 2",
+      "role": "Architect",
+      "metrics": "Validating Data Migration using Jupiter",
+      "technologies": [
+        "Magento 2",
+        "Rest Apis",
+        "Mandrill Email Platform",
+        "Payment split",
+        "Jupiter"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "PepsiCo China",
+      "description": "Ecommerce: Magento 2",
+      "role": "Developer",
+      "metrics": "",
+      "technologies": [
+        "Magento 2",
+        "Rest Apis",
+        "Cancel Order from frontend",
+        "Customizing checkout process"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Abbott Diabetic Care- WebShop Program",
+      "description": "Tools: Magento,HTML, CSS, JQuery, GitHub",
+      "role": "Senior Developer",
+      "metrics": "Rolled out FSL website for 6 European countries in span of 6 months in 6 unique locale",
+      "technologies": [
+        "Magento",
+        "HTML",
+        "CSS",
+        "JQuery",
+        "GitHub"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Estee Lauder companies",
+      "description": "Tools: Perl, Drupal7 , Oracle, HTML, CSS, JQuery, GitHub",
+      "role": "Developer",
+      "metrics": "Rolled out ELC website for 4 countries in span of 6 months in 4 unique locale",
+      "technologies": [
+        "Perl",
+        "Drupal7",
+        "Oracle",
+        "HTML",
+        "CSS",
+        "JQuery",
+        "GitHub"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Direct Energy(DE)",
+      "description": "Tools: Code igniter, Cake PHP, LAMP, HTML, CSS, JQuery, GitHub",
+      "role": "Developer",
+      "metrics": "PCI Compliance implementation & Security measures on the published site",
+      "technologies": [
+        "Code igniter",
+        "Cake PHP",
+        "LAMP",
+        "HTML",
+        "CSS",
+        "JQuery",
+        "GitHub"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "NBCU Media Village Redesign – Data Migration",
+      "description": "Tools: Drupal 7, Acquia Drupal, Drush Command Line Tool, LAMP, HTML, JQuery",
+      "role": "Developer",
+      "metrics": "Data Migration from Alfresco to Drupal 7",
+      "technologies": [
+        "Drupal 7",
+        "Acquia Drupal",
+        "Drush Command Line Tool",
+        "LAMP",
+        "HTML",
+        "JQuery"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "New York Times",
+      "description": "Tools : Magento Community 1.7, LAMP, HTML, CSS, JQuery",
+      "role": "Developer",
+      "metrics": "Payment Gateway integrations(Chase Payment tech), Integration of Shipping Methods(FedEx) , Discount Coupon Management, Mail Chimp",
+      "technologies": [
+        "Magento Community 1.7",
+        "LAMP",
+        "HTML",
+        "CSS",
+        "JQuery"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Adaptive Payments API Merchant Configuration",
+      "description": "Tools : Zend Framework, MySQL, HTML, CSS, JQuery, Fusion Charts",
+      "role": "Developer",
+      "metrics": "Merchant Configuration module will enable to create merchants based on their privileges",
+      "technologies": [
+        "Zend Framework",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JQuery",
+        "Fusion Charts"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Smash Solutions",
+      "description": "Tools: Code Igniter,  LAMP, HTML, CSS, JQuey",
+      "role": "Developer",
+      "metrics": "Smash is an ERP product has around 15 modules",
+      "technologies": [
+        "Code Igniter",
+        "LAMP",
+        "HTML",
+        "CSS",
+        "JQuey"
+      ],
+      "duration_months": 6
+    },
+    {
+      "name": "Automotive.com",
+      "description": "Tools: WordPress, MySQL, HTML, CSS, JQuery",
+      "role": "Developer",
+      "metrics": "In-market websites and Enthusiast media web sites blogs are converted into Word Press theme and Forums are converted into PHPBB theme",
+      "technologies": [
+        "WordPress",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JQuery"
+      ],
+      "duration_months": 6
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Life Sciences & Health Care"
+  ],
+  "opensearch_success": true,
+  "processing_time": 38.63726615905762,
+  "s3_key": "raw/70 profiles/Naukri_KrishnaReddyThokala[14y_0m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_KrishnaReddyThokala[14y_0m].docx"
+}

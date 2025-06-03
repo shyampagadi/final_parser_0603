@@ -1,0 +1,195 @@
+{
+  "resume_id": "93843c24-0a43-4401-9850-3de1314d70e8",
+  "full_name": "Shilpa Kongara",
+  "name": "Shilpa Kongara",
+  "email": "Kongarashilpa123@gmail.com",
+  "phone_number": "+91 8688069907",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Shilpa has around 6.5 years of IT experience and same in Appian Experience in developing Appian applications with Level 3(Lead Developer) credentials. Having experience in BPM Technology using APPIAN. Having experience in Analysis, Designing, Development & Deployment across different environments.",
+  "total_experience": 7.0,
+  "skills": [
+    "Appian BPM",
+    "Python",
+    "My SQL",
+    "XML",
+    "HTTP protocols"
+  ],
+  "positions": [
+    "Senior Software Engineer / Lead",
+    "Appian Consultant",
+    "Designer",
+    "DEVELOPMENT"
+  ],
+  "companies": [
+    {
+      "name": "Tech Mahindra",
+      "role": "DEVELOPMENT",
+      "description": "Complaints Management",
+      "duration": "08/23 – 04/24",
+      "technologies": [
+        "Appian",
+        "JIRA(Monday board)",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Ciklum India Private Limited",
+      "role": "DEVELOPMENT",
+      "description": "SANTANDER",
+      "duration": "",
+      "technologies": [
+        "Appian",
+        "OCR(IDP)",
+        "Initiate request"
+      ]
+    },
+    {
+      "name": "Yexle Digital Services Private Limited",
+      "role": "DEVELOPMENT",
+      "description": "BSI (British standards Institution)",
+      "duration": "",
+      "technologies": [
+        "Appian 22.x",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Coforge DPA Private Limited",
+      "role": "Designer",
+      "description": "KONE",
+      "duration": "0/21 to 06/21",
+      "technologies": [
+        "Appian v20.x",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Intelliviz Software Pvt Ltd",
+      "role": "To Test and Raise Tickets",
+      "description": "Advance Order Process & Banking",
+      "duration": "05/18 – 02/20",
+      "technologies": [
+        "JIRA",
+        "Agile",
+        "Service now"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology(B. Tech)",
+      "institution": "Bharath Institute of Higher Education & Research",
+      "year": 2018
+    },
+    {
+      "degree": "Higher Secondary School",
+      "institution": "Narayana Junior College",
+      "year": 2014
+    }
+  ],
+  "certifications": [
+    "Appian Level-3(Lead Developer) Credential"
+  ],
+  "projects": [
+    {
+      "name": "Complaints Management",
+      "description": "Applications to raise claims and complaints of multiple categories in Sites.",
+      "role": "DEVELOPMENT",
+      "metrics": "",
+      "technologies": [
+        "Appian",
+        "JIRA(Monday board)",
+        "Agile"
+      ],
+      "duration_months": 8
+    },
+    {
+      "name": "Legal Services",
+      "description": "Applications to raise / Initiate Request multiple categories in Sites.",
+      "role": "DEVELOPMENT",
+      "metrics": "",
+      "technologies": [
+        "Appian",
+        "JIRA(Monday board)",
+        "Agile"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "SANTANDER",
+      "description": "in this project we are involving with OCR(IDP) , Initiate request , we are going to generate document(automatically using IDP) & values for the selection fields for many fields are sourced from the integrations",
+      "role": "DEVELOPMENT",
+      "metrics": "",
+      "technologies": [
+        "Appian",
+        "OCR(IDP)",
+        "Initiate request"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "BSI (British standards Institution)",
+      "description": "A case raised & flown from CRM(sales force) to EWA via Mule soft, as per the customer requirement we are going to choose case type e.g. NEB (Newly Equipped Business), Modernization, along with this we are going to choose different services like Solution cost calculation, Reference Layout, Feasibility etc.,",
+      "role": "DEVELOPMENT",
+      "metrics": "",
+      "technologies": [
+        "Appian 22.x",
+        "MySQL"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "KONE",
+      "description": "It is just a prototype walk through solution, this procedure is about to check standards for medical devices in BSI, for a user it helps in giving an example workflow for a real time process, thus helps the user in providing necessary knowledge About the procedure, to avoid mistakes and further complications.",
+      "role": "Designer",
+      "metrics": "",
+      "technologies": [
+        "Appian v20.x",
+        "MySQL"
+      ],
+      "duration_months": 9
+    },
+    {
+      "name": "Work Force Management Solution BHNC (Bexley Health Neighbourhood care)",
+      "description": "It is a Health care domain organization; Customer has provided the Supplier with a checklist for their recruitment process that Needs to be automated as enhancement to their existing Workforce Management Application on Appian.",
+      "role": "To Design and Test",
+      "metrics": "",
+      "technologies": [
+        "Appian v19.x",
+        "MySQL"
+      ],
+      "duration_months": 19
+    },
+    {
+      "name": "Advance Order Process & Banking",
+      "description": "Worked in production support for project domains such as Telecom and Banking, Performed smoke and unit testing and regression testing",
+      "role": "To Test and Raise Tickets",
+      "metrics": "",
+      "technologies": [
+        "JIRA",
+        "Agile",
+        "Service now"
+      ],
+      "duration_months": 20
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Apart from Client Projects",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "Health care",
+    "Government Regulatory",
+    "Banking"
+  ],
+  "opensearch_success": true,
+  "processing_time": 33.15214014053345,
+  "s3_key": "raw/70 profiles/Naukri_SHILPAKONGARA[7y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_SHILPAKONGARA[7y_0m].pdf"
+}

@@ -1,0 +1,188 @@
+{
+  "resume_id": "34e6b712-da96-4ab9-8b45-a0e8d1924212",
+  "full_name": "Shiva Raman",
+  "name": "Shiva Raman",
+  "email": "shiv.connect@outlook.com",
+  "phone_number": "7397537266",
+  "address": "Chennai, India",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Data Engineer with 6.7+ years of experience in crafting advanced data solutions in both cloud and on-premise settings. Expert in leveraging technologies like PySpark, SQL, and Azure to streamline data processing and transformation, significantly enhancing efficiency and reducing operational costs.",
+  "total_experience": 7.0,
+  "skills": [
+    "Azure Databricks",
+    "Azure Data Factory",
+    "Azure Data Lake Gen2",
+    "PySpark",
+    "Python",
+    "SQL",
+    "Spark",
+    "Databricks",
+    "Git",
+    "GitHub",
+    "Jenkins",
+    "Data Pipeline",
+    "Data Warehousing"
+  ],
+  "positions": [
+    "Azure Data Engineer",
+    "Databricks Developer/ Data Engineer",
+    "Data Ops & Python Engineer"
+  ],
+  "companies": [
+    {
+      "name": "TCS",
+      "role": "Azure Data Engineer",
+      "description": "",
+      "duration": "04/2023-12/2023",
+      "technologies": [
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure Data Lake Gen2",
+        "PySpark",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Atos Syntel",
+      "role": "Data Ops & Python Engineer",
+      "description": "",
+      "duration": "05/2018-07/2021",
+      "technologies": [
+        "PySpark",
+        "Python",
+        "SQL",
+        "Spark",
+        "Databricks",
+        "Git",
+        "GitHub",
+        "Jenkins",
+        "Data Pipeline",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Computer Science Engineering",
+      "institution": "Rajalakshmi Engineering College",
+      "year": 2014
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Marketing Mix Modelling",
+      "description": "Migrated Alteryx workflows to a robust Azure Cloud Data Pipeline solution for Marketing Mix Modelling, focusing on historical and incremental data processing.",
+      "role": "Azure Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure Data Lake Gen2",
+        "PySpark",
+        "SQL"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Data Pipeline Optimization",
+      "description": "Led performance optimization initiatives for Azure Databricks jobs, resulting in improved processing efficiency and reduced operational costs.",
+      "role": "Azure Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure Data Lake Gen2",
+        "PySpark",
+        "SQL"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "ETL Pipeline Development",
+      "description": "Engineered robust ETL pipelines using PySpark for On-prem Data Processing and Analytical Operations.",
+      "role": "Data Ops & Python Engineer",
+      "metrics": "",
+      "technologies": [
+        "PySpark",
+        "Python",
+        "SQL",
+        "Spark",
+        "Databricks",
+        "Git",
+        "GitHub",
+        "Jenkins",
+        "Data Pipeline",
+        "Data Warehousing"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "API Integration Workflows",
+      "description": "Implemented automated API integration workflows, transforming manual data operations into streamlined processes for enhanced cross-team efficiency.",
+      "role": "Data Ops & Python Engineer",
+      "metrics": "",
+      "technologies": [
+        "PySpark",
+        "Python",
+        "SQL",
+        "Spark",
+        "Databricks",
+        "Git",
+        "GitHub",
+        "Jenkins",
+        "Data Pipeline",
+        "Data Warehousing"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Data Blending Solutions",
+      "description": "Architected scalable data blending solutions, implementing automated workflows that significantly improved operational efficiency.",
+      "role": "Data Ops & Python Engineer",
+      "metrics": "",
+      "technologies": [
+        "PySpark",
+        "Python",
+        "SQL",
+        "Spark",
+        "Databricks",
+        "Git",
+        "GitHub",
+        "Jenkins",
+        "Data Pipeline",
+        "Data Warehousing"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Optimized the data pipeline and reduced the failure resolution time by 90% through automation.",
+      "metrics": "90%"
+    },
+    {
+      "type": "Performance",
+      "description": "Reduced monthly incidents by 80% for the data pipeline errors, and quickly remediated through the Optimus Remediation engine.",
+      "metrics": "80%"
+    },
+    {
+      "type": "Leadership",
+      "description": "Recognized by PayPal Leadership Team for contribution to the Data Failure remediation.",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Increased Stakeholders and business confidence in the Data Pipeline by 95%.",
+      "metrics": "95%"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 26.597174644470215,
+  "s3_key": "raw/70 profiles/Naukri_ShivaRamanM[7y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_ShivaRamanM[7y_0m].pdf"
+}

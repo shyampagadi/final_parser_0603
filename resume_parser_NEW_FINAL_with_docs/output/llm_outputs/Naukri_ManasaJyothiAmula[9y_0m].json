@@ -1,0 +1,210 @@
+{
+  "resume_id": "62cb3d83-922d-4614-b460-d5e8599098c4",
+  "full_name": "Manasa Jyothi Amula",
+  "name": "Manasa Jyothi Amula",
+  "email": "manasajyothi.amula@gmail.com",
+  "phone_number": "9766138410",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "A results-driven and innovative AI/ML Expert with 9+ years of experience in Generative AI development, specializing in Large Language Models (LLMs) and LLM-based chatbots. Proven expertise in Data Modeling, Data Analysis, and Mainframe technologies. Adept at designing scalable AI-driven solutions, leveraging cutting-edge algorithms to enhance business operations and customer experiences. Strong background in implementing data strategies, building advanced predictive models, and managing AI models through their entire lifecycle.",
+  "total_experience": 9.0,
+  "skills": [
+    "LLM Chatbot Development",
+    "Gen AI RAG Framework",
+    "Prompt Engineering",
+    "Pandas Dataframe Agent",
+    "Snowflake Cortex Analyst",
+    "Generative AI Technologies",
+    "Python",
+    "SQL",
+    "CICS",
+    "COBOL",
+    "TensorFlow",
+    "PyTorch",
+    "LangChain",
+    "LlamaIndex",
+    "Streamlit",
+    "Flask",
+    "FastAPI",
+    "Data Analysis",
+    "Data Modeling",
+    "Cloud Platforms",
+    "Database"
+  ],
+  "positions": [
+    "Senior Software Engineer",
+    "Data Analyst",
+    "Data Modeler",
+    "Data Architect",
+    "Software Developer"
+  ],
+  "companies": [
+    {
+      "name": "Accenture",
+      "role": "Senior Software Engineer",
+      "description": "",
+      "duration": "06/2016- Till Date",
+      "technologies": [
+        "LLM Chatbot Development",
+        "Gen AI RAG Framework",
+        "Prompt Engineering",
+        "Pandas Dataframe Agent",
+        "Snowflake Cortex Analyst",
+        "Generative AI Technologies",
+        "Python",
+        "SQL",
+        "CICS",
+        "COBOL",
+        "TensorFlow",
+        "PyTorch",
+        "LangChain",
+        "LlamaIndex",
+        "Streamlit",
+        "Flask",
+        "FastAPI",
+        "Data Analysis",
+        "Data Modeling",
+        "Cloud Platforms",
+        "Database"
+      ]
+    },
+    {
+      "name": "Bank of America",
+      "role": "Data Analyst/Data Modeler",
+      "description": "",
+      "duration": "",
+      "technologies": [
+        "Python",
+        "SQL",
+        "SAP Power Designer"
+      ]
+    },
+    {
+      "name": "BMW NA",
+      "role": "Software Developer",
+      "description": "",
+      "duration": "",
+      "technologies": [
+        "CICS",
+        "COBOL",
+        "SAP",
+        "Java"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [
+    "AWS developer associate certified",
+    "Microsoft Azure Developer associate certified",
+    "Data Architect Certified (Internal)"
+  ],
+  "projects": [
+    {
+      "name": "Project Lager",
+      "description": "Ran a pipeline that can redact documents with logos and company names on Linux VMS. Uses Yolo5 model to redact the documents and DocAI and chagpt for validation of Redacted documents and the processed files are again uploaded to azure blob.",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Yolo5 model",
+        "DocAI",
+        "chagpt",
+        "Azure"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Chat bot - Supply Chain Resilience",
+      "description": "Developed a chat bot that can provide meaning insights and accuracy to user queries on the supply chain knowledge. Automate data validation to cut manual work, boost accuracy and offer instant supply chain insights for more efficient operation.",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Gpt -4o model",
+        "Azure Open AI"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Chat bot - HR Policy Document Chat bot",
+      "description": "Created a chat bot that can analysze the uploaded HR documents and user can leverage the session to know about any uploaded policy details.",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [],
+      "duration_months": 0
+    },
+    {
+      "name": "Chatbot - Genai Document Analyser",
+      "description": "This application uses Azure Recognizer, Azure Storage, Azure Cognitive search, AzureOpenAI’s GPT-3 and embedding models to enable users to chat with their documents. The application is built using Streamlit and Orchestrated with Langchain.",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure Recognizer",
+        "Azure Storage",
+        "Azure Cognitive search",
+        "AzureOpenAI’s GPT-3",
+        "embedding models",
+        "Streamlit",
+        "Langchain"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Project 2 – Bank of America",
+      "description": "Analyze the inbound data. Create Mapping Specs and Analyze in creating Source Table, Stage Table and Target Tables. Create Logical and physical Data Model input and load then into SAP Power Designer tool to create Data Models.",
+      "role": "Data Analyst/Data Modeler",
+      "metrics": "",
+      "technologies": [
+        "Python",
+        "SQL",
+        "SAP Power Designer"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Project 3 – Bank of America",
+      "description": "Analyze the inbound data from various data sources. Understood the incentive calculation platform legacy PMRR and provided solution architecture documents for creating Hubs that can migrate the existing platform to oracle cloud.",
+      "role": "Data Analyst/Data Architect",
+      "metrics": "",
+      "technologies": [
+        "Oracle Cloud"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Project 4 – BMW NA",
+      "description": "Analyzed the existing legacy system to implement the requirement changes and provides the estimates as well. Developed CICS and Cobol programs as per the requirements and integrated the same with SAP, Java frontend.",
+      "role": "Software Developer",
+      "metrics": "",
+      "technologies": [
+        "CICS",
+        "COBOL",
+        "SAP",
+        "Java"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Won Client and Associate Appreciation on deliverables",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Won Accenture Excellence award",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Won Star of the project title for delivering a critical task with a very strict deadline",
+      "metrics": ""
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 32.490500688552856,
+  "s3_key": "raw/70 profiles/Naukri_ManasaJyothiAmula[9y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_ManasaJyothiAmula[9y_0m].pdf"
+}

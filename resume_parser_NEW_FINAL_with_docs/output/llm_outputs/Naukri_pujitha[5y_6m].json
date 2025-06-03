@@ -1,0 +1,88 @@
+{
+  "resume_id": "a0fdbe21-7d1f-40d2-b83e-e9fe4776baff",
+  "full_name": "Billa Sreepujitha",
+  "name": "Billa Sreepujitha",
+  "email": "pujithainfoetl@gmail.com",
+  "phone_number": "+91-9032944072",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "To apply my technical expertise in Data warehousing & contribute to the development of high-quality software products in the organization.  I am keen to expand my career in a result oriented, rewarding and a challenging work environment.",
+  "total_experience": 5.6,
+  "skills": [
+    "Informatica Power Center",
+    "IICS",
+    "Oracle",
+    "Db2",
+    "SQL",
+    "Python",
+    "WinSCP",
+    "Putty"
+  ],
+  "positions": [
+    "Software Engineer",
+    "Associate_Projects"
+  ],
+  "companies": [
+    {
+      "name": "Cognizant Technology Solutions India Private Limited",
+      "role": "Associate_Projects",
+      "description": "",
+      "duration": "12/2022-till now",
+      "technologies": [
+        "IICS",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Accenture",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "04/2019-11/2022",
+      "technologies": [
+        "Informatica Power center",
+        "Oracle"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Graduation",
+      "institution": "JNTU University",
+      "year": 0
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "CDI Product Team",
+      "description": "CDI (Clinical Data Insights) is a Cognizant product which is set up for one client named Haleon (earlier GSK) in Cognizant owned AWS account and integrated with Haleon systems (Veeva and CFT) to create a data repository and enable dashboards.",
+      "role": "Associate_Projects",
+      "metrics": "",
+      "technologies": [
+        "IICS",
+        "Oracle",
+        "PC2IICS conversion tool"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "AT&T",
+      "description": "AT&T Corporation organizes its business into two segments, business services and consumer services. AT&T's consumer services business, the bedrock of its existence for more than a century, provides domestic and international long-distance telephone service to roughly 35 million residential customers in the United States.",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "Informatica Power center",
+        "Oracle"
+      ],
+      "duration_months": 42
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 14.383578538894653,
+  "s3_key": "raw/70 profiles/Naukri_pujitha[5y_6m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_pujitha[5y_6m].docx"
+}

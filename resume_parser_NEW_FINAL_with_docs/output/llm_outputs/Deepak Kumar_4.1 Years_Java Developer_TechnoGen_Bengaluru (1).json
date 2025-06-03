@@ -1,0 +1,187 @@
+{
+  "resume_id": "e162bb64-db5c-48f8-85e8-a99e39a0cb41",
+  "full_name": "Deepak Kumar",
+  "name": "Deepak Kumar",
+  "email": "deepak.km902@gmail.com",
+  "phone_number": "+91 7479548176",
+  "address": "Bengaluru, India",
+  "linkedin": "https://www.linkedin.com/in/deep902/",
+  "linkedin_url": "https://www.linkedin.com/in/deep902/",
+  "summary": "Software Developer with 4+ years of experience in web application development and a proven track record at SLK Software Services, adept in Core Java and microservices architecture. Successfully transformed monolithic applications, enhancing user experience and streamlining build processes. Skilled in collaboration and problem-solving, delivering robust solutions that align with business objectives and improve operational efficiency.",
+  "total_experience": 4.0,
+  "skills": [
+    "Core Java",
+    "Java8",
+    "Spring5",
+    "Spring boot",
+    "Spring MVC",
+    "Monolithic and Microservices",
+    "MySQL",
+    "PostgreSQL",
+    "IBM DB2",
+    "AWS",
+    "Git",
+    "GitHub",
+    "Splunk",
+    "Check-max",
+    "Blackduck",
+    "XML",
+    "JSON",
+    "JPA / Hibernate",
+    "J2EE Technologies",
+    "JDBC",
+    "Servlets",
+    "IntelliJ",
+    "Visual Studio",
+    "Postman",
+    "Jenkins",
+    "Junit4",
+    "Mockito",
+    "Wire-Mock",
+    "Docker",
+    "Kubernetes",
+    "Kafka",
+    "Swagger",
+    "Agile Development",
+    "OOP"
+  ],
+  "positions": [
+    "Software Engineer",
+    "Sr. Solution Engineer",
+    "Programmer"
+  ],
+  "companies": [
+    {
+      "name": "SLK Software Services Pvt Ltd",
+      "role": "Software Engineer",
+      "description": "Developed and launched a new Certificate of Deposit product, enhancing the bank's existing offerings.",
+      "duration": "07/2023-Present",
+      "technologies": [
+        "Java8",
+        "Spring boot 2.7.3",
+        "Microservices",
+        "MySQL",
+        "WebSphere",
+        "Mockito",
+        "Wire-Mock",
+        "Kafka",
+        "Redis",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Deqode (Techraceres Pvt Ltd)",
+      "role": "Sr. Solution Engineer",
+      "description": "Implemented an Air-byte container, an open source third party service that helps consolidate the data for further analytics purpose.",
+      "duration": "04/2023-07/2023",
+      "technologies": []
+    },
+    {
+      "name": "Bitwise Solutions Pvt Ltd",
+      "role": "Programmer",
+      "description": "Cut claims processing time by 40% by implementing the Saga pattern for transaction coordination across Java and Spring Boot microservices, enabling the system to manage over 5,000 claims daily.",
+      "duration": "02/2022-02/2023",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Mockito",
+        "JUnit"
+      ]
+    },
+    {
+      "name": "Ttec India Pvt Ltd.",
+      "role": "Programmer",
+      "description": "Integration with APIs from airlines, hotels, and travel agencies to fetch real-time data.",
+      "duration": "07/2018-04/2019",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors of Technology",
+      "institution": "KIIT University (Kalinga Institute of Industrial Technology)",
+      "year": 2018
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Fifth third Bank",
+      "description": "Developed and launched a new Certificate of Deposit product, enhancing the bank's existing offerings.",
+      "role": "Software Engineer",
+      "metrics": "90% reduction in physical footprint for CD consumers, significantly optimizing resource utilization. Cut maintenance costs by 20%. Resolved the security vulnerabilities by 33% under the “protect the bank “initiative, leading to enhanced security for the bank.",
+      "technologies": [
+        "Java8",
+        "Spring boot 2.7.3",
+        "Microservices",
+        "MySQL",
+        "WebSphere",
+        "Mockito",
+        "Wire-Mock",
+        "Kafka",
+        "Redis",
+        "AWS"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Air-byte",
+      "description": "Implemented an Air-byte container, an open source third party service that helps consolidate the data for further analytics purpose.",
+      "role": "Sr. Solution Engineer",
+      "metrics": "20% reduction in development cycle time",
+      "technologies": [],
+      "duration_months": 3
+    },
+    {
+      "name": "Global Payment",
+      "description": "Cut claims processing time by 40% by implementing the Saga pattern for transaction coordination across Java and Spring Boot microservices, enabling the system to manage over 5,000 claims daily.",
+      "role": "Programmer",
+      "metrics": "40% reduction in claims processing time, 20% increase in API response speeds, 15% increase in user engagement",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Mockito",
+        "JUnit"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "MMT",
+      "description": "Integration with APIs from airlines, hotels, and travel agencies to fetch real-time data.",
+      "role": "Programmer",
+      "metrics": "High response times, clear communication, and excellent service standards",
+      "technologies": [],
+      "duration_months": 9
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Awarded Employee of the month two times in a year.",
+      "metrics": "2 times"
+    },
+    {
+      "type": "Performance",
+      "description": "Awarded BEST Team by the Client (Digital Origination growth, Cincinnati) for delivering exceptional performance on key projects leading to a 30% increase in client satisfaction and project efficiency.",
+      "metrics": "30% increase"
+    },
+    {
+      "type": "Performance",
+      "description": "Received Stellar Team Awards for multiple consecutive quarters, consistently contributing to 100% on-time project delivery and achieving high client approval ratings.",
+      "metrics": "100% on-time project delivery"
+    },
+    {
+      "type": "Leadership",
+      "description": "Recognized for outstanding collaboration and leadership in 2024, playing a key role in improving team performance by 20%, and successfully achieving all quarterly project goals.",
+      "metrics": "20% increase"
+    }
+  ],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 31.813575983047485,
+  "s3_key": "raw/70 profiles/Deepak Kumar_4.1 Years_Java Developer_TechnoGen_Bengaluru (1).pdf",
+  "file_type": "pdf",
+  "original_filename": "Deepak Kumar_4.1 Years_Java Developer_TechnoGen_Bengaluru (1).pdf"
+}

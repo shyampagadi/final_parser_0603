@@ -1,0 +1,157 @@
+{
+  "resume_id": "4138c2c3-c09c-40e7-8ac6-cae8ca6efa73",
+  "full_name": "Budidha Dhananjyaya Srinivas",
+  "name": "Budidha Dhananjyaya Srinivas",
+  "email": "budidha432@gmail.com",
+  "phone_number": "7989494351",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Around 5.11 years of Total IT Experience as a Software Developer in Business Intelligence Tool, including Tableau and Power BI. Specialization on Tableau (Desktop) and Power BI development of Reports, development of Reports, Dashboard in Tableau.",
+  "total_experience": 5.11,
+  "skills": [
+    "Tableau Desktop",
+    "Power BI",
+    "Oracle 12C",
+    "MySQL",
+    "Amazon Redshift",
+    "Snowflake",
+    "SQL",
+    "Python",
+    "Git",
+    "GitHub",
+    "Excel",
+    "Alteryx",
+    "AWS",
+    "Azure",
+    "Jira",
+    "Kanban"
+  ],
+  "positions": [
+    "Tableau & Power BI Developer"
+  ],
+  "companies": [
+    {
+      "name": "Concentrix Private Limited",
+      "role": "Tableau & Power BI Developer",
+      "description": "",
+      "duration": "12/2021-10/2024",
+      "technologies": [
+        "Power BI",
+        "SQL Server",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Wipro Private Limited",
+      "role": "Tableau & Power BI Developer",
+      "description": "",
+      "duration": "08/2018-04/2021",
+      "technologies": [
+        "Tableau",
+        "Oracle",
+        "Power BI",
+        "Snowflake",
+        "Amazon Redshift"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B. Tech",
+      "institution": "SR Engineering College, Warangal",
+      "year": 2016
+    },
+    {
+      "degree": "Diploma",
+      "institution": "V.M.R Polytechnic College, Warangal",
+      "year": 2013
+    },
+    {
+      "degree": "SSC",
+      "institution": "Navodaya High School, Ramagundam",
+      "year": 2008
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Performance Monitoring Dashboard",
+      "description": "This project was implemented by Concentrix Pvt Ltd for their healthcare client CareFirst BlueCross BlueShield, a not-for-profit health insurance provider.",
+      "role": "Power BI Developer",
+      "metrics": [
+        "SLA tracking",
+        "call queue management",
+        "ticket resolution"
+      ],
+      "technologies": [
+        "Power BI",
+        "SQL Server",
+        "Excel"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Patient Support Metrics Dashboard",
+      "description": "Delivered by Concentrix Pvt Ltd for CVS Health, a major American healthcare provider and pharmacy chain.",
+      "role": "Tableau Developer",
+      "metrics": [
+        "First Call Resolution",
+        "Average Handle Time",
+        "CSAT"
+      ],
+      "technologies": [
+        "Tableau",
+        "Oracle"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Financial KPI Reporting",
+      "description": "This project was executed by Wipro Pvt Ltd for the internal Finance Department of Wipro, focusing on financial forecasting and automation of executive reports.",
+      "role": "Power BI Developer",
+      "metrics": [
+        "profitability",
+        "cost",
+        "revenue trends"
+      ],
+      "technologies": [
+        "Power BI",
+        "DAX",
+        "Snowflake",
+        "Amazon Redshift"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Sales Analytics Dashboard",
+      "description": "This project was developed by Wipro Pvt Ltd for its internal Sales Analytics Team, part of Wipro Limited, an Indian multinational company.",
+      "role": "Tableau Developer",
+      "metrics": [
+        "retail sales insights",
+        "product and region performance"
+      ],
+      "technologies": [
+        "Tableau Desktop",
+        "Oracle 12C",
+        "MySQL",
+        "SQL",
+        "Windows",
+        "Git",
+        "Jira"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Healthcare Operations",
+    "Banking & Financial Analytics",
+    "Retail Sales Analytics"
+  ],
+  "opensearch_success": true,
+  "processing_time": 20.739465713500977,
+  "s3_key": "raw/70 profiles/Naukri_BudidhaDhananjyayaSrinivas[5y_11m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_BudidhaDhananjyayaSrinivas[5y_11m].docx"
+}

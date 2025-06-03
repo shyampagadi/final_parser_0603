@@ -1,0 +1,115 @@
+{
+  "resume_id": "5686e7f3-7d87-406c-b908-33a067c37e48",
+  "full_name": "Rishav",
+  "name": "Rishav",
+  "email": "rishav.dav1@gmail.com",
+  "phone_number": "+91 7979777966",
+  "address": "Bengaluru, India",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Seasoned Data Professional with 5.10+ years of experience, including 4+ years in Data Engineering and Big Data Solutions. Expertise in designing and optimising efficient data pipelines and ETL processes, ensuring integrity and performance for large datasets. Proficient in leveraging cloud platforms and big data technologies to implement robust automated solutions that enable data-driven decision-making. Strong collaborator skilled at fostering cross-functional partnerships in fast-paced environments.",
+  "total_experience": 5.11,
+  "skills": [
+    "Cloud",
+    "Big Data",
+    "Pyspark",
+    "PL/SQL",
+    "Python",
+    "RDBMS",
+    "Reporting",
+    "Scripting",
+    "SQL Development and Optimization",
+    "ETL Process Design and Optimization",
+    "Cross-functional Team Management",
+    "Agile Methodology and Practices"
+  ],
+  "positions": [
+    "Data Engineer",
+    "Senior Systems Engineer"
+  ],
+  "companies": [
+    {
+      "name": "TCS",
+      "role": "Data Engineer",
+      "description": "",
+      "duration": "05/2022-12/2023",
+      "technologies": [
+        "Spark",
+        "Python",
+        "Azure",
+        "ADLS",
+        "ADF",
+        "Azure Synapse",
+        "Databricks",
+        "Pyspark"
+      ]
+    },
+    {
+      "name": "Infosys",
+      "role": "Senior Systems Engineer",
+      "description": "",
+      "duration": "02/2019-04/2022",
+      "technologies": [
+        "AWS",
+        "Oracle",
+        "UNIX"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "ITM University, Gwalior",
+      "year": 2018
+    }
+  ],
+  "certifications": [
+    "Infosys: DBMS and SQL",
+    "Infosys: PYTHON-OpenSystem",
+    "Infosys: AWS Fundamentals",
+    "IBM: Data Science Professional Certification (In Progress)"
+  ],
+  "projects": [
+    {
+      "name": "Cloud Data Warehouse Implementation",
+      "description": "Led the migration of on-premise data warehouse to Azure Data Lake using ADF, achieving reduction in query execution time. Enhanced reporting and decision-making capabilities by integrating multiple data sources into a unified cloud platform.",
+      "role": "Data Engineer",
+      "metrics": "reduction in query execution time",
+      "technologies": [
+        "Azure Data Lake",
+        "ADF"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Data Pipeline Optimisation",
+      "description": "Built scalable ETL pipelines using Azure for financial reporting, reducing pipeline execution time. Resolved performance bottlenecks in handling large amounts of financial data, ensuring compliance with banking regulations.",
+      "role": "Data Engineer",
+      "metrics": "reducing pipeline execution time",
+      "technologies": [
+        "Azure"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Enhanced Ticketing System",
+      "description": "Enhanced the ticketing system to manage millions of daily transactions. Developed PL/SQL procedures to streamline booking operations. optimised the system to handle high transaction volumes and ensure data consistency. Increased system performance by reducing booking times and improving customer satisfaction.",
+      "role": "Senior Systems Engineer",
+      "metrics": "reducing booking times and improving customer satisfaction",
+      "technologies": [
+        "PL/SQL"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Banking",
+    "Retail"
+  ],
+  "opensearch_success": true,
+  "processing_time": 19.757304191589355,
+  "s3_key": "raw/70 profiles/Naukri_Rishav[5y_11m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_Rishav[5y_11m].pdf"
+}

@@ -1,0 +1,1423 @@
+{
+  "timestamp": "2025-05-28T20:53:00.704682",
+  "search_id": "22551430",
+  "search_method": "vector",
+  "job_title": "Senior Data Engineering Architect",
+  "required_experience": 8,
+  "required_skills": [
+    "AWS cloud services",
+    "PySpark",
+    "SQL",
+    "Python",
+    "Snowflake",
+    "microservices architecture",
+    "containerization",
+    "real-time data processing technologies"
+  ],
+  "duration_seconds": 12.94,
+  "total_results": 10,
+  "results": [
+    {
+      "summary": "Adaptable professional with overall 5+ years of experience in IT and 3.5 years of experience as a Lead Data Engineer, specializing in Big Data and Data Warehousing technologies.",
+      "education": [
+        {
+          "institution": "Karnataka University of Dharwad",
+          "year": 2020,
+          "degree": "B.Com"
+        }
+      ],
+      "achievements": [],
+      "projects": [
+        {
+          "technologies": [
+            "S3",
+            "Data-Bricks",
+            "Redshift",
+            "Azure Data Factory",
+            "Azure Synapse",
+            "ETL",
+            "DB2",
+            "SAP HANA",
+            "AWS",
+            "Teradata",
+            "Snowflake",
+            "My SQL DB"
+          ],
+          "role": "Senior Data Engineer",
+          "duration_months": 6,
+          "name": "DATA MIGRATION –Hadoop",
+          "description": "Insurance Data Analysis is Data Hub where analysis for Insurance Policies data is done on Big Data platform.",
+          "metrics": "At least 10% of the Healthcare insurance payments are attributed to fraudulent claims."
+        },
+        {
+          "technologies": [
+            "Azure",
+            "Azure Data factory",
+            "Azure Blob Storage",
+            "Azure Databricks",
+            "Azure Synapse Analytics",
+            "Pyspark",
+            "HDFS",
+            "Hadoop",
+            "Hive",
+            "Airflow",
+            "Sqoop",
+            "Python",
+            "MySQL",
+            "PostgreSQL",
+            "GIT",
+            "Jira"
+          ],
+          "role": "Senior Data Engineer",
+          "duration_months": 6,
+          "name": "MARKETING ANALYTICS PLATFORM",
+          "description": "The goal of this project was to develop a robust Marketing Analytics Platform for a bank, enabling data-driven marketing strategies and insights to drive customer acquisition, retention, and campaign optimization.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "MySQL",
+            "Pyspark",
+            "Hadoop",
+            "Sqoop",
+            "Snowflake",
+            "Github",
+            "Scrum",
+            "SQL"
+          ],
+          "role": "Data Engineer",
+          "duration_months": 10,
+          "name": "Data Migration - Hadoop",
+          "description": "The use case was to Import data from on premises MySQL DB (OLTP), apply Transformations and Migrate data to Hive Data Ware-House (OLAP) for Visualization.",
+          "metrics": ""
+        }
+      ],
+      "created_dt": "2025-05-28T16:54:58.436484",
+      "positions": [
+        "Senior Data Engineer",
+        "Data Engineer"
+      ],
+      "certifications": [],
+      "skills": [
+        "Hadoop",
+        "HDFS",
+        "MapReduce (MR)",
+        "Spark",
+        "Hive",
+        "HBase",
+        "Sqoop",
+        "Scala",
+        "Python",
+        "JSON",
+        "PARQUET",
+        "AVRO",
+        "ORC",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Synapse Analytics",
+        "Azure SQL",
+        "AWS",
+        "EC2",
+        "Lambda",
+        "EMR",
+        "Athena",
+        "Glue",
+        "S3",
+        "Redshift",
+        "IAM Policies",
+        "Snowflake",
+        "Git hub",
+        "Bit bucket",
+        "Airflow",
+        "SQL",
+        "Pyspark",
+        "HQL",
+        "MySQL",
+        "Teradata",
+        "PostgreSQL",
+        "SAP HANA",
+        "WinSCP",
+        "VMware work Station",
+        "Putty",
+        "MySQL-Management",
+        "PyCharm",
+        "IntelliJ",
+        "Jupyter Notebook"
+      ],
+      "companies": [
+        {
+          "duration": "06/2024-12/2024",
+          "technologies": [
+            "S3",
+            "Data-Bricks",
+            "Redshift",
+            "Azure Data Factory",
+            "Azure Synapse",
+            "ETL",
+            "DB2",
+            "SAP HANA",
+            "AWS",
+            "Teradata",
+            "Snowflake",
+            "My SQL DB"
+          ],
+          "role": "Senior Data Engineer",
+          "name": "NMDC LTD.",
+          "description": "Worked as Senior Data Engineer in NMDC LTD."
+        },
+        {
+          "duration": "07/2023-01/2024",
+          "technologies": [
+            "Azure",
+            "Azure Data factory",
+            "Azure Blob Storage",
+            "Azure Databricks",
+            "Azure Synapse Analytics",
+            "Pyspark",
+            "HDFS",
+            "Hadoop",
+            "Hive",
+            "Airflow",
+            "Sqoop",
+            "Python",
+            "MySQL",
+            "PostgreSQL",
+            "GIT",
+            "Jira"
+          ],
+          "role": "Senior Data Engineer",
+          "name": "Air India SATS Airport Services Pvt LTD",
+          "description": "Worked as Senior Data Engineer Air India SATS Airport Services Pvt LTD"
+        },
+        {
+          "duration": "06/2023-07/2023",
+          "technologies": [],
+          "role": "Senior Data Engineer",
+          "name": "Wizklub Learning Pvt LTD",
+          "description": "Worked as Senior Data Engineer Wizklub Learning Pvt LTD"
+        },
+        {
+          "duration": "01/2023-03/2023",
+          "technologies": [],
+          "role": "Data Engineer",
+          "name": "Inter Globe Aviation",
+          "description": "Worked as Data Engineer Inter Globe Aviation"
+        },
+        {
+          "duration": "01/2022-11/2022",
+          "technologies": [
+            "MySQL",
+            "Pyspark",
+            "Hadoop",
+            "Sqoop",
+            "Snowflake",
+            "Github",
+            "Scrum",
+            "SQL"
+          ],
+          "role": "Data Engineer",
+          "name": "Infosys BPO LTD",
+          "description": "Worked as Data Engineer Infosys BPO LTD"
+        },
+        {
+          "duration": "08/2021-11/2021",
+          "technologies": [],
+          "role": "Data Engineer",
+          "name": "Fretus Folks India Pvt LTD",
+          "description": "Worked as Data Engineer Fretus Folks India Pvt LTD"
+        },
+        {
+          "duration": "03/2021-06/2021",
+          "technologies": [],
+          "role": "Data Engineer",
+          "name": "Aegis Customer Support Services Pvt LTD",
+          "description": "Worked as Data Engineer in Aegis Customer Support Services Pvt LTD"
+        },
+        {
+          "duration": "12/2020-02/2021",
+          "technologies": [],
+          "role": "Data Engineer",
+          "name": "Athena BPO Pvt LTD",
+          "description": "Worked as Data Engineer in Athena BPO Pvt LTD"
+        }
+      ],
+      "total_experience": 5.6,
+      "updated_dt": "2025-05-28T16:54:58.436484",
+      "industries": [],
+      "resume_id": "aed1ff1c-6b08-46c0-bb75-645f60d2da2f",
+      "collection_name": "tgresumeparser",
+      "vector_score": 99.94,
+      "raw_score": 0.722775,
+      "rerank_score": 75.98,
+      "skill_score": 50.0,
+      "exp_score": 70.0,
+      "position_score": 70
+    },
+    {
+      "summary": "Senior Data Engineer with over 5 years of advanced analytics expertise, data engineering and specializes in developing scalable data pipelines, designing ETL processes, and building insightful dashboards using tools such as PySpark, Python, SQL, and Azure/AWS Cloud Services.",
+      "education": [
+        {
+          "institution": "Computer Science and Engineering",
+          "year": 2016,
+          "degree": "Bachelor of Engineering"
+        }
+      ],
+      "achievements": [
+        {
+          "description": "Reduced manual efforts by 80%, saving 160 hours per week",
+          "metrics": "80%",
+          "type": "Performance"
+        },
+        {
+          "description": "Enabled the client to track unaccounted sales and inventory worth USD 250,000",
+          "metrics": "USD 250,000",
+          "type": "Cost Savings"
+        },
+        {
+          "description": "Built a proof-of-concept (POC) data governance tool, using Pandas and Numpy libraries",
+          "metrics": "",
+          "type": "Innovation"
+        }
+      ],
+      "projects": [
+        {
+          "technologies": [
+            "MySQL RDS",
+            "AWS Kinesis",
+            "Amazon Redshift"
+          ],
+          "role": "Senior Data Engineer",
+          "name": "CDC pipeline",
+          "description": "Built CDC pipeline to track changes in DB",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Pandas",
+            "Numpy"
+          ],
+          "role": "Data Engineer",
+          "name": "Data governance tool",
+          "description": "Built a proof-of-concept (POC) data governance tool, using Pandas and Numpy libraries",
+          "metrics": ""
+        }
+      ],
+      "created_dt": "2025-05-28T16:55:19.940087",
+      "positions": [
+        "Senior Data Engineer",
+        "Data Engineer",
+        "Data Analyst"
+      ],
+      "certifications": [],
+      "skills": [
+        "Google apps",
+        "Numpy",
+        "Pandas",
+        "SQL",
+        "Python",
+        "Advanced Excel",
+        "PowerBI",
+        "PySpark",
+        "Azure Cloud Services",
+        "Amazon Web Services (AWS)",
+        "Databricks",
+        "Amazon Kinesis",
+        "Azure Synapse",
+        "Azure Data Factory",
+        "AWS Glue",
+        "Amazon Lambda",
+        "Azure SQL Server"
+      ],
+      "companies": [
+        {
+          "duration": "10/2022-03/2024",
+          "technologies": [
+            "PySpark",
+            "Databricks",
+            "Azure delta lakes",
+            "MySQL RDS",
+            "AWS Kinesis",
+            "Amazon Redshift"
+          ],
+          "role": "Senior Data Engineer",
+          "name": "Ubique Systems India Pvt Limited",
+          "description": ""
+        },
+        {
+          "duration": "07/2017-08/2022",
+          "technologies": [
+            "PySpark",
+            "Databricks",
+            "Azure delta lakes",
+            "MySQL RDS",
+            "AWS Kinesis",
+            "Amazon Redshift"
+          ],
+          "role": "Data Engineer",
+          "name": "WIPRO Limited",
+          "description": ""
+        }
+      ],
+      "total_experience": 6.6,
+      "updated_dt": "2025-05-28T16:55:19.940087",
+      "industries": [
+        "Pharma",
+        "FMCG & CPG",
+        "Finance",
+        "CIO"
+      ],
+      "resume_id": "e935877e-9ce2-47f7-ad42-60e643cbcb1e",
+      "collection_name": "tgresumeparser",
+      "vector_score": 98.2,
+      "raw_score": 0.6991059,
+      "rerank_score": 75.91,
+      "skill_score": 43.75,
+      "exp_score": 82.5,
+      "position_score": 70
+    },
+    {
+      "summary": "Results-driven IT professional with 6 years of overall experience, including 3.5 years of expertise in cloud and data engineering. Specialized in designing, deploying, and optimizing scalable data pipelines for large-scale integration, transformation, and analysis. Proven expertise in leveraging, enhance accessibility, and support business intelligence initiatives. Adept at driving operational efficiency and delivering high-quality data solutions to empower data-driven decision-making.",
+      "education": [
+        {
+          "institution": "University of Hertfordshire (London)",
+          "year": 2022,
+          "degree": "Masters in Science Automotive Engineering"
+        },
+        {
+          "institution": "SR Engineering College",
+          "year": 2017,
+          "degree": "Bachelor of Technology in Mechanical Engineering"
+        }
+      ],
+      "achievements": [
+        {
+          "description": "Received awards for being among the top performers at Amazon",
+          "metrics": "",
+          "type": "Performance"
+        }
+      ],
+      "projects": [
+        {
+          "technologies": [
+            "Databricks",
+            "PySpark",
+            "SQL"
+          ],
+          "role": "Data Engineer",
+          "duration_months": 3,
+          "name": "Banking Transaction Data Processing & Optimization",
+          "description": "The project focused on building and optimizing scalable data pipelines in Databricks using PySpark, implementing Medallion Architecture to enhance data quality, streamline processing, and support analytics for a major banking institution’s transaction data.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Databricks",
+            "PySpark",
+            "SQL"
+          ],
+          "role": "Data Engineer",
+          "duration_months": 8,
+          "name": "Batch Data Processing and Analysis",
+          "description": "Employed PySpark transformations to cleanse data by addressing missing values, removing duplicates, and standardizing data types and formats.",
+          "metrics": "40% reduction in execution time"
+        },
+        {
+          "technologies": [
+            "Python",
+            "SQL",
+            "Tableau"
+          ],
+          "role": "Data Analyst",
+          "duration_months": 36,
+          "name": "Sales Data Analysis and Visualization",
+          "description": "Extracted raw sales data from multiple sources including CSV files, databases, and APIs using Python.",
+          "metrics": "15% increase in sales"
+        }
+      ],
+      "created_dt": "2025-05-28T16:55:11.527120",
+      "positions": [
+        "Data Engineer",
+        "Data Analyst"
+      ],
+      "certifications": [],
+      "skills": [
+        "Azure",
+        "Amazon Web Services (AWS)",
+        "Amazon S3",
+        "Databricks",
+        "ADF",
+        "RDBMS",
+        "Windows",
+        "Python",
+        "SQL",
+        "PySpark"
+      ],
+      "companies": [
+        {
+          "duration": "10/2023-12/2023",
+          "technologies": [
+            "Databricks",
+            "PySpark",
+            "SQL"
+          ],
+          "role": "Data Engineer",
+          "name": "Amazon",
+          "description": "Project: Banking Transaction Data Processing & Optimization"
+        },
+        {
+          "duration": "09/2022-05/2023",
+          "technologies": [
+            "Databricks",
+            "PySpark",
+            "SQL"
+          ],
+          "role": "Data Engineer",
+          "name": "Coburg Banks Limited",
+          "description": "Project: Batch Data Processing and Analysis"
+        },
+        {
+          "duration": "02/2018-01/2021",
+          "technologies": [
+            "Python",
+            "SQL",
+            "Tableau"
+          ],
+          "role": "Data Analyst",
+          "name": "Concentrix Daksh India Pvt Ltd",
+          "description": "Project: Sales Data Analysis and Visualization"
+        }
+      ],
+      "total_experience": 6.1,
+      "updated_dt": "2025-05-28T16:55:11.527120",
+      "industries": [
+        "511120 - Software Publishers",
+        "522320 - Financial Transaction Processing, Reserve, and Clearinghouse Activities"
+      ],
+      "resume_id": "98d357c0-400e-415b-913f-3743a6c30ee8",
+      "collection_name": "tgresumeparser",
+      "vector_score": 99.48,
+      "raw_score": 0.7076286,
+      "rerank_score": 75.17,
+      "skill_score": 43.75,
+      "exp_score": 76.25,
+      "position_score": 70
+    },
+    {
+      "summary": "Experienced Data Engineer with over 6.7 years in IT, specializing in designing and optimizing data pipelines, ETL processes, and cloud-based storage solutions.",
+      "education": [
+        {
+          "institution": "S.V UNIVERSITY",
+          "year": 2017,
+          "degree": "B.COM"
+        }
+      ],
+      "achievements": [],
+      "projects": [
+        {
+          "technologies": [
+            "Hadoop",
+            "Pyspark",
+            "MySQL",
+            "Python",
+            "S3",
+            "Redshift",
+            "Lambda",
+            "Glue",
+            "AWS"
+          ],
+          "role": "Data Engineer",
+          "duration_months": 12,
+          "name": "TD BANK",
+          "description": "TD is the sixth largest bank in North America by branches & serves approximately 22 million customers in several locations in key financial centers around the globe.",
+          "metrics": []
+        },
+        {
+          "technologies": [
+            "Hadoop",
+            "Pyspark",
+            "Hive",
+            "SQOOP",
+            "MySQL",
+            "Python",
+            "Scala",
+            "AWS"
+          ],
+          "role": "Big Data Developer",
+          "duration_months": 28,
+          "name": "CRM-MCM",
+          "description": "CRM-MCM Bigdata: CRM Bigdata is a gateway to the crm salesforce and adobe marketing campaign management systems.",
+          "metrics": []
+        },
+        {
+          "technologies": [
+            "Hadoop",
+            "Pyspark",
+            "Hive",
+            "SQOOP",
+            "MySQL",
+            "Kafka",
+            "Scala",
+            "AWS"
+          ],
+          "role": "Big Data Developer",
+          "duration_months": 16,
+          "name": "Standard Chartered Bank",
+          "description": "SCB EDMp: Enterprise Data Management Platform is a complete end to end solution of data management for SCB's Enterprise D Management Solution to achieve one stop solution for complete enterprise data requirement.",
+          "metrics": []
+        },
+        {
+          "technologies": [
+            "Hive",
+            "SQL",
+            "Sqoop",
+            "HDFS"
+          ],
+          "role": "Software Engineer",
+          "duration_months": 12,
+          "name": "Network Service Intelligence",
+          "description": "",
+          "metrics": []
+        }
+      ],
+      "created_dt": "2025-05-28T16:54:08.267316",
+      "positions": [
+        "Senior Data Engineer",
+        "Big Data Developer",
+        "Software Engineer"
+      ],
+      "certifications": [],
+      "skills": [
+        "Big Data",
+        "HDFS",
+        "Spark",
+        "Pyspark",
+        "Python",
+        "Hive",
+        "Sqoop",
+        "Airflow",
+        "Yarn",
+        "AWS",
+        "RDBMS",
+        "MYSQL",
+        "Oracle",
+        "SQL",
+        "Winscp",
+        "putty",
+        "Eclipse",
+        "IntelliJ",
+        "Windows",
+        "Linux"
+      ],
+      "companies": [
+        {
+          "duration": "Sep 2018 - Present",
+          "technologies": [
+            "Hadoop",
+            "Pyspark",
+            "MySQL",
+            "Python",
+            "S3",
+            "Redshift",
+            "Lambda",
+            "Glue",
+            "AWS"
+          ],
+          "role": "Senior Data Engineer",
+          "name": "Corefront Technologies Pvt Ltd",
+          "description": ""
+        },
+        {
+          "duration": "Mar 2021 - Jul 2023",
+          "technologies": [
+            "Hadoop",
+            "Pyspark",
+            "Hive",
+            "SQOOP",
+            "MySQL",
+            "Python",
+            "Scala",
+            "AWS"
+          ],
+          "role": "Big Data Developer",
+          "name": "CRM-MCM",
+          "description": "CRM-MCM Bigdata: CRM Bigdata is a gateway to the crm salesforce and adobe marketing campaign management systems."
+        },
+        {
+          "duration": "Oct 2019 - Feb 2021",
+          "technologies": [
+            "Hadoop",
+            "Pyspark",
+            "Hive",
+            "SQOOP",
+            "MySQL",
+            "Kafka",
+            "Scala",
+            "AWS"
+          ],
+          "role": "Big Data Developer",
+          "name": "Standard Chartered Bank",
+          "description": "SCB EDMp: Enterprise Data Management Platform is a complete end to end solution of data management for SCB's Enterprise D Management Solution to achieve one stop solution for complete enterprise data requirement."
+        },
+        {
+          "duration": "Sep 2018 - Aug 2019",
+          "technologies": [
+            "Hive",
+            "SQL",
+            "Sqoop",
+            "HDFS"
+          ],
+          "role": "Software Engineer",
+          "name": "Network Service Intelligence",
+          "description": ""
+        }
+      ],
+      "total_experience": 6.7,
+      "updated_dt": "2025-05-28T16:54:08.267316",
+      "industries": [
+        "Finance",
+        "Retail",
+        "Telecommunications"
+      ],
+      "resume_id": "f4566ef1-57f9-42e5-863a-eee6901895f5",
+      "collection_name": "tgresumeparser",
+      "vector_score": 97.36,
+      "raw_score": 0.69648075,
+      "rerank_score": 73.94,
+      "skill_score": 37.5,
+      "exp_score": 83.75,
+      "position_score": 70
+    },
+    {
+      "summary": "Experienced Data Engineer with 6.5 years in IT, currently overlooking a team while contributing individually to the full lifecycle of ETL, SQL Scripting, Data Modeling, and Data Warehousing projects. Skilled in business requirements analysis, development, testing, documentation, and reporting, with expertise in implementing and optimizing data warehouses and solutions.",
+      "education": [
+        {
+          "institution": "Oriental Institute of Science and Technology, Bhopal",
+          "year": 2018,
+          "degree": "Bachelor of Engineering (Information Technology)"
+        }
+      ],
+      "achievements": [
+        {
+          "description": "Monthly Summit Award for Oct 2019",
+          "metrics": "",
+          "type": "Performance"
+        }
+      ],
+      "projects": [
+        {
+          "technologies": [
+            "Databricks",
+            "AWS services (S3, EMR, Glue, Sage Maker)",
+            "Snowflake",
+            "Informatica",
+            "Power BI"
+          ],
+          "role": "Associate Consultant (Business Technology – Data Engineering)",
+          "name": "GSK’s omni-channel marketing project",
+          "description": "Spearheaded the end-to-end design and execution of scalable big data pipelines for GSK’s omni-channel marketing efforts, targeting healthcare providers and sales representatives.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "PySpark",
+            "Hadoop HDFS/Spark",
+            "AWS Services (s3, Emr, Sagemaker, Glue)",
+            "Informatica",
+            "Snowflake",
+            "Airflow"
+          ],
+          "role": "Data Engineer (Software Development)",
+          "name": "Pfizer project",
+          "description": "Worked on a Big Data based omni-channel marketing Pfizer project aimed at health care providers in conjunction with the associated pharmaceutical sales representatives for increased engagements & overall sales.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Informatica",
+            "Snowflake",
+            "Python",
+            "PySpark",
+            "AWS s3",
+            "HDFS(Hive)"
+          ],
+          "role": "Data Engineer (Software Development)",
+          "name": "First Republic Bank project",
+          "description": "Worked on the Datawarehouse project of First Republic Bank, where I have worked on ETL Jobs.",
+          "metrics": ""
+        }
+      ],
+      "created_dt": "2025-05-28T16:56:12.695644",
+      "positions": [
+        "Associate Consultant (Business Technology – Data Engineering)",
+        "Data Engineer (Software Development)"
+      ],
+      "certifications": [],
+      "skills": [
+        "Python",
+        "PySpark",
+        "SQL",
+        "PLSQL",
+        "Snowflake",
+        "Glue",
+        "Informatica PowerCenter",
+        "AWS s3",
+        "Microsoft SQL server",
+        "HDFS(Hive)",
+        "Power BI",
+        "Sisense",
+        "Data Visualization",
+        "WinOS",
+        "Linux"
+      ],
+      "companies": [
+        {
+          "duration": "04/2024- Present",
+          "technologies": [
+            "Databricks",
+            "AWS services (S3, EMR, Glue, Sage Maker)",
+            "Snowflake",
+            "Informatica",
+            "Power BI"
+          ],
+          "role": "Associate Consultant (Business Technology – Data Engineering)",
+          "name": "ZS Associates",
+          "description": "Spearheaded the end-to-end design and execution of scalable big data pipelines for GSK’s omni-channel marketing efforts, targeting healthcare providers and sales representatives."
+        },
+        {
+          "duration": "08/2021-04/2024",
+          "technologies": [
+            "PySpark",
+            "Hadoop HDFS/Spark",
+            "AWS Services (s3, Emr, Sagemaker, Glue)",
+            "Informatica",
+            "Snowflake",
+            "Airflow"
+          ],
+          "role": "Data Engineer (Software Development)",
+          "name": "ZS Associates",
+          "description": "Worked on a Big Data based omni-channel marketing Pfizer project aimed at health care providers in conjunction with the associated pharmaceutical sales representatives for increased engagements & overall sales."
+        },
+        {
+          "duration": "10/2018-07/2021",
+          "technologies": [
+            "Informatica",
+            "Snowflake",
+            "Python",
+            "PySpark",
+            "AWS s3",
+            "HDFS(Hive)"
+          ],
+          "role": "Data Engineer (Software Development)",
+          "name": "Mphasis Ltd.",
+          "description": "Worked on the Datawarehouse project of First Republic Bank, where I have worked on ETL Jobs."
+        }
+      ],
+      "total_experience": 6.5,
+      "updated_dt": "2025-05-28T16:56:12.695644",
+      "industries": [],
+      "resume_id": "2fc2820e-9e96-474e-a976-6cf75168b11c",
+      "collection_name": "tgresumeparser",
+      "vector_score": 97.91,
+      "raw_score": 0.6980764,
+      "rerank_score": 70.41,
+      "skill_score": 50.0,
+      "exp_score": 81.25,
+      "position_score": 0
+    },
+    {
+      "summary": "Seasoned Data Professional with 5.10+ years of experience, including 4+ years in Data Engineering and Big Data Solutions. Expertise in designing and optimising efficient data pipelines and ETL processes, ensuring integrity and performance for large datasets. Proficient in leveraging cloud platforms and big data technologies to implement robust automated solutions that enable data-driven decision-making. Strong collaborator skilled at fostering cross-functional partnerships in fast-paced environments.",
+      "education": [
+        {
+          "institution": "ITM University, Gwalior",
+          "year": 2018,
+          "degree": "Bachelor of Technology"
+        }
+      ],
+      "achievements": [],
+      "projects": [
+        {
+          "technologies": [
+            "Azure Data Lake",
+            "ADF"
+          ],
+          "role": "Data Engineer",
+          "name": "Cloud Data Warehouse Implementation",
+          "description": "Led the migration of on-premise data warehouse to Azure Data Lake using ADF, achieving reduction in query execution time. Enhanced reporting and decision-making capabilities by integrating multiple data sources into a unified cloud platform.",
+          "metrics": "reduction in query execution time"
+        },
+        {
+          "technologies": [
+            "Azure"
+          ],
+          "role": "Data Engineer",
+          "name": "Data Pipeline Optimisation",
+          "description": "Built scalable ETL pipelines using Azure for financial reporting, reducing pipeline execution time. Resolved performance bottlenecks in handling large amounts of financial data, ensuring compliance with banking regulations.",
+          "metrics": "reducing pipeline execution time"
+        },
+        {
+          "technologies": [
+            "PL/SQL"
+          ],
+          "role": "Senior Systems Engineer",
+          "name": "Enhanced Ticketing System",
+          "description": "Enhanced the ticketing system to manage millions of daily transactions. Developed PL/SQL procedures to streamline booking operations. optimised the system to handle high transaction volumes and ensure data consistency. Increased system performance by reducing booking times and improving customer satisfaction.",
+          "metrics": "reducing booking times and improving customer satisfaction"
+        }
+      ],
+      "created_dt": "2025-05-28T16:55:00.504048",
+      "positions": [
+        "Data Engineer",
+        "Senior Systems Engineer"
+      ],
+      "certifications": [
+        "Infosys: DBMS and SQL",
+        "Infosys: PYTHON-OpenSystem",
+        "Infosys: AWS Fundamentals",
+        "IBM: Data Science Professional Certification (In Progress)"
+      ],
+      "skills": [
+        "Cloud",
+        "Big Data",
+        "Pyspark",
+        "PL/SQL",
+        "Python",
+        "RDBMS",
+        "Reporting",
+        "Scripting",
+        "SQL Development and Optimization",
+        "ETL Process Design and Optimization",
+        "Cross-functional Team Management",
+        "Agile Methodology and Practices"
+      ],
+      "companies": [
+        {
+          "duration": "05/2022-12/2023",
+          "technologies": [
+            "Spark",
+            "Python",
+            "Azure",
+            "ADLS",
+            "ADF",
+            "Azure Synapse",
+            "Databricks",
+            "Pyspark"
+          ],
+          "role": "Data Engineer",
+          "name": "TCS",
+          "description": ""
+        },
+        {
+          "duration": "02/2019-04/2022",
+          "technologies": [
+            "AWS",
+            "Oracle",
+            "UNIX"
+          ],
+          "role": "Senior Systems Engineer",
+          "name": "Infosys",
+          "description": ""
+        }
+      ],
+      "total_experience": 5.11,
+      "updated_dt": "2025-05-28T16:55:00.504048",
+      "industries": [
+        "Banking",
+        "Retail"
+      ],
+      "resume_id": "5686e7f3-7d87-406c-b908-33a067c37e48",
+      "collection_name": "tgresumeparser",
+      "vector_score": 99.77,
+      "raw_score": 0.71304333,
+      "rerank_score": 69.06,
+      "skill_score": 31.25,
+      "exp_score": 63.88,
+      "position_score": 70
+    },
+    {
+      "summary": "An extensive total experience of 5 years in Big Data Technology and People Management, currently managing Big Data of a Retail Giant Bonduelle for Analytics. Highly competent in AWS Technologies, Python, SQL, Py-Spark and seeking an opportunity in an organization which recognizes and utilizes my true potential while nurturing analytical and technical skills.",
+      "education": [
+        {
+          "institution": "Sri Balaji University",
+          "year": 2021,
+          "degree": "PGDM"
+        },
+        {
+          "institution": "KDK College of Engineering",
+          "year": 2017,
+          "degree": "B.Tech"
+        }
+      ],
+      "achievements": [],
+      "projects": [],
+      "created_dt": "2025-05-28T16:54:58.549743",
+      "positions": [
+        "Data Engineer",
+        "Associate",
+        "System Engineer"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect Associate",
+        "Databricks Certified Data Engineer Associate",
+        "Intelligent Cloud Integration Services (Informatica)"
+      ],
+      "skills": [
+        "Python",
+        "SQL",
+        "Py-Spark",
+        "Databricks",
+        "Data Validation",
+        "Data Warehousing",
+        "Informatica",
+        "Data Analysis",
+        "SQLServer",
+        "AWS Redshift",
+        "RDS",
+        "Wherescape",
+        "Data Extraction/Ingestion",
+        "AWS - S3",
+        "Lambda",
+        "Glue",
+        "EC2",
+        "EMR",
+        "StepFunction",
+        "CloudWatch",
+        "Athena",
+        "JIRA"
+      ],
+      "companies": [
+        {
+          "duration": "01/2023-12/2023",
+          "technologies": [
+            "SQL",
+            "Python",
+            "Py-Spark",
+            "AWS Service - Redshift",
+            "Glue",
+            "S3",
+            "SNS",
+            "Lambda",
+            "StepFunction",
+            "RDS"
+          ],
+          "role": "Data Engineer",
+          "name": "Agilisium Consulting",
+          "description": ""
+        },
+        {
+          "duration": "01/2021-01/2023",
+          "technologies": [
+            "SQL Server Agent Warehouse"
+          ],
+          "role": "Associate",
+          "name": "Scaler",
+          "description": ""
+        },
+        {
+          "duration": "08/2017-11/2018",
+          "technologies": [
+            "Python",
+            "SQL",
+            "Glue Crawler",
+            "Athena",
+            "EMR"
+          ],
+          "role": "System Engineer",
+          "name": "E-NET Infotech Solutions",
+          "description": ""
+        }
+      ],
+      "total_experience": 5.3,
+      "updated_dt": "2025-05-28T16:54:58.549743",
+      "industries": [],
+      "resume_id": "5fb30911-36b1-4b11-b50e-009282950a33",
+      "collection_name": "tgresumeparser",
+      "vector_score": 99.36,
+      "raw_score": 0.70615613,
+      "rerank_score": 67.49,
+      "skill_score": 25.0,
+      "exp_score": 66.25,
+      "position_score": 70
+    },
+    {
+      "summary": "Overall, 5.5 years of professional experience including 3.5 years of extensive experience in Data Engineering, contributing to diverse and impactful projects. Skilled in Big Data technologies with practical expertise in Apache Spark and Python. Proficient in AWS services such as Lambda, S3, Athena, and Glue, ensuring seamless data processing and management.",
+      "education": [
+        {
+          "institution": "Kumaraguru College of Technologies, Coimbatore",
+          "year": 2019,
+          "degree": "B.E (Mechanical)"
+        },
+        {
+          "institution": "S.K.V Matriculation Higher Secondary School, Tiruchengode",
+          "year": 2015,
+          "degree": "Senior Secondary (10+2)"
+        }
+      ],
+      "achievements": [],
+      "projects": [
+        {
+          "technologies": [
+            "Apache Spark",
+            "Python",
+            "AWS",
+            "Lambda",
+            "S3",
+            "Athena",
+            "Glue",
+            "Snowflake"
+          ],
+          "role": "Data Engineer",
+          "name": "Merck & Co.",
+          "description": "To monitor and track the usage and claims of various drugs and medicines based on the regions and time.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Pyspark",
+            "AWS Glue",
+            "AWS S3"
+          ],
+          "role": "Data Engineer",
+          "name": "Employee Behavior Analytics",
+          "description": "The purpose of the project is to track the behavior of the employees working in the various departments to drive the productive time of the employees.",
+          "metrics": ""
+        }
+      ],
+      "created_dt": "2025-05-28T16:55:16.528995",
+      "positions": [
+        "Data Engineer"
+      ],
+      "certifications": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "Pandas",
+        "PySpark",
+        "AWS",
+        "Lambda",
+        "S3",
+        "Athena",
+        "Glue",
+        "MongoDB",
+        "Terraform",
+        "Git",
+        "GitHub",
+        "Snowflake"
+      ],
+      "companies": [
+        {
+          "duration": "07/2019- Present",
+          "technologies": [
+            "Apache Spark",
+            "Python",
+            "AWS",
+            "Lambda",
+            "S3",
+            "Athena",
+            "Glue",
+            "Snowflake"
+          ],
+          "role": "Data Engineer",
+          "name": "Cognizant Technology Solutions",
+          "description": ""
+        }
+      ],
+      "total_experience": 5.5,
+      "updated_dt": "2025-05-28T16:55:16.528995",
+      "industries": [],
+      "resume_id": "0719b8ea-1fac-43c1-a951-58e7da33a9db",
+      "collection_name": "tgresumeparser",
+      "vector_score": 75.44,
+      "raw_score": 0.6796763,
+      "rerank_score": 65.93,
+      "skill_score": 50.0,
+      "exp_score": 68.75,
+      "position_score": 70
+    },
+    {
+      "summary": "Data Engineering & Data Science Professional with 7 years of experience across IT domains. Expertise in building and optimising data pipelines, automating ETL processes, and handling large datasets using AWS services (Lambda, Glue, Athena, S3, Redshift). Skilled in PySpark, SQL, and AWS Glue for data integration and transformation. Experienced in Machine Learning, Deep Learning, NLP, and using libraries like Scikit-learn, TensorFlow, and Tableau for data analysis and visualization",
+      "education": [
+        {
+          "institution": "Bharathiyar University",
+          "year": 2018,
+          "degree": "B.Sc.IT"
+        }
+      ],
+      "achievements": [],
+      "projects": [],
+      "created_dt": "2025-05-28T16:54:57.251435",
+      "positions": [
+        "AWS Data Engineer",
+        "Data Analyst/ML Engineer"
+      ],
+      "certifications": [
+        "IBM Certified SQL & RDB Developer",
+        "IBM Certified Data Analysis with Python",
+        "LinkedIn Certified Tableau Essential Training",
+        "Python for Data Science (Infosys)",
+        "Infosys Certified Business Analyst",
+        "Pyspark for Data Analysis (Infosys)",
+        "HackerRank Certified SQL Developer"
+      ],
+      "skills": [
+        "Pandas",
+        "NumPy",
+        "matplotlib",
+        "seaborn",
+        "Sklearn",
+        "Tensorflow",
+        "Pyspark",
+        "MY SQL",
+        "SQL Server",
+        "DBWare",
+        "Jupyter Notebook",
+        "Google Colab",
+        "Excel",
+        "Tableau",
+        "AWS Lambda",
+        "S3",
+        "Glue",
+        "Data Brew",
+        "Step function",
+        "IAM",
+        "Dyanamodb",
+        "EC2",
+        "RDS",
+        "Data Brick",
+        "Python",
+        "SQL",
+        "Jira",
+        "Jenkins",
+        "Source Tree",
+        "Postman"
+      ],
+      "companies": [
+        {
+          "duration": "01/2023-12/2023",
+          "technologies": [
+            "AWS Lambda",
+            "Glue",
+            "Athena",
+            "Step Functions",
+            "Pyspark",
+            "Pandas",
+            "SQL"
+          ],
+          "role": "AWS Data Engineer",
+          "name": "TCS",
+          "description": "Built and optimized scalable data pipelines using AWS Lambda, Glue, Athena, and Step Functions for ETL operations across various data sources (file-based, database, API)."
+        },
+        {
+          "duration": "06/2018-01/2023",
+          "technologies": [
+            "Pyspark",
+            "SQL",
+            "AWS Glue"
+          ],
+          "role": "Data Analyst/ML Engineer",
+          "name": "Infosys",
+          "description": "Data Analyst/ML Engineer"
+        }
+      ],
+      "total_experience": 6.6,
+      "updated_dt": "2025-05-28T16:54:57.251435",
+      "industries": [],
+      "resume_id": "8a07ac94-3f7f-4c2c-bcd8-b11ed0bddce8",
+      "collection_name": "tgresumeparser",
+      "vector_score": 95.36,
+      "raw_score": 0.69252115,
+      "rerank_score": 65.89,
+      "skill_score": 37.5,
+      "exp_score": 82.5,
+      "position_score": 0
+    },
+    {
+      "summary": "Having 6+ years of IT experience as Data Engineer. Involved in Development, Analysis, and Implementation of Data warehousing Technology by using ETL tools like Azure services in Cloud, Informatica Cloud/power-center.",
+      "education": [
+        {
+          "institution": "IIEST, Shibpur",
+          "degree": "Master’s in Mechatronics"
+        },
+        {
+          "institution": "Narayana Engineering College, Nellore",
+          "degree": "Bachelor’s in Mechanical Engineering"
+        }
+      ],
+      "achievements": [],
+      "projects": [
+        {
+          "technologies": [
+            "Azure Data Factory (ADF)",
+            "ADLS Gen2",
+            "Databricks",
+            "PySpark",
+            "PySQL",
+            "Snowflake",
+            "Airflow",
+            "Python",
+            "Github Co-Pilot"
+          ],
+          "role": "Data Engineer",
+          "name": "Media Optimization",
+          "description": "Worked with various media files received from different vendors like Publicis, Nielsen, Cadlytics, Initiative, Doordash and UberEATS.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Azure Data Factory (ADF)",
+            "ADLS Gen2",
+            "Databricks",
+            "PySpark",
+            "PySQL",
+            "Snowflake",
+            "Airflow",
+            "Python",
+            "Github Co-Pilot"
+          ],
+          "role": "Data Engineer",
+          "name": "Customer Identification",
+          "description": "Worked with different customers data like Un-known, Known and Guest customers.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Azure Data Factory (ADF)",
+            "ADLS Gen2",
+            "Databricks",
+            "PySpark",
+            "PySQL",
+            "Snowflake",
+            "Airflow",
+            "Python",
+            "Github Co-Pilot"
+          ],
+          "role": "Data Engineer",
+          "name": "Customer",
+          "description": "Worked with Loyalty customer data from various source systems like Epsilon, Paytronix, Braze for different brands (i.e Arbys, BWW, JJ, Dunkin, Sonic)",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "IICS Data Integration",
+            "IICS Application Integration",
+            "AWS Aurora",
+            "AWS Redshift",
+            "SQL Server",
+            "AWS S3"
+          ],
+          "role": "ETL Developer",
+          "name": "Resonant (Globe Life)",
+          "description": "Worked on Informatica Cloud with data integration, Application Integration, Mass Ingestion, Monitor.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "IICS 2020",
+            "Informatica 10.2",
+            "Oracle 11g"
+          ],
+          "role": "ETL Developer",
+          "name": "Zurich Insurance Account",
+          "description": "Worked on Informatica Power Center 10.2.0 for extraction, transformation and load (ETL) of data in the data warehouse.",
+          "metrics": ""
+        },
+        {
+          "technologies": [
+            "Informatica 9.x",
+            "Oracle 11g"
+          ],
+          "role": "ETL Developer",
+          "name": "UMR (United Medical Resource)",
+          "description": "Created ETL mappings using Informatica Power Center to move Data from multiple sources like Flat files, Oracle into a common target area such as Staging, Data Warehouse and Data Marts",
+          "metrics": ""
+        }
+      ],
+      "created_dt": "2025-05-28T16:53:43.643031",
+      "positions": [
+        "Data Engineer",
+        "ETL Developer",
+        "Consultant"
+      ],
+      "certifications": [],
+      "skills": [
+        "Azure Data Factory (ADF)",
+        "Azure Databricks",
+        "Informatica Cloud Data Integration",
+        "Informatica Cloud Application Integration",
+        "Informatica Power Center 9.x/10.x",
+        "AWS DMS",
+        "Snowflake",
+        "ADLS Gen2",
+        "Oracle 11g",
+        "AWS Aurora",
+        "AWS Redshift",
+        "SQL Server",
+        "AWS S3",
+        "Python",
+        "Unix",
+        "Airflow",
+        "Control M",
+        "Tableau",
+        "Windows",
+        "Azure repos",
+        "Github",
+        "Azure pipelines"
+      ],
+      "companies": [
+        {
+          "duration": "Aug, 2023 to Present",
+          "technologies": [
+            "Azure Data Factory (ADF)",
+            "ADLS Gen2",
+            "Databricks",
+            "PySpark",
+            "PySQL",
+            "Snowflake",
+            "Airflow",
+            "Python",
+            "Github Co-Pilot"
+          ],
+          "role": "Data Engineer",
+          "name": "Inspire Brands HSC",
+          "description": "Media Optimization, Customer identification, Customer, Migration project"
+        },
+        {
+          "duration": "May, 2022 to June 2023",
+          "technologies": [
+            "IICS Data Integration",
+            "IICS Application Integration",
+            "AWS Aurora",
+            "AWS Redshift",
+            "SQL Server",
+            "AWS S3"
+          ],
+          "role": "ETL Developer",
+          "name": "IT Crats Info Solutions",
+          "description": "Resonant (Globe Life)"
+        },
+        {
+          "duration": "April, 2019 to May, 2022",
+          "technologies": [
+            "IICS 2020",
+            "Informatica 10.2",
+            "Oracle 11g"
+          ],
+          "role": "ETL Developer",
+          "name": "Resource square solutions",
+          "description": "Zurich Insurance Account"
+        }
+      ],
+      "total_experience": 6.1,
+      "updated_dt": "2025-05-28T16:53:43.643031",
+      "industries": [],
+      "resume_id": "a3ed8fbe-136b-4cfb-bac0-cccf1c55af64",
+      "collection_name": "tgresumeparser",
+      "vector_score": 88.5,
+      "raw_score": 0.68588024,
+      "rerank_score": 65.15,
+      "skill_score": 25.0,
+      "exp_score": 76.25,
+      "position_score": 70
+    }
+  ]
+}

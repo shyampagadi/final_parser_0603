@@ -1,0 +1,93 @@
+RESUME PARSER EXECUTION SUMMARY
+============================================================
+Date/Time: 2025-05-28 16:57:08
+Execution Time: 288.99 seconds
+
+OVERALL METRICS
+Total Files: 70
+Successfully Processed: 70
+Failed: 0
+Success Rate: 100.0%
+
+STORAGE METRICS
+Opensearch: 70/70 (100.0%)
+Postgres: 70/70 (100.0%)
+Dynamodb: 70/70 (100.0%)
+
+CUSTOM METRICS
+Total Files Found: 70
+Total Processing Time: 287.75 seconds
+Processing Time (avg): 4.11 seconds per resume
+
+SUCCESSFULLY PROCESSED FILES
+1. Deepa E_4.0 Years_Java Developer_TechnoGen_Bengaluru.pdf -> f93f91d3-5682-434a-8d06-4a0d12c32ffb
+2. Deepa E_4.0 Years_Java Developer_TechnoGen_Bengaluru (1).pdf -> bec89577-75b1-45a3-b7f8-6f2b3a2f9b0b
+3. Gowtham S_3.10 Years_Java Developer_TechnoGen_Bengaluru.pdf -> 5a9975f6-7f2f-40c2-aa36-a61af5a3f45f
+4. AmitGupta_10.0 Years_Data Engineer Architect_Hyderabad.docx -> 6895b237-eeaa-4718-bb19-1545edddd676
+5. Deepak Kumar_4.1 Years_Java Developer_TechnoGen_Bengaluru (1).pdf -> e162bb64-db5c-48f8-85e8-a99e39a0cb41
+6. Deepak Kumar_4.1 Years_Java Developer_TechnoGen_Bengaluru.pdf -> f48f28d6-706c-42c4-bb04-f2b88c8af07c
+7. GudeLakshmanRao[8y_2m] (1).docx -> af8b2a84-7f54-4a48-8879-ba2612699edc
+8. AbhayTripathi_18+years_DataScienceConsulant (1).pdf -> ad556cbb-56b0-45be-b2ef-b9f66a8ea653
+9. HIMANSHUGOYAL[8y_2m].pdf -> 51676b63-c819-4cd5-9fb9-5357c4681666
+10. Naukri_AKDENISHKAVYA[5y_0m].docx -> 37e85530-a12f-4546-92a8-1022a8442798
+11. JansaidaShaik[8y_0m].pdf -> bf40b557-cacc-4cc9-9281-c1e16f7e2bef
+12. Kirtinaik_Resume.pdf -> 3bb57353-5835-4226-8a00-fbb66e4d98de
+13. GudeLakshmanRao[8y_2m].docx -> 62572e2c-cbff-4dc2-b1d1-a63b008dec45
+14. Mangal Singh Sharma_7 Years_Performance Tester_Hyderabad (1).doc -> 2c01ae89-f39a-4e19-bad6-87b3622f8787
+15. Mangal Singh Sharma_7 Years_Performance Tester_Hyderabad.doc -> 34ca4686-7b9d-40bb-ae7b-8be8dff05a8a
+16. Naukri_BudidhaDhananjyayaSrinivas[5y_11m].docx -> 4138c2c3-c09c-40e7-8ac6-cae8ca6efa73
+17. Naukri_Brahmam[6y_1m].pdf -> a3ed8fbe-136b-4cfb-bac0-cccf1c55af64
+18. Naukri_GuruprasadMK[4y_3m].pdf -> 86b2f445-bba7-4ae3-98ea-0a55a9541e60
+19. Naukri_DivyaJ[6y_0m].doc -> 13d9acca-8cff-4aa6-8c73-6ee220698ead
+20. Naukri_InapakollaLakshmiPrasanna[8y_0m].pdf -> a3c9e501-813e-42ed-9b64-275e6519db8d
+21. Naukri_Guna[10y_0m].pdf -> 3bf3c20f-5485-40fa-9bad-1aa188a49bcd
+22. Naukri_KoustavGhosh[10y_1m].pdf -> 3cd107b8-9d18-4004-84b7-56dcc534869b
+23. Naukri_Kutagollapallavi[6y_7m].pdf -> f4566ef1-57f9-42e5-863a-eee6901895f5
+24. Naukri_KrishnaReddyThokala[14y_0m].docx -> 6d007ec7-6572-40b1-ab08-5842f9fefaee
+25. Naukri_KumudaKamalraj[9y_0m].docx -> 48f5fe51-6215-4e38-bc2a-af1665b8a6ca
+26. Naukri_PavanKumar[7y_0m].docx -> 85c83025-9566-4e43-8e17-cc036446ceaa
+27. Naukri_MonalishaGoswami[9y_3m].doc -> 12fb5cda-ca5f-4dd9-b602-0ba7ed84cd63
+28. Naukri_MohanPoornaChand[6y_4m].docx -> 9e00861b-3443-4302-acd0-9a9b18400e2a
+29. Naukri_PadmaS[6y_0m] (1).docx -> 7c61f587-2ef7-44fd-a024-444b9b46872b
+30. Naukri_MoinKhan[5y_0m].pdf -> 3d8a5d01-302e-4963-8b51-026409052a79
+31. Naukri_PoojaRaghuwanshi[4y_4m].pdf -> f00556da-41ee-4f58-aff0-d24cbe914a4c
+32. Naukri_Pradeepkumar[9y_0m].pdf -> a38e3723-60e9-42e0-aa35-cbd593269d6f
+33. Naukri_ManasaJyothiAmula[9y_0m].pdf -> 62cb3d83-922d-4614-b460-d5e8599098c4
+34. Naukri_RajeeshR[6y_6m].pdf -> 8a07ac94-3f7f-4c2c-bcd8-b11ed0bddce8
+35. Naukri_SHUBHAMBAREKAR[5y_0m].pdf -> f9840261-7b3c-4f30-80b6-11d736f95897
+36. Naukri_ParveenBegam[5y_6m].docx -> aed1ff1c-6b08-46c0-bb75-645f60d2da2f
+37. Naukri_RiteshShende[5y_3m].pdf -> 5fb30911-36b1-4b11-b50e-009282950a33
+38. Naukri_Rishav[5y_11m].pdf -> 5686e7f3-7d87-406c-b908-33a067c37e48
+39. Naukri_SRIRAMBERA[6y_1m].pdf -> 98d357c0-400e-415b-913f-3743a6c30ee8
+40. Naukri_SaiPrakashRayavarapu[5y_4m] (1).pdf -> 501c6248-9e76-422b-adc2-875718e79467
+41. Naukri_SaiPrakashRayavarapu[5y_4m].pdf -> e336aa2a-ef5d-4be2-894f-e8eaf0f67d2b
+42. Naukri_SaravananS[5y_7m].pdf -> 0719b8ea-1fac-43c1-a951-58e7da33a9db
+43. Naukri_SabaleAkshay[8y_0m].pdf -> 1585c32b-2119-459b-b40a-008fe5e7de69
+44. Naukri_SHILPAKONGARA[7y_0m].pdf -> 93843c24-0a43-4401-9850-3de1314d70e8
+45. Naukri_ShruthiPadmanabha[6y_6m].pdf -> e935877e-9ce2-47f7-ad42-60e643cbcb1e
+46. Naukri_ShivaRamanM[7y_0m].pdf -> 34e6b712-da96-4ab9-8b45-a0e8d1924212
+47. Naukri_SrinivasAvula[5y_1m].docx -> 35adad1c-36e1-400a-a619-7f1869b169ce
+48. Naukri_SupriyoKumarPattnaik[5y_6m].pdf -> d3a53512-a8f8-44ac-9782-89f02bdf31c1
+49. Naukri_Sonitha[7y_2m].docx -> 1ba9edcc-bc19-4421-a578-e0f73b0b91a9
+50. Naukri_SwathiKolukuluri[5y_10m].docx -> af16cdde-c36f-4902-898a-40de4965f958
+51. Naukri_pujitha[5y_6m].docx -> a0fdbe21-7d1f-40d2-b83e-e9fe4776baff
+52. Naukri_TejramReddyMV[5y_3m].docx -> fd142a1e-51d1-4e46-8431-52a561444394
+53. Naukri_Thulasireddy[5y_0m].docx -> f30400bf-b0f4-49ac-bc98-ec637e0abd25
+54. Naukri_Thanish[5y_3m].pdf -> f4f87c03-9a72-4cfb-9a2b-b0ff2ef99338
+55. Naukri_shanmuka[4y_4m].pdf -> a9d39899-e248-4aab-9942-b74d46c41ff2
+56. Naukri_UtkarshShrivastava[6y_0m].pdf -> 2fc2820e-9e96-474e-a976-6cf75168b11c
+57. Naukri_VinodBingimalla[12y_0m].pdf -> ff9e45c5-c314-41e3-bfe7-1da89ee50666
+58. ParthGaddam[9y_0m] (1).pdf -> dc7a90ab-e043-4461-8316-c79c32109ae6
+59. SURIYA M.docx -> a2eebdc4-2cd8-4425-a6b7-55df423885bf
+60. RAJU KARANGULA_6.3 Years_Data Engineer Sr Associate_Hyderabad.docx -> 6dacca45-f795-442c-9eec-0f78615d5cb5
+61. PratimaRathore[8y_5m] (1).pdf -> 0b4a9e6d-ed63-4b48-8ace-39717cb480d1
+62. PratimaRathore[8y_5m].pdf -> fcc5179d-4038-4e0c-8d35-d43977b7a9d1
+63. ParthGaddam[9y_0m].pdf -> 7d520f5f-e8f0-4512-9d70-393a7da60bd3
+64. Sujayendra Shashikumar- Trainer profile Bengaluru(rajesh reference) (1).docx -> fad1ce5c-fc18-4e96-9ebd-1fcbd9a6eded
+65. Shaikshavali G_5.2 Years_Boomi Developer_Bangalore.docx -> 736fdeba-187a-455e-9200-14262c0889a8
+66. Rathan Gunti -9.8 Years -IVR Developer - Hyderabad.docx -> 867e1555-f260-4205-80ba-878adbb2c96b
+67. PravinSenta[11y_0m].pdf -> 2d838264-addc-467c-8b25-883d8e1c46f7
+68. Sahithi_Siripurapu_Updated_Resume.docx -> dc9ac510-a4ce-45ff-875c-60dd60818f14
+69. TrinadhMikkilineni_10.0 Years_Data Engineer Architect_Hyderabad.docx -> fc1bc24d-92e8-421e-a58a-911b72293688
+70. saitarunresume (2).pdf -> ff525f70-d650-415f-b8e4-0fa1f3e2bd47
+============================================================

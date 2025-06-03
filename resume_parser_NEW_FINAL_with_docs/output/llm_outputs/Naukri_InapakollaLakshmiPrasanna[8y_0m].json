@@ -1,0 +1,195 @@
+{
+  "resume_id": "a3c9e501-813e-42ed-9b64-275e6519db8d",
+  "full_name": "Lakshmi Prasanna Inapakolla",
+  "name": "Lakshmi Prasanna Inapakolla",
+  "email": "madhuprasanna.i@gmail.com",
+  "phone_number": "9052230803",
+  "address": "Bangalore, Karnataka",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Technical Lead with 8 years of experience in developing enterprise chatbots with Javascript, NodeJs. Experience on building products in various domains like HealthCare, E-Commerce and Banking. Expertise in Kore.ai platform.",
+  "total_experience": 8.0,
+  "skills": [
+    "JavaScript",
+    "NodeJs",
+    "MongoDB",
+    "Express Framework",
+    "HTML",
+    "CSS",
+    "SQL",
+    "NLP/ML"
+  ],
+  "positions": [
+    "Technical Lead",
+    "Associate Technical Lead",
+    "Software Engineer",
+    "Senior Software Engineer"
+  ],
+  "companies": [
+    {
+      "name": "MPhasis",
+      "role": "Associate Technical Lead",
+      "description": "",
+      "duration": "08/2023-Present",
+      "technologies": []
+    },
+    {
+      "name": "Kore.ai",
+      "role": "Technical Lead",
+      "description": "",
+      "duration": "01/2016-08/2023",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "Kore.ai platform"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BTech (ECE)",
+      "institution": "",
+      "year": 0
+    }
+  ],
+  "certifications": [
+    "Javascript certification from Udemy",
+    "Kore XO11 (in progress)"
+  ],
+  "projects": [
+    {
+      "name": "UAEExchange",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "ABInBev",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "NetApp",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Metlife",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Yahoo - Finance",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Siemens",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "PNC",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Senior Software Engineer",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Belfius",
+      "description": "Chatbot development, training of NLP/ML, and integration with WebSDK, MSTeams, Slack and even Facebook channels",
+      "role": "Technical/Team Lead",
+      "metrics": "",
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "NLP/ML",
+        "HTML",
+        "CSS"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Client appreciation for Yahoo project",
+      "metrics": ""
+    },
+    {
+      "type": "Leadership",
+      "description": "Team recognition at Leadership level for Belfius project",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "HealthCare",
+    "E-Commerce",
+    "Banking"
+  ],
+  "opensearch_success": true,
+  "processing_time": 26.06605839729309,
+  "s3_key": "raw/70 profiles/Naukri_InapakollaLakshmiPrasanna[8y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_InapakollaLakshmiPrasanna[8y_0m].pdf"
+}

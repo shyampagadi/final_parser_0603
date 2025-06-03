@@ -1,0 +1,95 @@
+{
+  "resume_id": "dc9ac510-a4ce-45ff-875c-60dd60818f14",
+  "full_name": "SIRIPURAPU SAHITHI",
+  "name": "SIRIPURAPU SAHITHI",
+  "email": "siripurapusahithi@gmail.com",
+  "phone_number": "7715038189",
+  "address": "",
+  "linkedin": "linkedin.com/in/sahithi-siripurapu-5006a089/",
+  "linkedin_url": "linkedin.com/in/sahithi-siripurapu-5006a089/",
+  "summary": "Strategic HR leader with 9+ years of experience in Talent Acquisition, HR Business Partnering across Manufacturing and Consulting industries. Proven expertise in driving end-to-end recruitment, workforce planning, employee engagement, and optimizing HR processes for business success.",
+  "total_experience": 9.0,
+  "skills": [
+    "Talent Acquisition & Recruitment Strategy",
+    "HR Business Partnering & Stakeholder Management",
+    "Employer Branding & Talent Mapping",
+    "Employee Engagement & Retention",
+    "Workforce Planning & HR Analytics",
+    "Diversity & Inclusion Initiatives"
+  ],
+  "positions": [
+    "Assistant Manager – HR",
+    "Consultant – Talent Acquisition"
+  ],
+  "companies": [
+    {
+      "name": "Deccan Fine Chemicals",
+      "role": "Assistant Manager – HR",
+      "description": "Leading end-to-end recruitment and HR strategy for Research, Manufacturing, and Corporate functions. Partnering with business leaders to drive HR initiatives.",
+      "duration": "12/2018-12/2023",
+      "technologies": []
+    },
+    {
+      "name": "ABC Consultants",
+      "role": "Consultant – Talent Acquisition",
+      "description": "Managed mid-to-senior level hiring across Sales, Marketing, Finance, HR, and Supply Chain for manufacturing, chemical, and process industries.",
+      "duration": "03/2016-09/2018",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "PGDM – Human Resources",
+      "institution": "ITM Business School, Kharghar",
+      "year": 2015
+    },
+    {
+      "degree": "B.Tech – Electrical & Electronics Engineering",
+      "institution": "Pydah College, JNTU Kakinada",
+      "year": 2011
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "achievements": [
+    {
+      "type": "Performance",
+      "description": "Built the Technical Engineering department from scratch through internal hiring, saving significant recruitment costs.",
+      "metrics": "Significant recruitment costs"
+    },
+    {
+      "type": "Performance",
+      "description": "Optimized the hiring process, reducing time-to-hire by 30% and improving candidate quality.",
+      "metrics": "30%"
+    },
+    {
+      "type": "Performance",
+      "description": "Strengthened employee engagement by implementing structured induction and retention programs.",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Closed critical leadership roles through strategic sourcing and headhunting.",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Managed key accounts, ensuring seamless hiring for top-tier clients.",
+      "metrics": ""
+    },
+    {
+      "type": "Performance",
+      "description": "Best Researcher Award (2017) for outstanding hiring performance.",
+      "metrics": ""
+    }
+  ],
+  "industries": [
+    "Manufacturing",
+    "Consulting"
+  ],
+  "opensearch_success": true,
+  "processing_time": 32.80138945579529,
+  "s3_key": "raw/70 profiles/Sahithi_Siripurapu_Updated_Resume.docx",
+  "file_type": "docx",
+  "original_filename": "Sahithi_Siripurapu_Updated_Resume.docx"
+}

@@ -1,0 +1,138 @@
+{
+  "resume_id": "35adad1c-36e1-400a-a619-7f1869b169ce",
+  "full_name": "Srinivas",
+  "name": "Srinivas",
+  "email": "yadavsrinivasjava@gmail.com",
+  "phone_number": "+91-9880121030",
+  "address": "",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "A confident and motivated person with sound technical skills seeking challenging position as a software professional in Java technologies with problem solving capability.",
+  "total_experience": 5.1,
+  "skills": [
+    "Core Java",
+    "Spring Boot",
+    "Spring",
+    "Spring MVC",
+    "Hibernate",
+    "Web Services (Rest API)",
+    "PCF",
+    "MySQL",
+    "Mongo DB",
+    "Angular",
+    "JavaScript",
+    "React Js",
+    "HTML",
+    "CSS",
+    "Python",
+    "Node Js",
+    "Redis",
+    "Tomcat",
+    "Bit Bucket",
+    "Jira"
+  ],
+  "positions": [
+    "Sr software Engineer",
+    "software Engineer",
+    "Java Developer"
+  ],
+  "companies": [
+    {
+      "name": "TCS",
+      "role": "Sr software Engineer",
+      "description": "",
+      "duration": "12/2021-",
+      "technologies": []
+    },
+    {
+      "name": "Accenture",
+      "role": "software Engineer",
+      "description": "",
+      "duration": "04/2020-11/2021",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "JNTU Hyderabad",
+      "year": 2020
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Accounts",
+      "description": "Working in a banking domain, we work on modernization of existing legacy Mainframe code to  java and deploy it to cloud using spring.",
+      "role": "Java Developer",
+      "metrics": "",
+      "technologies": [
+        "Java 1.8",
+        "Tomcat",
+        "Spring Boot",
+        "Junit",
+        "Rest API",
+        "Maven 3.5.3",
+        "Microservices",
+        "Rest Services",
+        "Java Script"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "HIG",
+      "description": "This project is developed in the Insurance domain. In this project We handle all insurance related requirements and convert into Restful API using Spring boot and JPA Technology.",
+      "role": "Java Developer",
+      "metrics": "",
+      "technologies": [
+        "Spring2.5",
+        "Hibernate3.1",
+        "Oracle11g",
+        "Eclipse Galileo",
+        "Tomcat 5.5"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "CROL – (Provisioning and Activation) Circuit Move over Length",
+      "description": "Novus Telecom Communications is the latest Void technology Provider in Canada.",
+      "role": "Java Developer",
+      "metrics": "",
+      "technologies": [
+        "Core Java",
+        "Spring",
+        "Microservices",
+        "JPA",
+        "Spring IOC",
+        "Spring boot",
+        "React js",
+        "Node JS",
+        "AWS",
+        "Eclipse",
+        "Tomcat",
+        "Maven",
+        "Jenkins",
+        "Jira",
+        "Multi-Threading",
+        "Rest API",
+        "Linux",
+        "GIT",
+        "Junit",
+        "Postman",
+        "MySQL"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Banking",
+    "Insurance",
+    "Telecom"
+  ],
+  "opensearch_success": true,
+  "processing_time": 17.14992594718933,
+  "s3_key": "raw/70 profiles/Naukri_SrinivasAvula[5y_1m].docx",
+  "file_type": "docx",
+  "original_filename": "Naukri_SrinivasAvula[5y_1m].docx"
+}

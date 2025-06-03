@@ -1,0 +1,188 @@
+{
+  "resume_id": "f4566ef1-57f9-42e5-863a-eee6901895f5",
+  "full_name": "Kutagollapallavi",
+  "name": "Kutagollapallavi",
+  "email": "Kutagollapallavi@gmail.com",
+  "phone_number": "+91 9742787370",
+  "address": "Bengaluru",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Experienced Data Engineer with over 6.7 years in IT, specializing in designing and optimizing data pipelines, ETL processes, and cloud-based storage solutions.",
+  "total_experience": 6.7,
+  "skills": [
+    "Big Data",
+    "HDFS",
+    "Spark",
+    "Pyspark",
+    "Python",
+    "Hive",
+    "Sqoop",
+    "Airflow",
+    "Yarn",
+    "AWS",
+    "RDBMS",
+    "MYSQL",
+    "Oracle",
+    "SQL",
+    "Winscp",
+    "putty",
+    "Eclipse",
+    "IntelliJ",
+    "Windows",
+    "Linux"
+  ],
+  "positions": [
+    "Senior Data Engineer",
+    "Big Data Developer",
+    "Software Engineer"
+  ],
+  "companies": [
+    {
+      "name": "CRM-MCM",
+      "role": "Big Data Developer",
+      "description": "CRM-MCM Bigdata: CRM Bigdata is a gateway to the crm salesforce and adobe marketing campaign management systems.",
+      "duration": "03/2021-07/2023",
+      "technologies": [
+        "Hadoop",
+        "Pyspark",
+        "Hive",
+        "SQOOP",
+        "MySQL",
+        "Python",
+        "Scala",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Standard Chartered Bank",
+      "role": "Big Data Developer",
+      "description": "SCB EDMp: Enterprise Data Management Platform is a complete end to end solution of data management for SCB's Enterprise D Management Solution to achieve one stop solution for complete enterprise data requirement.",
+      "duration": "10/2019-02/2021",
+      "technologies": [
+        "Hadoop",
+        "Pyspark",
+        "Hive",
+        "SQOOP",
+        "MySQL",
+        "Kafka",
+        "Scala",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Corefront Technologies Pvt Ltd",
+      "role": "Senior Data Engineer",
+      "description": "",
+      "duration": "Sep 2018 - Present",
+      "technologies": [
+        "Hadoop",
+        "Pyspark",
+        "MySQL",
+        "Python",
+        "S3",
+        "Redshift",
+        "Lambda",
+        "Glue",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Network Service Intelligence",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "09/2018-08/2019",
+      "technologies": [
+        "Hive",
+        "SQL",
+        "Sqoop",
+        "HDFS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.COM",
+      "institution": "S.V UNIVERSITY",
+      "year": 2017
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "TD BANK",
+      "description": "TD is the sixth largest bank in North America by branches & serves approximately 22 million customers in several locations in key financial centers around the globe.",
+      "role": "Data Engineer",
+      "metrics": [],
+      "technologies": [
+        "Hadoop",
+        "Pyspark",
+        "MySQL",
+        "Python",
+        "S3",
+        "Redshift",
+        "Lambda",
+        "Glue",
+        "AWS"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "CRM-MCM",
+      "description": "CRM-MCM Bigdata: CRM Bigdata is a gateway to the crm salesforce and adobe marketing campaign management systems.",
+      "role": "Big Data Developer",
+      "metrics": [],
+      "technologies": [
+        "Hadoop",
+        "Pyspark",
+        "Hive",
+        "SQOOP",
+        "MySQL",
+        "Python",
+        "Scala",
+        "AWS"
+      ],
+      "duration_months": 28
+    },
+    {
+      "name": "Standard Chartered Bank",
+      "description": "SCB EDMp: Enterprise Data Management Platform is a complete end to end solution of data management for SCB's Enterprise D Management Solution to achieve one stop solution for complete enterprise data requirement.",
+      "role": "Big Data Developer",
+      "metrics": [],
+      "technologies": [
+        "Hadoop",
+        "Pyspark",
+        "Hive",
+        "SQOOP",
+        "MySQL",
+        "Kafka",
+        "Scala",
+        "AWS"
+      ],
+      "duration_months": 16
+    },
+    {
+      "name": "Network Service Intelligence",
+      "description": "",
+      "role": "Software Engineer",
+      "metrics": [],
+      "technologies": [
+        "Hive",
+        "SQL",
+        "Sqoop",
+        "HDFS"
+      ],
+      "duration_months": 12
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Finance",
+    "Retail",
+    "Telecommunications"
+  ],
+  "opensearch_success": true,
+  "processing_time": 23.598853588104248,
+  "s3_key": "raw/70 profiles/Naukri_Kutagollapallavi[6y_7m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_Kutagollapallavi[6y_7m].pdf"
+}

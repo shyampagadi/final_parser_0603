@@ -1,0 +1,86 @@
+{
+  "resume_id": "a2eebdc4-2cd8-4425-a6b7-55df423885bf",
+  "full_name": "Suriya M",
+  "name": "Suriya M",
+  "email": "msuriya2599@gmail.com",
+  "phone_number": "7871048663",
+  "address": "Chennai",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Dedicated and results-driven IT professional with 3.11 years of experience in Production and Application Support. Skilled in ITIL processes, SQL, ETL monitoring, and incident/problem management. Eager to contribute expertise in data pipelines, automation, and AWS to ensure high system availability and business continuity.",
+  "total_experience": 3.0,
+  "skills": [
+    "ITIL",
+    "SQL",
+    "ETL monitoring",
+    "incident/problem management",
+    "data pipelines",
+    "automation",
+    "AWS",
+    "Oracle SQL",
+    "Linux/Unix",
+    "Shell Scripting",
+    "Splunk",
+    "Dynatrace",
+    "CI/CD",
+    "Git",
+    "Python"
+  ],
+  "positions": [
+    "Production Support",
+    "Application Support"
+  ],
+  "companies": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Chemistry",
+      "institution": "Sir Theagaraya College, Chennai",
+      "year": 2020
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Finix Payments",
+      "description": "Banking Domain",
+      "role": "Production Support",
+      "metrics": "Improved operational efficiency by 30%",
+      "technologies": [
+        "SQL Developer",
+        "ServiceNow",
+        "ITRS Geneos",
+        "Autosys",
+        "WinSCP",
+        "PuTTY",
+        "Splunk"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Vector Capital",
+      "description": "Investment Banking Domain",
+      "role": "Production Support",
+      "metrics": "",
+      "technologies": [
+        "SQL Developer",
+        "Jira",
+        "Dynatrace",
+        "Control-M",
+        "WinSCP",
+        "PuTTY",
+        "Splunk"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [
+    "Banking",
+    "Investment Banking"
+  ],
+  "opensearch_success": true,
+  "processing_time": 12.817433595657349,
+  "s3_key": "raw/70 profiles/SURIYA M.docx",
+  "file_type": "docx",
+  "original_filename": "SURIYA M.docx"
+}

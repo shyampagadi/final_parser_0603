@@ -1,0 +1,199 @@
+{
+  "resume_id": "a3ed8fbe-136b-4cfb-bac0-cccf1c55af64",
+  "full_name": "Lakkoji Brahmam",
+  "name": "Lakkoji Brahmam",
+  "email": "lakkoji.brahmam02@gmail.com",
+  "phone_number": "+91 9573276252",
+  "address": "Hyderabad, Telangana",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "Having 6+ years of IT experience as Data Engineer. Involved in Development, Analysis, and Implementation of Data warehousing Technology by using ETL tools like Azure services in Cloud, Informatica Cloud/power-center.",
+  "total_experience": 6.1,
+  "skills": [
+    "Azure Data Factory (ADF)",
+    "Azure Databricks",
+    "Informatica Cloud Data Integration",
+    "Informatica Cloud Application Integration",
+    "Informatica Power Center 9.x/10.x",
+    "AWS DMS",
+    "Snowflake",
+    "ADLS Gen2",
+    "Oracle 11g",
+    "AWS Aurora",
+    "AWS Redshift",
+    "SQL Server",
+    "AWS S3",
+    "Python",
+    "Unix",
+    "Airflow",
+    "Control M",
+    "Tableau",
+    "Windows",
+    "Azure repos",
+    "Github",
+    "Azure pipelines"
+  ],
+  "positions": [
+    "Data Engineer",
+    "ETL Developer",
+    "Consultant"
+  ],
+  "companies": [
+    {
+      "name": "Inspire Brands HSC",
+      "role": "Data Engineer",
+      "description": "Media Optimization, Customer identification, Customer, Migration project",
+      "duration": "Aug, 2023 to Present",
+      "technologies": [
+        "Azure Data Factory (ADF)",
+        "ADLS Gen2",
+        "Databricks",
+        "PySpark",
+        "PySQL",
+        "Snowflake",
+        "Airflow",
+        "Python",
+        "Github Co-Pilot"
+      ]
+    },
+    {
+      "name": "IT Crats Info Solutions",
+      "role": "ETL Developer",
+      "description": "Resonant (Globe Life)",
+      "duration": "May, 2022 to June 2023",
+      "technologies": [
+        "IICS Data Integration",
+        "IICS Application Integration",
+        "AWS Aurora",
+        "AWS Redshift",
+        "SQL Server",
+        "AWS S3"
+      ]
+    },
+    {
+      "name": "Resource square solutions",
+      "role": "ETL Developer",
+      "description": "Zurich Insurance Account",
+      "duration": "April, 2019 to May, 2022",
+      "technologies": [
+        "IICS 2020",
+        "Informatica 10.2",
+        "Oracle 11g"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master’s in Mechatronics",
+      "institution": "IIEST, Shibpur",
+      "year": 0
+    },
+    {
+      "degree": "Bachelor’s in Mechanical Engineering",
+      "institution": "Narayana Engineering College, Nellore",
+      "year": 0
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Media Optimization",
+      "description": "Worked with various media files received from different vendors like Publicis, Nielsen, Cadlytics, Initiative, Doordash and UberEATS.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure Data Factory (ADF)",
+        "ADLS Gen2",
+        "Databricks",
+        "PySpark",
+        "PySQL",
+        "Snowflake",
+        "Airflow",
+        "Python",
+        "Github Co-Pilot"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Customer Identification",
+      "description": "Worked with different customers data like Un-known, Known and Guest customers.",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure Data Factory (ADF)",
+        "ADLS Gen2",
+        "Databricks",
+        "PySpark",
+        "PySQL",
+        "Snowflake",
+        "Airflow",
+        "Python",
+        "Github Co-Pilot"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Customer",
+      "description": "Worked with Loyalty customer data from various source systems like Epsilon, Paytronix, Braze for different brands (i.e Arbys, BWW, JJ, Dunkin, Sonic)",
+      "role": "Data Engineer",
+      "metrics": "",
+      "technologies": [
+        "Azure Data Factory (ADF)",
+        "ADLS Gen2",
+        "Databricks",
+        "PySpark",
+        "PySQL",
+        "Snowflake",
+        "Airflow",
+        "Python",
+        "Github Co-Pilot"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Resonant (Globe Life)",
+      "description": "Worked on Informatica Cloud with data integration, Application Integration, Mass Ingestion, Monitor.",
+      "role": "ETL Developer",
+      "metrics": "",
+      "technologies": [
+        "IICS Data Integration",
+        "IICS Application Integration",
+        "AWS Aurora",
+        "AWS Redshift",
+        "SQL Server",
+        "AWS S3"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "Zurich Insurance Account",
+      "description": "Worked on Informatica Power Center 10.2.0 for extraction, transformation and load (ETL) of data in the data warehouse.",
+      "role": "ETL Developer",
+      "metrics": "",
+      "technologies": [
+        "IICS 2020",
+        "Informatica 10.2",
+        "Oracle 11g"
+      ],
+      "duration_months": 0
+    },
+    {
+      "name": "UMR (United Medical Resource)",
+      "description": "Created ETL mappings using Informatica Power Center to move Data from multiple sources like Flat files, Oracle into a common target area such as Staging, Data Warehouse and Data Marts",
+      "role": "ETL Developer",
+      "metrics": "",
+      "technologies": [
+        "Informatica 9.x",
+        "Oracle 11g"
+      ],
+      "duration_months": 0
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 28.46107530593872,
+  "s3_key": "raw/70 profiles/Naukri_Brahmam[6y_1m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_Brahmam[6y_1m].pdf"
+}

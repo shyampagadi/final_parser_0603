@@ -1,0 +1,76 @@
+{
+  "resume_id": "a38e3723-60e9-42e0-aa35-cbd593269d6f",
+  "full_name": "Pradeep Kumar",
+  "name": "Pradeep Kumar",
+  "email": "infopradeep21@gmail.com",
+  "phone_number": "+91 9550225280",
+  "address": "Hyderabad, INDIA",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "ETL Developer having 9 years of experience, with 3 years in Development and 6 years in Production control at Dish Network technologies.",
+  "total_experience": 9.0,
+  "skills": [
+    "AWS Glue",
+    "AWS EMR",
+    "Airflow",
+    "Informatica",
+    "SQL",
+    "Data Warehousing",
+    "UNIX",
+    "Control-M",
+    "Github",
+    "GIT",
+    "Servicenow",
+    "Python",
+    "AWS Lambda",
+    "AWS IAM"
+  ],
+  "positions": [
+    "Software Engineer",
+    "Senior Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Carelon",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "05/2020-10/2022",
+      "technologies": []
+    },
+    {
+      "name": "TetraSoft",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "03/2016-05/2020",
+      "technologies": []
+    },
+    {
+      "name": "DISH Network Technologies",
+      "role": "Software Engineer",
+      "description": "",
+      "duration": "01/2011-09/2022",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institution": "JNTU College of Engineering, Hyderabad",
+      "year": 2020
+    },
+    {
+      "degree": "B.Sc",
+      "institution": "Kakatiya University",
+      "year": 2016
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 10.20715069770813,
+  "s3_key": "raw/70 profiles/Naukri_Pradeepkumar[9y_0m].pdf",
+  "file_type": "pdf",
+  "original_filename": "Naukri_Pradeepkumar[9y_0m].pdf"
+}

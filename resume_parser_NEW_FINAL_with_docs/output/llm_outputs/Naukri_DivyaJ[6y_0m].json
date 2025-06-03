@@ -1,0 +1,168 @@
+{
+  "resume_id": "13d9acca-8cff-4aa6-8c73-6ee220698ead",
+  "full_name": "Divya J",
+  "name": "Divya J",
+  "email": "divyasreejakkannagari@gmail.com",
+  "phone_number": "9160859460",
+  "address": "Minneapolis Minnesota",
+  "linkedin": "",
+  "linkedin_url": "",
+  "summary": "A seasoned professional with 6+ years of extensive experience in the design, development, production support, and administration of data integration and ETL solutions.",
+  "total_experience": 6.0,
+  "skills": [
+    "Informatica Power Center",
+    "Informatica Intelligent Data Management Cloud (IDMC)",
+    "Snowflake",
+    "DBT",
+    "Azure Data Factory (ADF)",
+    "SQL",
+    "PL/SQL",
+    "Python",
+    "shell script",
+    "AWS",
+    "Control-M",
+    "CA workload automation",
+    "Oracle 11g",
+    "db2",
+    "SQL Server",
+    "Teradata",
+    "Windows 10",
+    "Linux",
+    "Oracle SQL Developer",
+    "MS SQL Server 2008 Management Studio",
+    "WinSCP",
+    "JIRA",
+    "Query Surge",
+    "ServiceNow",
+    "Git hub",
+    "Azure DevOps",
+    "Goldengate",
+    "Delphix",
+    "Commvault"
+  ],
+  "positions": [
+    "Informatica PC/IDMC and Snowflake Developer",
+    "Informatica PC/IICS Developer",
+    "Informatica PC, Developer & Prod Support Engineer"
+  ],
+  "companies": [
+    {
+      "name": "Capgemini",
+      "role": "Informatica PC/IDMC and Snowflake Developer",
+      "description": "Allianz Technology of America Inc (ATA/Allianz Life) provides annuities and life insurance products in the United States.",
+      "duration": "04/2022-04/2023",
+      "technologies": [
+        "Informatica Power Center",
+        "IICS",
+        "Snowflake",
+        "DBT",
+        "ADF",
+        "Aws",
+        "Oracle SQL",
+        "SQL Server",
+        "CA workload automation",
+        "Unix",
+        "Query surge",
+        "pl/SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "role": "Informatica PC/IICS Developer",
+      "description": "Revenue Mart - Autodesk, Inc. is an American multinational corporation that focuses on 3D design software for use in the architecture, engineering, construction, manufacturing, media, and entertainment industries.",
+      "duration": "05/2020-04/2022",
+      "technologies": [
+        "Informatica PowerCenter",
+        "IICS",
+        "IDQ",
+        "Oracle SQL",
+        "SQL Server",
+        "SAP BO",
+        "Qlikview",
+        "pl/sql",
+        "Unix"
+      ]
+    },
+    {
+      "name": "ANZ – Australia &New Zealand Banking Group",
+      "role": "Informatica PC, Developer & Prod Support Engineer",
+      "description": "RIS is known as Risk information Store. It is a data warehouse system containing Risk information of the Bank for ex. Credit Default Risk, Market Risk and Border Risk depending on which ratings will be given to bank customer in turn which stored in RIS.",
+      "duration": "04/2018-04/2020",
+      "technologies": [
+        "Informatica PowerCenter",
+        "Control M",
+        "Oracle",
+        "SQL Server",
+        "Fermat",
+        "Moody's Analytics"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Allianz Technology of America Inc (ATA/Allianz Life)",
+      "description": "Upgrade of ALIP 2.0 RILA application for the variable annuities and its corresponding upstream and downstream systems in Agile methodology.",
+      "role": "Informatica PC/IDMC and Snowflake Developer",
+      "metrics": [],
+      "technologies": [
+        "Informatica Power Center",
+        "IICS",
+        "Snowflake",
+        "DBT",
+        "ADF",
+        "Aws",
+        "Oracle SQL",
+        "SQL Server",
+        "CA workload automation",
+        "Unix",
+        "Query surge",
+        "pl/SQL",
+        "Python"
+      ],
+      "duration_months": 12
+    },
+    {
+      "name": "Revenue Mart - Autodesk, Inc.",
+      "description": "Develop Data Marts for Revenue and Deferred Revenue for different products and generate reports.",
+      "role": "Informatica PC/IICS Developer",
+      "metrics": [],
+      "technologies": [
+        "Informatica PowerCenter",
+        "IICS",
+        "IDQ",
+        "Oracle SQL",
+        "SQL Server",
+        "SAP BO",
+        "Qlikview",
+        "pl/sql",
+        "Unix"
+      ],
+      "duration_months": 24
+    },
+    {
+      "name": "RIS - Risk information Store",
+      "description": "Develop ETL mapping from heterogeneous source to data warehouse layer.",
+      "role": "Informatica PC, Developer & Prod Support Engineer",
+      "metrics": [],
+      "technologies": [
+        "Informatica PowerCenter",
+        "Control M",
+        "Oracle",
+        "SQL Server",
+        "Fermat",
+        "Moody's Analytics"
+      ],
+      "duration_months": 24
+    }
+  ],
+  "achievements": [],
+  "industries": [],
+  "opensearch_success": true,
+  "processing_time": 24.547352075576782,
+  "s3_key": "raw/70 profiles/Naukri_DivyaJ[6y_0m].doc",
+  "file_type": "doc",
+  "original_filename": "Naukri_DivyaJ[6y_0m].doc"
+}
